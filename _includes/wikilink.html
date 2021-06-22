@@ -1,0 +1,1 @@
+{% assign content=content | regex_replace: '\[\[((\d\d\d\d)-(\d\d)-(\d\d)-(.*))\]\]', '<a href="/\2/\3/\4/\5.html">\5</a>' %}
