@@ -39,7 +39,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-regex-replace (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.7.1)
@@ -97,7 +96,6 @@ DEPENDENCIES
   html-proofer (= 3.19.1)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.12)
-  jekyll-regex-replace
   kramdown-parser-gfm
   no-style-please
   rake (= 13.0.3)
