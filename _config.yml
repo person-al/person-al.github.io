@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: person72443
 github_username:  its-person-time
+disclaimer: Every post on this blog is a work in progress. Phrasing may be less than ideal, ideas may not yet be fully thought through. Thank you for watching me grow.
 
 # Build settings
 theme: no-style-please
@@ -37,17 +38,24 @@ theme_config:
   home_date_format: "%Y.%m.%d" # customize how date is formatted
   show_description: false # show blog description in home page
 
-feed:
-  tags: true
-
 plugins:
   - jekyll-feed
+
+feed:
+  categories:
+    - ❔
+    - 🌰
+    - 🌱
+    - 🌳
+    - 🌲
 
 vault:
   path: "_vault/" # Path to the Obsidian vault root. Markdown file discovery will start at this directory recursively.
   asset_path: "_vault/assets/" # Path to the Obsidian vault attachments folder
   excluded_subdirectories: # Optional: list of excluded subdirectories of the Obsidian vault root
           - .trash
+          - .obsidian
+          - templates
 output:
   post_output_path: "_posts/" # Path to the Jekyll or Hugo posts directory
   asset_output_path: "assets/" # Path to the blog assets directory, copied from the Obsidian attachments folder

@@ -6,6 +6,7 @@ layout: default
   {%-if site.theme_config.show_description-%}
     <p>{{ site.description }}</p>
   {%-endif-%}
+  {{site.disclaimer}}
 </header>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}

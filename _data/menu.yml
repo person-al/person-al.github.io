@@ -2,11 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: rss
-    url: feed.xml
+  - title: "rss feeds: <a href='feed.xml'>all posts</a> | 
+            <a href='feed/❔.xml'>❔</a> | 
+            <a href='feed/🌰.xml'>🌰</a> | 
+            <a href='feed/🌱.xml'>🌱</a> | 
+            <a href='feed/🌳.xml'>🌳</a> | 
+            <a href='feed/🌲.xml'>🌲</a>"
   - title: twitter
     url: https://twitter.com/person72443
-
+  - title: navigating the brainforest
+    url: about.html
   - title: all posts
     post_list:
       limit: 30
