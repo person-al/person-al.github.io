@@ -96,6 +96,7 @@ DEPENDENCIES
   html-proofer (= 3.19.1)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   kramdown-parser-gfm
   no-style-please
   rake (= 13.0.3)
