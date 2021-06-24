@@ -3,6 +3,8 @@ layout: post
 category: 🌱
 date: 2021-06-09
 status: published
+tags: nft
+edited: 2021-06-22
 ---
 There is a huge hole in NFTs right now: they require too much trust. NFT best practices necessitate storing a proof on the blockchain that allows the system to validate all metadata attached to the NFT.
 

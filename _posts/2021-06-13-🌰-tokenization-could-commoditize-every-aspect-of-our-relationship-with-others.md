@@ -3,6 +3,8 @@ layout: post
 category: 🌰
 date: 2021-06-13
 status: published
+tags: nft
+edited: 2021-06-22
 ---
 - In The Token Society, Poleg talks about how carpooling, picking someone up from the airport, crashing on someone's couch. These all used to be purely relational favors. You needed to know someone to get help. If no one was available, you were stuck. But if someone was, it's free help and an increased relational bond. The internet enabled us to pay for these favors, it commoditized them.
 - Now we even see the beginning of people being paid for nothing: like the [Japanese man paid to hang out with people](https://www.msn.com/en-xl/news/other/japanese-man-gets-paid-for-doing-nothing/ar-BB1duJVh).
