@@ -1,4 +1,4 @@
 #!/bin/bash
 
 rm -f _posts/*
-obyde -c _config.yml
+obyde -c obyde_config.yml
