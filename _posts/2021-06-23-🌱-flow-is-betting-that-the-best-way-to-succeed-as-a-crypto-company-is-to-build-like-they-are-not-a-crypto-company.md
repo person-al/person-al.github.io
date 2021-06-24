@@ -20,5 +20,6 @@ Flow is making a bet, in other words, that if they can be the platform that Big 
 - [[🌰 Flow wants to be Stripe not Spotify]]
 
 **Inspired by:** [Rarible + Flow partnership announcement](https://rarible.medium.com/nfts-for-everyone-rarible-raises-14-2-million-88abee23b764)
+
 **Related to:** [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}), [[NFT]]
 
