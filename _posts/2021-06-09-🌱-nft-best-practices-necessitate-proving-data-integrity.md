@@ -2,6 +2,7 @@
 layout: post
 category: 🌱
 date: 2021-06-09
+status: published
 ---
 There is a huge hole in NFTs right now: they require too much trust. NFT best practices necessitate storing a proof on the blockchain that allows the system to validate all metadata attached to the NFT.
 
@@ -17,4 +18,4 @@ This creates a series of bad outcomes:
 There's a very simple solution to this:
 - store a validation hash of the file on the blockchain. It won't fully solve 1, but in the event of 2 & 3, you can at least validate that the contents of the file are identical to what the NFT creator originally intended.
 
-**Related to:** [NFT]
+**Related to:** [[NFT]]
