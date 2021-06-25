@@ -2,6 +2,7 @@
 layout: post
 category: 🌱
 date: 2021-06-24
+title: 🌱 it doesn't need to be blockchain
 status: draft
 tags: blockchain
 ---
