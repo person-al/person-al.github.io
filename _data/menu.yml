@@ -17,5 +17,5 @@ entries:
     post_list:
       limit: 30
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See more...
       show_more_url: archive.html
