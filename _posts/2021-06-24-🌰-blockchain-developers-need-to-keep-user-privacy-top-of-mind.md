@@ -1,6 +1,6 @@
 ---
 layout: post
-category: ❔|🌰|🌱|🌳|🌲
+category: 🌰
 date: 2021-06-24
 status: draft
 tags: personal-philosophy, blockchain
