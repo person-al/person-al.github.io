@@ -29,9 +29,8 @@ li { margin: 0.4rem 0 !important; }
   width: fit-content !important;
   max-width: 640px !important;
   margin: 0 auto !important;
-  padding: 4rem 2rem !important;
-  @media only screen and (max-width: 800px) {
-    padding: 1rem 2rem !important;
+  @media only screen and (min-width: 800px) {
+    padding-top: 4rem !important;
   }
 }
 
