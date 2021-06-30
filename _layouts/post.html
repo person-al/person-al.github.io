@@ -20,5 +20,5 @@ layout: default
   <mark>{{site.disclaimer}}</mark>
 
 
-  <p><a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url| url_encode}}">comment</a></p>
+  <p><a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">comment</a></p>
 </article>
