@@ -4,6 +4,7 @@ category: ❔
 date: 2021-06-13
 status: published
 edited: 2021-06-22
+tags: personal-philosophy
 ---
 Greenlight is an app that, amongst other things, allows parents to automatically give kids their allowance if they do a certain number of chores. This leads me to wonder:
 
