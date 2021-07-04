@@ -48,6 +48,10 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
+.footnotes {
+  border-top: thin solid;
+}
+
 table { width: 100% !important; }
 
 table, th, td {
