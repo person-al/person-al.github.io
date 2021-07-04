@@ -9,4 +9,5 @@ edited: 2021-06-22
 - Here spiritual means relating to the aspect of the self that we perceive as being metaphysical. Things like "happiness", "belonging", etc.
 
 **Inspired by:** [The Token Society](https://www.drorpoleg.com/the-token-society/)
+
 **Related to:** [❔ How do you turn a transactional relationship to a communal one]({% post_url 2021-06-13-❔-how-do-you-turn-a-transactional-relationship-to-a-communal-one %})
