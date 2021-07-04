@@ -7,7 +7,8 @@ This blog is an experiment in thinking out loud in the [Zettlekasten](https://en
 
 The goal is to post my thoughts as they come, and update them as they germinate and grow. As ideas generate related ideas, I will link between them. You can start anywhere you'd like in this brainforest and navigate the relationships. Or you can read them in chronological order.
 
-There are 5 categories:
+There are 6 categories:
+- 🗨️: A quote that I find particularly interesting or worth remembering
 - ❔: Open-ended questions I want to explore
 - 🌰: A seed of an idea, something small and not fully thought-through. (Technically, yes, that is the chestnut emoji.)
 - 🌱: The idea has begun to grow and form.
