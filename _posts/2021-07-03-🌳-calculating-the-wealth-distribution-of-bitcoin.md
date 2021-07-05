@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 🌱
+category: 🌳
 date: 2021-07-03
 status: draft
 tags: bitcoin, crypto

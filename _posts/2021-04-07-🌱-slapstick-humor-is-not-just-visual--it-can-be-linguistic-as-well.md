@@ -36,7 +36,7 @@ Granted, it's not always a clear genre to define. Here's another Adam's quote:
 >
 > source: [[Adams, Douglas]] [[The Hitchhiker's Guide to the Galaxy]]
 
-- does this qualify as slapstick? It's unexpected and goofy. It might be a stretch to say that it conjures a slapstick image in one's mind, though in a way it does invite you to imagine Wil E. Coyote hovering briefly in the air on a pile of bricks before plummeting to the ground.
+- does this qualify as slapstick? It's unexpected and goofy. It might be a stretch to say that it conjures a slapstick image in one's mind, though in a way it does invite you to imagine Wile E. Coyote hovering briefly in the air on a pile of bricks before plummeting to the ground.
 
 **What do you think?** Does it make sense to describe any genre of written humor as "slapstick"? Do other authors come to mind for you? I'd love recommendations.
 
