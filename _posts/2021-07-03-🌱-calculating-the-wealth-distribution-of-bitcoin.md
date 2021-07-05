@@ -111,7 +111,7 @@ Glassnode has done a more qualitative/clustering analysis to focus on entities i
 
 > We can derive that around 2% of network entities control 71.5% of all Bitcoin.[^2] 
 
-Amusingly our estimate is somewhere in the middle: 2-4% of addresses hold 80-90% of the BTC.
+It's nice to see that our estimate is somewhere in the middle: 2-4% of addresses hold 80-90% of the BTC. This suggests that we're not missing something major in our analysis above.
 
 [^2]: It's incredible to me that they've titled this article "No, Bitcoin Ownership is not Highly Concentrated" when their resulting estimation is that 2% of entities hold 70% of existing BTC. That, uh, still sounds _incredibly concentrated_, Glassnode. Again, in the US the Top 10% owns 69% of the wealth and it's arguably tearing our country apart.
 
