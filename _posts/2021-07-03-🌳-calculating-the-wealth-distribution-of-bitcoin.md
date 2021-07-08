@@ -2,7 +2,7 @@
 layout: post
 category: 🌳
 date: 2021-07-03
-status: draft
+status: published
 tags: bitcoin, crypto
 ---
 Tim Bray recently wrote a [small piece](https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin) on why he's skeptical about Bitcoin. When you spend as much time in crypto circles as I do, it's important to take a step back every now and again and assess the criticisms. While working on a longer piece that explores Bray's opinion in detail, I ran into a question: what is the wealth distribution of Bitcoin? Even though Bitcoin is an extremely public blockchain with serious privacy concerns[^1], calculating the wealth distribution is not easy. 

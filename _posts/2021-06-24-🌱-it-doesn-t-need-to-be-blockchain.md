@@ -3,7 +3,7 @@ layout: post
 category: 🌱
 date: 2021-06-24
 title: 🌱 it doesn't need to be blockchain
-status: draft
+status: published
 tags: blockchain
 ---
 A reminder that developers everywhere are exploring different solutions to the same problems.

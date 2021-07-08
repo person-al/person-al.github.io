@@ -2,8 +2,8 @@
 layout: post
 category: 🌰
 date: 2020-03-20
-status: draft
-tags:
+status: published
+tags: note-taking
 ---
 It's funny how much this relates to a concept I've heard in tech a lot: [[🌰 If your product is absolutely perfect when you launch it, you launched too late.]]
 

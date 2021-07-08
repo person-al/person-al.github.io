@@ -2,7 +2,7 @@
 layout: post
 category: 🗨️
 date: 2021-06-27
-status: draft
+status: published
 tags:
 ---
 > A dog always bit deepest on the veterinary hand.

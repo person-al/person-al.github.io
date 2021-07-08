@@ -2,7 +2,7 @@
 layout: post
 category: 🌰
 date: 2021-04-03
-status: draft
+status: published
 ---
 It rings so true to me that democracy must be communally built, fiercely protected, and lovingly repaired. All of that demands constant work from its occupants.
 

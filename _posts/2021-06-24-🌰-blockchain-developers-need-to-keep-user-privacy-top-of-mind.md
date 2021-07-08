@@ -2,7 +2,7 @@
 layout: post
 category: 🌰
 date: 2021-06-24
-status: draft
+status: published
 tags: personal-philosophy, blockchain
 ---
 Sometimes blockchain developers forget the risks of public data. Bitcoin is a literal ledger of who has paid money to whom. Addresses are not anonymous, they're pseudonymous. And the [difference is massive](https://www.thegatewaypundit.com/2021/05/internet-sleuths-find-joe-bidens-secret-venmo-account-less-10-minutes-causing-potential-national-security-issue/).

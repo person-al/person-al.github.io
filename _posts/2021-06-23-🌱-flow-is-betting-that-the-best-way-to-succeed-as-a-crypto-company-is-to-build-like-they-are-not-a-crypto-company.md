@@ -2,7 +2,7 @@
 layout: post
 category: 🌱
 date: 2021-06-23
-status: draft
+status: published
 tags: flow, nft
 ---
 Today Rarible [announced a $14M funding round](https://rarible.medium.com/nfts-for-everyone-rarible-raises-14-2-million-88abee23b764). Hidden below the fold was a secondary announcement: Rarible will build on [Flow](https://www.onflow.org/primer) next.

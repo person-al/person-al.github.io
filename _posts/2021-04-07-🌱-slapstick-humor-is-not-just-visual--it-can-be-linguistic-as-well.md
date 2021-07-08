@@ -2,7 +2,8 @@
 layout: post
 category: 🌱
 date: 2021-04-07
-status: draft
+status: published
+tags: humor, art
 ---
 Unsorted thoughts on what I've decided to call "linguistic slapstick" or "slapstick sentence structure."
 
