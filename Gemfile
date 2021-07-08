@@ -12,6 +12,7 @@ gem "jekyll", "~> 3.9.0"
 gem "no-style-please"
 gem "kramdown-parser-gfm"
 gem 'jekyll-seo-tag'
+gem 'jekyll-redirect-from'
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -19,6 +20,7 @@ gem 'jekyll-seo-tag'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   "jekyll-seo-tag"
+  "jekyll-redirect-from"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
