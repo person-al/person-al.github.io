@@ -2,6 +2,7 @@
 layout: post
 category: ❔
 date: 2021-07-06
+edited: 2021-07-07
 status: published
 tags: art
 ---
