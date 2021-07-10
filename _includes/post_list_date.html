@@ -1,0 +1,7 @@
+{%-assign post = include.post-%}
+
+{% if post.last_modified_at %}
+	<span>{{- post.last_modified_at | date: site.theme_config.home_date_format -}}</span> <span style="text-decoration: line-through;">{{- post.date | date: site.theme_config.home_date_format -}}</span>
+{% else %}
+	<span>{{- post.date | date: site.theme_config.home_date_format -}}</span>
+{% endif %}

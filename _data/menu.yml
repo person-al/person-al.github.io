@@ -14,6 +14,8 @@ entries:
             <a href='feed/🌲.xml'>🌲</a>"
     - title: twitter
       url: https://twitter.com/person72443
+  - title: posts updated this week
+    url: this-week.html
   - title: all posts
     post_list:
       limit: 10

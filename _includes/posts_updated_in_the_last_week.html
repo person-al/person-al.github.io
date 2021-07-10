@@ -1,0 +1,20 @@
+{% assign timeframe = 604800 %}
+
+{%  if site.posts.size > 0%}
+  <ul>
+  </ul>
+
+  {% for post in site.posts %}
+    {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
+    {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
+    {% if post_in_seconds > recent_posts %}
+      <li>
+          <span>{{- post.last_modified_at | date: site.theme_config.home_date_format -}}</span>
+          <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
+      </li>
+    {% endif %}
+        
+{%- endfor -%}
+
+  
+{% endif %}
