@@ -1,7 +1,9 @@
 ---
 layout: post
 category: 🌰
-date: 2021-07-07
+date: 2021-06-19
+last_modified_at: 2021-07-08
+redirect_from: ["/🌰/2021/07/07/human-beings-need-to-feel-understood.html"]
 status: published
 tags: psychology, social media
 ---

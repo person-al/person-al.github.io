@@ -9,7 +9,7 @@ layout: default
     <time class="no-formatting" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
     {%- if page.edited -%}
     <br>
-    Last Tended: <time datetime="{{ page.edited }}">{{ page.edited | date: site.theme_config.date_format }}</time>
+    Last Tended: <time datetime="{{ page.last_modified_at }}">{{ page.edited | date: site.theme_config.date_format }}</time>
     {%- endif -%}
   </p>
   
