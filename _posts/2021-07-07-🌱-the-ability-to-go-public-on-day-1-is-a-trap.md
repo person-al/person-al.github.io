@@ -2,6 +2,7 @@
 layout: post
 category: 🌱
 date: 2021-07-07
+modified: 2021-07-23
 status: published
 tags: blockchain, investing
 ---
@@ -22,6 +23,9 @@ Another great way to glean the impact of going public so early is to look at pro
 > Any other ideas to provide YUP a new use case, comment it down.
 
 Is that what you want your users and your board[^board] focused on at such an early stage? I doubt it. It makes me wonder if [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}) is right in locking down who can buy their tokens for now.
+
+**Update, Fri Jul 23 2021:** Packy McCormick recently brought up the same point in his article [Infinity Revenue, Infinity Possibilities](https://www.notboring.co/p/infinity-revenue-infinity-possibilities)
+> Jiho pointed out the paradox in building communities at scale: The community needs to be small first to work when it gets really big. That’s what makes Axie hard to copy -- if you build a competitor now, you’re going to attract the kind of people who want to find the next Axie, not the kind of people who are actually interested in moving gaming forward.
 
 [^board]: After all, launching a governance token basically means you've gone public and made your user base your board.
 
