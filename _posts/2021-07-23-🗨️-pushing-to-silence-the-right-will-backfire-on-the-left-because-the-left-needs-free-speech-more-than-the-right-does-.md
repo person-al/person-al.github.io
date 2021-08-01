@@ -17,5 +17,3 @@ With the Delta variant surging, with QAnon supporters in the Capitol building, e
 Note: it's worth thinking about [[❔ Why can't folks contextualize 'fact' media anymore]]
 
 **Source:** [The Left Needs Free Speech](https://www.dissentmagazine.org/article/the-left-needs-free-speech)
-**Inspired by:**
-**Related to:**
