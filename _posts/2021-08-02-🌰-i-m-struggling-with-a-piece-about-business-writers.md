@@ -2,6 +2,7 @@
 layout: post
 category: 🌰
 date: 2021-08-02
+title: 🌰 I'm struggling with a piece about business writers
 tags:
 ---
 I'm struggling with a piece entitled [[🌱 business writers do themselves and their readers a disservice by not thinking about society]]. I have a lot of thoughts on the topic.
