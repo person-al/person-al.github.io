@@ -2,7 +2,6 @@
 layout: post
 category: 🗨️
 date: 2021-07-23
-tags:
 ---
 
 This was the thesis of the article [The Left Needs Free Speech](https://www.dissentmagazine.org/article/the-left-needs-free-speech). The article argues that while the right will claim the left have more power, it's not true. The left only has power in universities and certain types of educated circles and densely populated areas. The right has significantly more power than the left over the government and K-12 education. In order to fight the battle of ideas where it matters, the left will need free speech. Pushing to create boundaries will only shoot ourselves in the foot.
