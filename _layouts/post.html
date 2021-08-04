@@ -7,9 +7,9 @@ layout: default
 <article>
   <p class="post-meta">
     <time class="no-formatting" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
-    {%- if page.edited -%}
+    {%- if page.last_modified_at -%}
     <br>
-    Last Tended: <time datetime="{{ page.last_modified_at }}">{{ page.edited | date: site.theme_config.date_format }}</time>
+    Last Tended: <time datetime="{{ page.last_modified_at }}">{{ page.last_modified_at | date: site.theme_config.date_format }}</time>
     {%- endif -%}
   </p>
   
