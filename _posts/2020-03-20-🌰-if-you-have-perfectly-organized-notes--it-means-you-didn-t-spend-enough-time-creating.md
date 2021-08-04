@@ -2,6 +2,7 @@
 layout: post
 category: 🌰
 date: 2020-03-20
+title: 🌰 if you have perfectly organized notes, it means you didn't spend enough time creating
 status: published
 tags: note-taking
 ---
