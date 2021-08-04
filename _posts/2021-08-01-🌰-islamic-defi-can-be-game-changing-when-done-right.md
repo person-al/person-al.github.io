@@ -12,7 +12,7 @@ That's what makes crypto so game-changing. The ability to do market-making or mi
 
 The TAM here is huge, and designing a crypto checking account that earns you money via staking or liquidity pools etc etc is pretty straightforward compared to what it would take in fiat. Crypto companies have an opportunity here. An opportunity [not all DeFi companies are interested in]({% post_url 2021-08-01-🗨️-origin-and-halal-investing %}). I look forward to seeing who cracks the use-case first.
 
-[^1]: I cannot in good conscience currently describe anything crypto as low-risk. But the _concept_ of making money off of transaction fees is a low-risk investment _concept_. If you were liquidity mining a eCNY/eUSD pair in the year 2050, that would feel relatively low-risk.
+[^1]: I cannot in good conscience currently describe anything crypto as low-risk, so for now I'm calling this category "medium-risk, medium-reward". But the _concept_ of making money off of transaction fees is a low-risk investment _concept_. If you were liquidity mining a eCNY/eUSD pair in the year 2050, it would likely feel like a low-risk medium-reward investment.
 
 - **Inspired by:** [DeFi can be halal but not DOGE Decentralizing Islamic finance](https://cointelegraph.com/magazine/2021/07/16/defi-can-be-halal-but-not-doge-decentralizing-islamic-finance)
 - **Related to:**
