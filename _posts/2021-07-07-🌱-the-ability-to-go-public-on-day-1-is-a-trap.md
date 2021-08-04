@@ -2,7 +2,7 @@
 layout: post
 category: 🌱
 date: 2021-07-07
-modified: 2021-07-23
+last_modified_at: 2021-07-23
 status: published
 tags: blockchain, investing
 ---
