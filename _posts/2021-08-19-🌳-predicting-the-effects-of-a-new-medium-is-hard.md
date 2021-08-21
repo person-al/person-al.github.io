@@ -1,7 +1,8 @@
 ---
 layout: post
-category: 🌱
-title: 🌱 predicting the effects of a new medium is hard
+category: 🌳
+title: 🌳 predicting the effects of a new medium is hard
+redirect_from: ["/🌱/2021/08/19/predicting-the-effects-of-a-new-medium-is-hard.html"]
 date: 2021-08-19
 last_modified_at: 2021-08-20
 tags:
@@ -53,7 +54,7 @@ is like playing a game of telephone with yourself. If the world takes a hard lef
 - [Krugment is Wrong about the Internet. Again.](https://www.drorpoleg.com/krugman-is-wrong-about-the-internet-again/)
 - [Novels can be used to predict geopolitical conflict 5 years in advance](https://www.theguardian.com/lifeandstyle/2021/jun/26/project-cassandra-plan-to-use-novels-to-predict-next-war)
 - Potential blog posts:
-	- [[🌰 NFTs change how we create]]
+	- [🌱 NFTs change how we create]({% post_url 2021-08-21-🌱-nfts-change-how-we-create %})
 	- [[❔ How can we predict how a new medium will affect current media]]
 	- [[❔ What is an example of a medium change that led to a media change]]
 
