@@ -6,7 +6,7 @@ date: 2021-08-23
 last_modified_at:
 tags: nft
 ---
-Cointelegraph recently wrote an article entitled "[[Blockchain tech is holding NFTs back because of these three design flaw[Blockchain tech is holding NFTs back because of these three design flaws](https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)]", which almost nails the problem with NFTs, but not quite.
+Cointelegraph recently wrote an article entitled "[Blockchain tech is holding NFTs back because of these three design flaw[Blockchain tech is holding NFTs back because of these three design flaws](https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)(https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)", which almost nails the problem with NFTs, but not quite.
 
 The article argues that the three "blockchain" problems holding NFTs back are:
 1. The images aren't stored on the blockchain. Making what you actually own unclear at best, and hackable and lossy at worst.
@@ -30,6 +30,6 @@ And OpenSea and Rarible can inherit from _that_ smart contract in their own cont
 It really comes down to this. **Not everything that _should_ be stored on the blockchain is being stored on the blockchain.** And we need to change that.
 
 - **Inspired by:** 
-	- [[Blockchain tech is holding NFTs back because of these three design flaw[Blockchain tech is holding NFTs back because of these three design flaws](https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)]
+	- [Blockchain tech is holding NFTs back because of these three design flaw[Blockchain tech is holding NFTs back because of these three design flaws](https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)(https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)
 - **Related to:**
 	- [🌱 NFT best practices necessitate proving data integrity]({% post_url 2021-06-09-🌱-nft-best-practices-necessitate-proving-data-integrity %})
