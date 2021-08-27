@@ -3,6 +3,7 @@ layout: post
 category: 🗨️
 title: 🗨️ Black people are incorrectly assumed "poor" until proven otherwise
 date: 2021-08-09
+last_modified_at: 2021-08-26
 tags:
 ---
 The thesis of [this article](https://www.currentaffairs.org/2021/07/who-actually-gets-to-create-black-pop-culture) is as follows:
@@ -24,4 +25,5 @@ A few quotes from the article:
 > Being Black and from poverty, I am what white Americans imagine they are learning about and "standing in solidarity" with when they imbibe popular culture's Black offerings. But it never occurs to them that Whitehead and Gay come from a very different class to begin with, and are not necessarily standing in real solidarity with me.
 
 - **Related to:**
+	- [Good Immigrant Novels](https://www.thedriftmag.com/good-immigrant-novels/)
 	- [❔ What would a self-exploratory class in art appreciation look like]({% post_url 2021-07-06-❔-what-would-a-self-exploratory-class-in-art-appreciation-look-like %})
