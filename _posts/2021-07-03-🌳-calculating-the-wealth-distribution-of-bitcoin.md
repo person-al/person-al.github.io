@@ -2,9 +2,13 @@
 layout: post
 category: 🌳
 date: 2021-07-03
+last_modified_at: 2021-09-06
 status: published
 tags: bitcoin, crypto
 ---
+**September 2021 Update:** In August, Bitcoin chain analyst Willy Woo reported that our 🐬🦈🐋 categories below collectively [ hold 25% of available Bitcoin](https://twitter.com/woonomic/status/1425743947142373378?ref_src=person72443). My analysis below done in July 2021 calculated that the category held 42% of all coins. It's unclear from Willy's tweet how many entities are in the 🐬🦈🐋 (aka "What percentage of the population holds that 42% of BTC"). My best guess is 0.01% of addresses, but I don't have the data Glassnode does to convert addresses into human entities. Read on for my analytical process and conclusions from July.
+<hr/>
+
 Tim Bray recently wrote a [small piece](https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin) on why he's skeptical about Bitcoin. When you spend as much time in crypto circles as I do, it's important to take a step back every now and again and assess the criticisms. While working on a longer piece that explores Bray's opinion in detail, I ran into a question: what is the wealth distribution of Bitcoin? Even though Bitcoin is an extremely public blockchain with serious privacy concerns[^1], calculating the wealth distribution is not easy. 
 
 [^1]: see [🌰 blockchain developers need to keep user privacy top of mind]({% post_url 2021-06-24-🌰-blockchain-developers-need-to-keep-user-privacy-top-of-mind %})
@@ -122,4 +126,4 @@ This distribution sounds bad, and a question for another blog post would be: [[�
 
 **Inspired by:** [Tim Bray's breakdown on why he's skeptical about BTC](https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin)
 
-**Related to:** [🌰 blockchain developers need to keep user privacy top of mind]({% post_url 2021-06-24-🌰-blockchain-developers-need-to-keep-user-privacy-top-of-mind %})
+**Related to:**[🌰 blockchain developers need to keep user privacy top of mind]({% post_url 2021-06-24-🌰-blockchain-developers-need-to-keep-user-privacy-top-of-mind %})

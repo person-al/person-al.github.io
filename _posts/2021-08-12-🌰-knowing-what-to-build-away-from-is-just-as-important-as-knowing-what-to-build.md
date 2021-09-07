@@ -1,7 +1,7 @@
 ---
 layout: post
 category: 🌰
-title: 🌰 Knowing what to build away from is just as important as knowing what to build.
+title: 🌰 knowing what to build away from is just as important as knowing what to build
 date: 2021-08-12
 last_modified_at:
 tags: business
