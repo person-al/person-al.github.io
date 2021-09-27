@@ -70,3 +70,4 @@ There's more to discuss here. What are your predictions? **What are the obvious 
 **Related to:**
 - [🌳 predicting the effects of a new medium is hard]({% post_url 2021-08-19-🌳-predicting-the-effects-of-a-new-medium-is-hard %})
 - [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %})
+- [🐦 NFTs change how we create](https://twitter.com/person72443/status/1435147419134558215)

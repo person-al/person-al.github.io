@@ -42,3 +42,4 @@ I recommend splitting your tokens between a hardware wallet and a custodial exch
 - security audits from an independent reputable firm is a plus
 - open source is a plus if there are enough users that you feel confident someone would notice any issues
 	- Open source is less secure if it means "the code is available to any hacker, but no one is actually checking the code for issues on a regular basis."
+

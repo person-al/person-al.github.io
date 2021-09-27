@@ -22,6 +22,7 @@ title: Let's get Person-al
 author: Person
 # email: your-email@example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+blog_assets_location: "/assets"
 url: "https://person-al.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: person72443
 github_username:  person-al
