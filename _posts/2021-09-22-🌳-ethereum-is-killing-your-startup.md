@@ -54,7 +54,7 @@ Now let's look at Flow's costs.
 
 ### The costs to stake FLOW
 
-| Step | Audio Spent | Running Total |
+| Step | Flow Spent | Running Total |
 | ---- | ---- | --|
 | Purchase FLOW on Gate.io | 0 | 0|
 | Transfer FLOW from Gate.io to your staking wallet in two steps following best practices.[^2]  | 0.2 | 0.2 |
