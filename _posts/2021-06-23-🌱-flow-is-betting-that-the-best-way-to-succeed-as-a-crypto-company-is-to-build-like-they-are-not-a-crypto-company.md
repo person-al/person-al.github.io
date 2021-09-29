@@ -17,7 +17,8 @@ Just look at Flow's partnerships: the NBA, CNN, Dr. Seuss, OpenSea, and now Rari
 Flow is making a bet, in other words, that if they can be the platform that Big Name developers use to run Big Name projects, they'll get the customers they need to have a successful platform. **They don't need to attract retail investors now to succeed. After all, no other tech company has needed to.**
 
 **Related thoughts:**
-- [[🌰 Flow is betting that community is what makes a blockchain stick]].
+- [🌱 is avoiding investors knee-capping Flow]({% post_url 2021-08-26-🌱-is-avoiding-investors-knee-capping-flow %})
+- [[🌰 Flow is betting that community is what makes a blockchain stick]]
 - [[🌰 Flow wants to be Stripe not Spotify]]
 
 **Inspired by:** [Rarible + Flow partnership announcement](https://rarible.medium.com/nfts-for-everyone-rarible-raises-14-2-million-88abee23b764)

@@ -13,7 +13,7 @@ The article argues that the three "blockchain" problems holding NFTs back are:
 2. The images are often stored on centralized servers. Again: hackable and lose-able.
 3. You can't inherit NFTs by default.
 
-I would argue that this is partially off base. 1 & 2 are basically the same issue. And the third point is....frankly....useless? Not even in the top 10 biggest problems with NFTs, in my opinion.
+I would argue that this is partially off base. 1 & 2 are basically the same issue. And the third point is...frankly...useless? Not even in the top 10 biggest problems with NFTs, in my opinion.
 
 There's only one design flaw holding NFTs back: **Not everything that *should* be stored on the blockchain is being stored on the blockchain.**
 
