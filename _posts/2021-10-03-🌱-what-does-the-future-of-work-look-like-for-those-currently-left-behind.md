@@ -6,8 +6,8 @@ created_at: 2021-07-12
 title: "🌱 what does the future of work look like for those currently left behind?"
 status: draft
 tags: future-of-work
-image: https://c.pxhere.com/photos/8c/88/venice_localities_venezia_waterway_italy_gondola_city-830309.jpg
-image_source: https://pxhere.com/en/photo/830309
+image: /assets/pexels-anastasiya-lobanovskaya-804954.jpg
+image_source: https://www.pexels.com/photo/venice-italy-804954/
 ---
 The covid-19 pandemic has spurred images of a flexible future of work. What does San Francisco or Tokyo or downtown London look like when white-collar workers can move elsewhere without losing their jobs? What does a small town with few local employers look like when distant companies begin hiring more remote workers?
 
