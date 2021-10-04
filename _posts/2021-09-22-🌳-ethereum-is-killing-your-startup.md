@@ -36,9 +36,9 @@ Comparing AUDIO and FLOW, AUDIO initially seems like a clear winner. 24% is much
 ### The cost to stake AUDIO
 Here's a quick breakdown of the steps required to stake AUDIO and how much it would cost. We've chosen the Gate.io exchange for comparison as it sells both tokens discussed in this article.
 
-| Step | Audio Spent | Running Total |
+| Step | AUDIO Spent | Running Total |
 | ---- | ---- | --|
-| Purchase Audio on Gate.io | 0 | 0|
+| Purchase AUDIO on Gate.io | 0 | 0|
 | Transfer AUDIO from Gate.io to your staking wallet in two steps, following best practices.[^1]  | 17.4 | 17.4|
 | Submit a transaction to unlock your tokens ([This transaction](https://etherscan.io/tx/0x8f77b2a41ca20a4832cfed65c472a986e544615be869ee6622169c849b574bb3) suggests roughly \$5, which translates to 2.4 AUDIO) | 2.4 | 19.8 |
 | Submit a transaction to delegate your unlocked tokens ([This transaction](https://etherscan.io/tx/0x7726790c54a2fa8b9f30c68c042d4f5fbda0b2c217bd1137852a4ce8381d2183) suggests \$88.) | 39.8 | 59.6 |
@@ -54,7 +54,7 @@ Now let's look at Flow's costs.
 
 ### The costs to stake FLOW
 
-| Step | Flow Spent | Running Total |
+| Step | FLOW Spent | Running Total |
 | ---- | ---- | --|
 | Purchase FLOW on Gate.io | 0 | 0|
 | Transfer FLOW from Gate.io to your staking wallet in two steps following best practices.[^2]  | 0.2 | 0.2 |
