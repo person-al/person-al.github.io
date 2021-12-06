@@ -2,7 +2,8 @@
 layout: post
 category: 🌱
 date: 2021-07-07
-last_modified_at: 2021-07-23
+modified: [2021-07-23, 2021-11-19]
+last_modified_at: 2021-11-19
 status: published
 tags: blockchain, investing
 ---
@@ -28,6 +29,10 @@ Is that what you want your users and your board[^board] focused on at such an ea
 > Jiho pointed out the paradox in building communities at scale: The community needs to be small first to work when it gets really big. That’s what makes Axie hard to copy -- if you build a competitor now, you’re going to attract the kind of people who want to find the next Axie, not the kind of people who are actually interested in moving gaming forward.
 
 [^board]: After all, launching a governance token basically means you've gone public and made your user base your board.
+
+**Update, Fri Nov 19 2021:** @imdanielallan touched on the personal impact of these feelings [on Mirror](https://mirror.xyz/danielallan.eth/7avCPrr08XK6fPkqCPXDVC-qoxkUhFK6exQQ9ZgL8v0). A musical artist who launched a token successfully, he's suddenly confronted with the idea that his "shareholders" may be more investors than fans. As he puts it:
+
+> Do people value my music - the very vehicle that got me here - or are they more interested in this experiment and less the artistic effort that went in to the songs?
 
 **Inspired by:** [Yup.io forum](https://forum.yup.io/t/discovering-new-use-cases-for-yup/36)
 
