@@ -30,7 +30,7 @@ goat_counter: person
 disclaimer: Every post on this blog is a work in progress. Phrasing may be less than ideal, ideas may not yet be fully thought through. Thank you for watching me grow.
 
 # Build settings
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
