@@ -2,7 +2,6 @@
 layout: post
 category: 🌰
 date: 2021-07-09
-status: draft
 tags:
 ---
 The funniest quote from [On Taste](https://claremontreviewofbooks.com/on-taste/) is:

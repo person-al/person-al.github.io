@@ -2,8 +2,9 @@
 layout: post
 category: 🌰
 date: 2021-06-19
-last_modified_at: 2021-07-08
-redirect_from: ["/🌰/2021/07/07/human-beings-need-to-feel-understood.html"]
+modified: [2021-07-08, 2021-12-05]
+last_modified_at: 2021-12-05
+redirect_from: ["/🌰/2021/07/07/human-beings-need-to-feel-understood.html", "/🌰/2021/06/19/human-beings-need-to-feel-understood.html"]
 status: published
 tags: psychology, social media
 ---
@@ -14,6 +15,9 @@ The way [William Davies and Charles Taylor](https://newleftreview.org/issues/ii1
 	- Sometimes they seek employment or payment, which leads them to hiding their true self and instead expressing their commoditized self.
 	- This leads to a negative feedback loop, in which people chase engagement in order to feel recognized but because engagement is not recognition, because of the scarcity of attention pyramid, that recognition is never fulfilled. People feel bad about themselves and don't feel as though they belong, and continue to seek out recognition by posting more.
 
+Richard Seymour discusses the importance of recognition in _The Twittering Machine_. As Daniel Bessner writes in "[Can We Live Without Twitter]( https://www.thenation.com/article/culture/richard-seymour-twittering-machine/)":
+> Seymour recognizes that Twitter and other social media platforms "address legitimate wants: they offer opportunities for recognition, for creative self-styling, for interruptions to monotony, for reverie or thinking-as-leisure-time."
+
 **Inspired by:** [The Politics of Recognition in the Age of Social Media](https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media)
 - my notes on the full essay was: "This article was extremely dense and worth reading again maybe." I had difficulty fully understanding it and getting through it. Would definitely appreciate alternate takes if I missed something.
 
@@ -22,3 +26,4 @@ The way [William Davies and Charles Taylor](https://newleftreview.org/issues/ii1
 - [🗨️ WFH leads to unpaid overtime]({% post_url 2021-06-23-🗨️-wfh-leads-to-unpaid-overtime %})
 - [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %})
 - [🗨️ decentralization gets eroded by stealth]({% post_url 2021-07-07-🗨️-decentralization-gets-eroded-by-stealth %})
+- [[🌰 work took place of religion in people's lives, what next]]
