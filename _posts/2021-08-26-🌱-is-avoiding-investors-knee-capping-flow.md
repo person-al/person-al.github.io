@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌱
-title: "🌱 is avoiding investors knee-capping Flow?"
+category: "\U0001F331"
 date: 2021-08-26
 last_modified_at: 2021-09-29
+layout: post
 tags: flow,nft
+title: "\U0001F331 is avoiding investors knee-capping Flow?"
 ---
+
 I've written previously about [the dangers of having a token that is broadly available to the public]({% post_url 2021-07-07-🌱-the-ability-to-go-public-on-day-1-is-a-trap %}). I've also discussed how [Flow's strategy avoids those dangers]({% post_url 2021-06-23-🌱-flow-is-betting-that-the-best-way-to-succeed-as-a-crypto-company-is-to-build-like-they-are-not-a-crypto-company %}). But lately, I've been wondering if that strategy's downsides are worth the benefits.
 
 For those who don't know: [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}) is a16z-funded Dapper Lab's new blockchain protocol. It's a NFT-first blockchain, with NBA TopShot as their showcase of what other developers can achieve on their platform. The unique thing about Flow is...the FLOW token is unavailable to US investors.

@@ -1,9 +1,9 @@
 ---
-layout: post
-category: 🌱
-title: "🌱 is BNPL good or bad?"
+category: "\U0001F331"
 date: 2021-09-29
-tags:
+layout: post
+tags: null
+title: "\U0001F331 is BNPL good or bad?"
 ---
 
 Capitalism runs on consumerism. You earn money when people pay you for goods or services. Therefore, it's in every corporation's best interest to convince you to part with as much of your money as possible without them killing you.

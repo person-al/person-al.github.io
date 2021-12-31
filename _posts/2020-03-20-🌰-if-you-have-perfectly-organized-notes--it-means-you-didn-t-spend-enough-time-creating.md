@@ -1,11 +1,13 @@
 ---
-layout: post
-category: 🌰
+category: "\U0001F330"
 date: 2020-03-20
-title: 🌰 if you have perfectly organized notes, it means you didn't spend enough time creating
+layout: post
 status: published
 tags: note-taking
+title: "\U0001F330 if you have perfectly organized notes, it means you didn't spend
+  enough time creating"
 ---
+
 It's funny how much this relates to a concept I've heard in tech a lot: [[🌰 If your product is absolutely perfect when you launch it, you launched too late.]]
 
 This means:

@@ -1,12 +1,14 @@
 ---
-layout: post
-category: 🌳
+category: "\U0001F333"
 created_at: 2021-07-12
-modified: [2021-08-21]
 date: 2021-09-06
+layout: post
+modified:
+- 2021-08-21
 status: draft
 tags: NFTs
 ---
+
 I talk a bit in [🌳 predicting the effects of a new medium is hard]({% post_url 2021-08-19-🌳-predicting-the-effects-of-a-new-medium-is-hard %}) about how we can better predict the impact of a new medium on the art we create. Let's go through that exercise with NFTs.
 
 I'll use the framework I laid out before:

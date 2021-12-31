@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🗨️
-title: 🗨️ Black people are incorrectly assumed "poor" until proven otherwise
+category: "\U0001F5E8️"
 date: 2021-08-09
 last_modified_at: 2021-08-26
-tags:
+layout: post
+tags: null
+title: "\U0001F5E8️ Black people are incorrectly assumed \"poor\" until proven otherwise"
 ---
+
 The thesis of [this article](https://www.currentaffairs.org/2021/07/who-actually-gets-to-create-black-pop-culture) is as follows:
 > Black pop culture reveals that most Black creators (outside music) come from middle-to-upper middle class backgrounds, while the Black poor are written about but rarely get the chance to speak for themselves.
 

@@ -1,13 +1,18 @@
 ---
-layout: post
-category: 🌰
+category: "\U0001F330"
 date: 2021-06-19
-modified: [2021-07-08, 2021-12-05]
 last_modified_at: 2021-12-05
-redirect_from: ["/🌰/2021/07/07/human-beings-need-to-feel-understood.html", "/🌰/2021/06/19/human-beings-need-to-feel-understood.html"]
+layout: post
+modified:
+- 2021-07-08
+- 2021-12-05
+redirect_from:
+- "/\U0001F330/2021/07/07/human-beings-need-to-feel-understood.html"
+- "/\U0001F330/2021/06/19/human-beings-need-to-feel-understood.html"
 status: published
 tags: psychology, social media
 ---
+
 The way [William Davies and Charles Taylor](https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media) talk about the human need to feel recognized...I think they mean humans need to feel understood by others.
 - A sense of belonging and acceptance of their true self. 
 - Social media creates a format that makes people feel the urge to be recognized, but never actually fulfills that need.

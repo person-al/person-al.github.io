@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌳
-title: "🌳 Ethereum is Killing Your Startup"
+category: "\U0001F333"
 date: 2021-09-22
+layout: post
 tags: blockchain,ethereum,staking
+title: "\U0001F333 Ethereum is Killing Your Startup"
 ---
+
 <style>  
 .subtitle {font-weight:600; margin-bottom:2rem !important;}  
 </style>

@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🗨️
+category: "\U0001F5E8️"
 date: 2021-07-07
+layout: post
 status: published
 tags: bitcoin, blockchain, politics
 ---
+
 > A strong BTC could also similarly weaken the dollar’s hold on China’s regional neighbors, making them more open to using the new digital yuan.
 
 **Source:** [Is China softening on Bitcoin?](https://cointelegraph.com/magazine/2021/05/05/china-softening-on-bitcoin-turn-of-phrase-stirs-crypto-world)

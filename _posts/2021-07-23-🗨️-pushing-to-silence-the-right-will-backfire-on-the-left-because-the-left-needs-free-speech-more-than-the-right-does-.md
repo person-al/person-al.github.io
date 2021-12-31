@@ -1,7 +1,7 @@
 ---
-layout: post
-category: 🗨️
+category: "\U0001F5E8️"
 date: 2021-07-23
+layout: post
 ---
 
 This was the thesis of the article [The Left Needs Free Speech](https://www.dissentmagazine.org/article/the-left-needs-free-speech). The article argues that while the right will claim the left have more power, it's not true. The left only has power in universities and certain types of educated circles and densely populated areas. The right has significantly more power than the left over the government and K-12 education. In order to fight the battle of ideas where it matters, the left will need free speech. Pushing to create boundaries will only shoot ourselves in the foot.
@@ -16,3 +16,4 @@ With the Delta variant surging, with QAnon supporters in the Capitol building, e
 Note: it's worth thinking about [[❔ Why can't folks contextualize 'fact' media anymore]]
 
 **Source:** [The Left Needs Free Speech](https://www.dissentmagazine.org/article/the-left-needs-free-speech)
+- [[“If you call for a bookstore not to stock your enemy’s book or rejoice when a problematic classic is taken out of print, your enemy will do the same”]]

@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🗨️
+category: "\U0001F5E8️"
 date: 2021-06-20
+layout: post
 status: draft
 tags: blockchain
 ---
+
 J.R. Willet on how the longer change takes, the more time everyone has to get used to the change: including Wall Street hyper-capitalists.
 
 > “The longer it takes to get there, the less disruptive it’ll be”

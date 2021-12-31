@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌳
+category: "\U0001F333"
 date: 2021-07-03
 last_modified_at: 2021-09-06
+layout: post
 status: published
 tags: bitcoin, crypto
 ---
+
 **September 2021 Update:** In August, Bitcoin chain analyst Willy Woo reported that our 🐬🦈🐋 categories below collectively [ hold 25% of available Bitcoin](https://twitter.com/woonomic/status/1425743947142373378?ref_src=person72443). My analysis below done in July 2021 calculated that the category held 42% of all coins. It's unclear from Willy's tweet how many entities are in the 🐬🦈🐋 (aka "What percentage of the population holds that 42% of BTC"). My best guess is 0.01% of addresses, but I don't have the data Glassnode does to convert addresses into human entities. Read on for my analytical process and conclusions from July.
 <hr/>
 

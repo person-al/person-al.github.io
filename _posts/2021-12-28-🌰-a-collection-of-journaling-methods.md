@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌰
-title: "🌰 a collection of journaling methods"
+category: "\U0001F330"
 date: 2021-12-28
-tags:
+layout: post
+tags: null
+title: "\U0001F330 a collection of journaling methods"
 ---
+
 Everyone talks about how beneficial journaling is, but few talk about _how_ they journal. This is understandable, journaling is a deeply personal activity, but it has long led me to wonder how others journal. This is a space for me to collect approaches and ideas from others. I'll cover three individuals who have journalled for many years and their approach, with a couple extra resources listed for fun. Hopefully this will allow me (and you) to experiment with these approaches.
 
 Do you journal? [Let me know how.](https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}})
@@ -30,11 +31,11 @@ As Cameron explains:
 >
 >...
 >
->==What are morning pages? Put simply, the morning pages are three pages of longhand writing, strictly stream-of-consciousness==: “Oh, god, another morning. I have NOTHING to say. I need to wash the curtains. Did I get my laundry yesterday? Blah, blah, blah ...” They might also, more ingloriously, be called brain drain,since that is one of their main functions.
+><mark>What are morning pages? Put simply, the morning pages are three pages of longhand writing, strictly stream-of-consciousness</mark>: “Oh, god, another morning. I have NOTHING to say. I need to wash the curtains. Did I get my laundry yesterday? Blah, blah, blah ...” They might also, more ingloriously, be called brain drain,since that is one of their main functions.
 >
 >...
 >
->The morning pages are not supposed to sound smart—although sometimes they might. Most times they won’t, and nobody will ever know except you. Nobody is allowed to read your morning pages except you. ==And you shouldn’t even read them yourself for the first eight weeks or so.== Just write three pages, and stick them into an envelope. Or write three pages in a spiral notebook and don’t leaf back through. Just write three pages ... and write three more pages the next day.
+>The morning pages are not supposed to sound smart—although sometimes they might. Most times they won’t, and nobody will ever know except you. Nobody is allowed to read your morning pages except you. <mark>And you shouldn’t even read them yourself for the first eight weeks or so.</mark> Just write three pages, and stick them into an envelope. Or write three pages in a spiral notebook and don’t leaf back through. Just write three pages ... and write three more pages the next day.
 
 (Note: longhand writing here means "handwritten in full sentences, not shorthand". Granted, I'm not sure who uses [shorthand](https://en.wikipedia.org/wiki/Shorthand) these days.)
 

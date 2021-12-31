@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌱
+category: "\U0001F331"
 date: 2021-06-23
 last_modified_at: 2021-08-21
+layout: post
 status: published
 tags: flow, nft
 ---
+
 Today Rarible [announced a $14M funding round](https://rarible.medium.com/nfts-for-everyone-rarible-raises-14-2-million-88abee23b764). Hidden below the fold was a secondary announcement: Rarible will build on [Flow](https://www.onflow.org/primer) next.
 
 [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}) has huge ambitions. And they're betting that The Way to succeed as a crypto company is to act like a non-crypto company.
@@ -24,4 +25,3 @@ Flow is making a bet, in other words, that if they can be the platform that Big 
 **Inspired by:** [Rarible + Flow partnership announcement](https://rarible.medium.com/nfts-for-everyone-rarible-raises-14-2-million-88abee23b764)
 
 **Related to:** [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}), [[NFT]]
-

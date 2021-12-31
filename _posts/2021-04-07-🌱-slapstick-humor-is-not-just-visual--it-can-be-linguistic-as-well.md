@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌱
+category: "\U0001F331"
 date: 2021-04-07
+layout: post
 status: published
 tags: humor, art
 ---
+
 Unsorted thoughts on what I've decided to call "linguistic slapstick" or "slapstick sentence structure."
 
 **Slapstick**: "Slapstick is a style of humor involving exaggerated physical activity that exceeds the boundaries of normal physical comedy." [Source: Wikipedia](https://en.wikipedia.org/wiki/Slapstick)
@@ -40,4 +41,3 @@ Granted, it's not always a clear genre to define. Here's another Adam's quote:
 - does this qualify as slapstick? It's unexpected and goofy. It might be a stretch to say that it conjures a slapstick image in one's mind, though in a way it does invite you to imagine Wile E. Coyote hovering briefly in the air on a pile of bricks before plummeting to the ground.
 
 **What do you think?** Does it make sense to describe any genre of written humor as "slapstick"? Do other authors come to mind for you? I'd love recommendations.
-

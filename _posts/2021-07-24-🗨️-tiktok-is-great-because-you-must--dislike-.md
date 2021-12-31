@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🗨️
+category: "\U0001F5E8️"
 date: 2021-07-24
-title: 🗨️ TikTok is great because you must 'dislike'
-tags:
+layout: post
+tags: null
+title: "\U0001F5E8️ TikTok is great because you must 'dislike'"
 ---
+
 **Source:** [Reply All](https://gimletmedia.com/shows/reply-all/z3h78d6/177-gleeks-and-gurgles)
 
 With TikTok you can only view one piece of content at a time, and it's very clear when you completed viewing the entire piece of content: "did you get to the end of the video?". In order to view the next video, you must swipe away. By swiping away before the end of the video, you indicate dislike or at least disinterest. A very clear "not interested" signal plus extreme computer vision to determine what is in a video gives the TikTok algorithm huge amounts of detailed data on what you will watch and what you won't. Text or image based social media cannot rely on you scrolling away to know if you didn't like it. They can only know if you reacted to the post or not.

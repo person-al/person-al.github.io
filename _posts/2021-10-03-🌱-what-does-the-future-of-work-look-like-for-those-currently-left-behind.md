@@ -1,14 +1,16 @@
 ---
-layout: post
-category: 🌱
-date: 2021-10-03
+category: "\U0001F331"
 created_at: 2021-07-12
-title: "🌱 what does the future of work look like for those currently left behind?"
-status: draft
-tags: future-of-work
+date: 2021-10-03
 image: /assets/pexels-anastasiya-lobanovskaya-804954.jpg
 image_source: https://www.pexels.com/photo/venice-italy-804954/
+layout: post
+status: draft
+tags: future-of-work
+title: "\U0001F331 what does the future of work look like for those currently left
+  behind?"
 ---
+
 The covid-19 pandemic has spurred images of a flexible future of work. What does San Francisco or Tokyo or downtown London look like when white-collar workers can move elsewhere without losing their jobs? What does a small town with few local employers look like when distant companies begin hiring more remote workers?
 
 _[How the Venice Biennale Makes Life Harder for Working Venetians](https://hyperallergic.com/658204/venice-biennale-makes-life-harder-for-working-venetians/)_ offers a local perspective on this. Writing from Venice, Giulio Piovesan states that the local population is not high enough to sustain the diverse plethora of jobs they need. Instead the economy is highly dependent on tourism, a seasonal industry, leaving locals with no way to make a dependable, stable living. And often no way to make a living in their field of study. Piovesan points to chemistry PhDs taking on art gallery guard jobs and states:

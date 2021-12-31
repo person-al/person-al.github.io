@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌱
-title: 🌱 Smart contract design is holding NFTs back because of one flaw
+category: "\U0001F331"
 date: 2021-08-23
-last_modified_at:
+last_modified_at: null
+layout: post
 tags: nft
+title: "\U0001F331 Smart contract design is holding NFTs back because of one flaw"
 ---
+
 Cointelegraph recently wrote an article entitled "[Blockchain tech is holding NFTs back because of these three design flaws](https://cointelegraph.com/news/blockchain-tech-is-holding-nfts-back-because-of-these-three-design-flaws)", which almost nails the problem with NFTs, but not quite.
 
 The article argues that the three "blockchain" problems holding NFTs back are:

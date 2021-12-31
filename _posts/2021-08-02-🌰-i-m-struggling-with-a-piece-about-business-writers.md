@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌰
+category: "\U0001F330"
 date: 2021-08-02
-title: 🌰 I'm struggling with a piece about business writers
-tags:
+layout: post
+tags: null
+title: "\U0001F330 I'm struggling with a piece about business writers"
 ---
+
 I'm struggling with a piece entitled [[🌱 business writers do themselves and their readers a disservice by not thinking about society]]. I have a lot of thoughts on the topic.
 1. There's long been a sense that capitalism and society are two different things. If you talk about "business", then you are only talking about profit. You have no responsibility to discuss the negative societal impact of a given business. In fact, you might be considered biased or "out of touch" if you do so.
 	- With unfettered capitalism starting to crack the concrete beneath our feet, this sentiment is changing. Business leaders and content creators are discussing "conscious capitalism" and the positive impacts of their investments. But they still refuse to think deeply about the negative impacts of the businesses they tout.

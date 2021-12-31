@@ -1,8 +1,9 @@
 ---
-layout: post
-category: 🗨️
+category: "\U0001F5E8️"
 date: 2021-08-01
+layout: post
 ---
+
 A conversation between myself and a member of the Origin project in their public discord group. Their OUSD token is designed to accrue interest as you hold it, because the crypto you put in to buy the OUSD is converted to stablecoins that are sent out to yield farm on your behalf. I wanted to know if you could control what strategies your OUSD used.
 
 **me:** I have a question about the ousd yield strategy: is it possible for a person to pick their preferred strategy for their ousd? If, for example, I wanted my ousd put towards market making but didn't want to make any money off of lending, is that an option?

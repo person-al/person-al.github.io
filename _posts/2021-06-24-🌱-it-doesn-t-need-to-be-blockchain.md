@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌱
+category: "\U0001F331"
 date: 2021-06-24
-title: 🌱 it doesn't need to be blockchain
+layout: post
 status: published
 tags: blockchain
+title: "\U0001F331 it doesn't need to be blockchain"
 ---
+
 A reminder that developers everywhere are exploring different solutions to the same problems.
 
 Dave Winer (longtime software developer and creator of RSS) [blogged recently](http://scripting.com/2021/06/23.html#a221440):
@@ -30,4 +31,3 @@ I guess the question becomes why people haven't always built that way. Why is we
 In theory, an open and interoperable web requires people being willing to pay to use internet tools. That's the bet blockchain developers are making. That people will be willing to pay, that the creation of digital Chuck E Cheese tokens will make it possible to pay, and that interoperability will unlock experiences web 2.0 denied us. One thing though: [🌰 blockchain developers need to keep user privacy top of mind]({% post_url 2021-06-24-🌰-blockchain-developers-need-to-keep-user-privacy-top-of-mind %})
 
 **Related:** [🌰 servers as a service]({% post_url 2021-06-22-🌰-servers-as-a-service %})
-

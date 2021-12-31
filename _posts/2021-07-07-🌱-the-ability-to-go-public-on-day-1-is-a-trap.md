@@ -1,12 +1,15 @@
 ---
-layout: post
-category: 🌱
+category: "\U0001F331"
 date: 2021-07-07
-modified: [2021-07-23, 2021-11-19]
 last_modified_at: 2021-11-19
+layout: post
+modified:
+- 2021-07-23
+- 2021-11-19
 status: published
 tags: blockchain, investing
 ---
+
 There's a throwaway sentence in [🌱 Flow is betting that the best way to succeed as a crypto company is to build like they are not a crypto company]({% post_url 2021-06-23-🌱-flow-is-betting-that-the-best-way-to-succeed-as-a-crypto-company-is-to-build-like-they-are-not-a-crypto-company %}):
 > Most crypto projects are "public" from day 1. From the day they have a token launch, they're a public company with investors that expect returns.
 

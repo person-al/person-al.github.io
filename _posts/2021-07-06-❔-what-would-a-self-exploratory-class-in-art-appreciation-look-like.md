@@ -1,11 +1,12 @@
 ---
-layout: post
 category: ❔
 date: 2021-07-06
 last_modified_at: 2021-07-07
+layout: post
 status: published
 tags: art
 ---
+
 The goal would be to help you discover what _you_ appreciate about art. Not teach you how to appreciate what others have decided are "classics".
 
 - Conversation and explanation is key.

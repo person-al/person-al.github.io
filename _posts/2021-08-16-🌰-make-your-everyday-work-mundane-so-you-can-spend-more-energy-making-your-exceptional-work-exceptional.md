@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌰
-title: 🌰 make your everyday work mundane so you can spend more energy making your exceptional work exceptional
+category: "\U0001F330"
 date: 2021-08-16
-last_modified_at:
-tags:
+last_modified_at: null
+layout: post
+tags: null
+title: "\U0001F330 make your everyday work mundane so you can spend more energy making
+  your exceptional work exceptional"
 ---
 
 It's an idea I first saw in [Tiago Forte's review of the book "Work Clean"](https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/), but was repeated more clearly in [his 2021 Mid-Year Review](https://fortelabs.co/blog/tiagos-2021-mid-year-review/)

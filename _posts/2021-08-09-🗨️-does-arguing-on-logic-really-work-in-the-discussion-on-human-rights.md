@@ -1,10 +1,10 @@
 ---
-layout: post
-category: 🗨️
-title: 🗨️ Does arguing on logic really work in the discussion on human rights
+category: "\U0001F5E8️"
 date: 2021-08-09
-last_modified_at:
-tags:
+last_modified_at: null
+layout: post
+tags: null
+title: "\U0001F5E8️ Does arguing on logic really work in the discussion on human rights"
 ---
 
 Frederick Douglass's speech "[What, to a Slave, is the Fourth of July?](https://teachingamericanhistory.org/library/document/what-to-the-slave-is-the-fourth-of-july/)" is well worth the read. The following passage is one of many that stuck out to me.

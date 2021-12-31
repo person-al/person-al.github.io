@@ -1,9 +1,10 @@
 ---
-layout: post
-category: 🌰
+category: "\U0001F330"
 date: 2021-04-03
+layout: post
 status: published
 ---
+
 It rings so true to me that democracy must be communally built, fiercely protected, and lovingly repaired. All of that demands constant work from its occupants.
 
 We do that work by:

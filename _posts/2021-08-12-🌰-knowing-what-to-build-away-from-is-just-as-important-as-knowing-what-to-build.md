@@ -1,11 +1,13 @@
 ---
-layout: post
-category: 🌰
-title: 🌰 knowing what to build away from is just as important as knowing what to build
+category: "\U0001F330"
 date: 2021-08-12
-last_modified_at:
+last_modified_at: null
+layout: post
 tags: business
+title: "\U0001F330 knowing what to build away from is just as important as knowing
+  what to build"
 ---
+
 I discussed a few different ideas in "[🌰 I'm struggling with a piece about business writers]({% post_url 2021-08-02-🌰-i-m-struggling-with-a-piece-about-business-writers %})", but the most important, I think is the idea that:
 **Knowing what to build away from is just as important as knowing what to build.**
 

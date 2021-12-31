@@ -1,9 +1,10 @@
 ---
+category: "\U0001F330"
+date: 2021-07-09 all are equally valid\]\]
 layout: post
-category: 🌰
-date: 2021-07-09
-tags:
+tags: null
 ---
+
 The funniest quote from [On Taste](https://claremontreviewofbooks.com/on-taste/) is:
 
 > No one doubts that Game of Thrones can entertain its audience, but it cannot move us as King Lear does. The one is an amusement, the other an exploration of human vanity, ignorance, cruelty, and desire.

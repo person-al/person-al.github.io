@@ -1,11 +1,12 @@
 ---
-layout: post
-category: 🌳
-title: 🌳 predicting the effects of a new medium is hard
-redirect_from: ["/🌱/2021/08/19/predicting-the-effects-of-a-new-medium-is-hard.html"]
+category: "\U0001F333"
 date: 2021-08-19
 last_modified_at: 2021-08-20
-tags:
+layout: post
+redirect_from:
+- "/\U0001F331/2021/08/19/predicting-the-effects-of-a-new-medium-is-hard.html"
+tags: null
+title: "\U0001F333 predicting the effects of a new medium is hard"
 ---
 
 [Bottled Authors: The Predigital Dream of the Audiobook](https://www.cabinetmagazine.org/kiosk/rubery_matthew_16_march_2021.php) is a delightful 10 minute read on the beauty of imagination. Set in the late 1800s, the primary goal is to survey the audiobook predictions of folks hearing audio recording technology for the first time. But reading it raised a different question for me: **How can we reasonably predict what a brand new medium will do to the media we create with it?**
@@ -58,5 +59,3 @@ is like playing a game of telephone with yourself. If the world takes a hard lef
 	- [[🌱 NFTs change how we create]]
 	- [[❔ How can we predict how a new medium will affect current media]]
 	- [[❔ What is an example of a medium change that led to a media change]]
-
-

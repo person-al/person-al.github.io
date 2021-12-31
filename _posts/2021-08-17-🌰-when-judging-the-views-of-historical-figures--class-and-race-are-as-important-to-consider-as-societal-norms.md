@@ -1,11 +1,13 @@
 ---
-layout: post
-category: 🌰
-title: 🌰 When judging the views of historical figures, class and race are as important to consider as societal norms
+category: "\U0001F330"
 date: 2021-08-17
-last_modified_at:
-tags:
+last_modified_at: null
+layout: post
+tags: null
+title: "\U0001F330 When judging the views of historical figures, class and race are
+  as important to consider as societal norms"
 ---
+
 Main points from [A Man Of His Time, And Ours](https://www.noemamag.com/a-man-of-his-time-and-ours/):
 - There will be multiple views within society at a time. You will always find people critiquing a historical character for their stance.
 - Views "of" a time may actually mean "We've conflated the views of the elite from this period with the views of everyone." The views of white, rich men may not be the same as everyone's views.

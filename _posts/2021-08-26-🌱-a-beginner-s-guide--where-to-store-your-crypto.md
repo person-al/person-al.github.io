@@ -1,10 +1,11 @@
 ---
-layout: post
-category: 🌱
-title: "🌱 a beginner's guide: where to store your crypto"
+category: "\U0001F331"
 date: 2021-08-26
+layout: post
 tags: crypto
+title: "\U0001F331 a beginner's guide: where to store your crypto"
 ---
+
 Many moons ago, I was asked a seemingly-simple question: 
 **What is the best way to store non-ERC20 tokens?**
 
@@ -42,4 +43,3 @@ I recommend splitting your tokens between a hardware wallet and a custodial exch
 - security audits from an independent reputable firm is a plus
 - open source is a plus if there are enough users that you feel confident someone would notice any issues
 	- Open source is less secure if it means "the code is available to any hacker, but no one is actually checking the code for issues on a regular basis."
-
