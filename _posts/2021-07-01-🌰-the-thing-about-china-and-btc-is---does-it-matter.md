@@ -2,9 +2,10 @@
 category: "\U0001F330"
 date: 2021-07-01
 layout: post
-status: published
+redirect_from:
+- "\U0001F330/2021/07/01/the-thing-and-china-and-btc-is-does-it-matter.html"
 tags: blockchain, politics
-title: "\U0001F330 the thing and China and BTC is-- does it matter?"
+title: "\U0001F330 the thing about China and BTC is-- does it matter?"
 ---
 
 There are concerns about what China's regulation against miners will mean for blockchain long-term. But how much does it matter? Historically, China hasn't really played ball in the global tech space, right? Of course they wouldn't approve anything that allows the culture or the economy to move outside their control, that's been their MO for a while now.
