@@ -6,8 +6,6 @@ tags: null
 title: "\U0001F5E8️ decentralization makes everything better -- not necessarily easier"
 ---
 
-#  🗨️ decentralization makes everything better -- not necessarily easier
-
 > From a sociopolitical perspective, decentralization helps distribute and democratize power and empowers the active participants of any given society (or organization), rather than those who are more privileged.
 > 
 > From an economic point of view, decentralization helps remove the costs, inefficiencies and risks associated with needing to trust intermediaries and centralized parties.
