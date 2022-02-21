@@ -1,7 +1,6 @@
 ---
 category: "\U0001F330"
 date: 2021-08-16
-last_modified_at: null
 layout: post
 tags: null
 title: "\U0001F330 make your everyday work mundane so you can spend more energy making
