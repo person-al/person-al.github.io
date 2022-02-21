@@ -100,5 +100,3 @@ ANNA: …is just like, the amount of information that it's collecting about the 
 And so, compare that to TikTok. Those videos are short. They're like, one minute long. So, you’re giving TikTok feedback on, like, 40 or 50 videos in the same amount of time that you would spend watching a movie. And what that means is you’re just shooting a fire hose of data into TikTok’s algorithm.
 
 And Eugene says it’s that fire hose that has pushed TikTok’s algorithm into just, like, a league of its own.
-
-**Date:** Sat Jul.24.2021 01:16:56 am -07:00

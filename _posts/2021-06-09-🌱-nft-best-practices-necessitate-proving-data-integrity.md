@@ -20,3 +20,5 @@ This creates a series of bad outcomes:
 
 There's a very simple solution to this:
 - store a validation hash of the file on the blockchain. It won't fully solve 1, but in the event of 2 & 3, you can at least validate that the contents of the file are identical to what the NFT creator originally intended.
+
+**Related:** [🌱 Smart contract design is holding NFTs back because of one flaw]({% post_url 2021-08-23-🌱-smart-contract-design-is-holding-nfts-back-because-of-one-flaw %})

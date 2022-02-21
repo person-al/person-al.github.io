@@ -12,4 +12,4 @@ tags: bitcoin, blockchain, politics
 
 **Related to:** 
 - [🌰 the thing and China and BTC is-- does it matter]({% post_url 2021-07-01-🌰-the-thing-and-china-and-btc-is---does-it-matter %})
-- [[🌰 We worry so much about how BTC might lead to the downfall of the USD as the world's reserve currency. It would be fascinating if, instead, BTC protects us from the rise of RMB as the world's reserve currency.]]
+- [[🌰 Instead of leading to the downfall of the USD, BTC might protect us from the rise of RMB]]
