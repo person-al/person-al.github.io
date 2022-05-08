@@ -18,4 +18,4 @@ Emphasis mine here. I'm reminded of Linux. The flexibility and ownership of Linu
 - **Source:** "6 Questions for Han Kao of Sanctor Capital –." _[[Cointelegraph Magazine]]_, 21 Nov 2021, https://cointelegraph.com/magazine/2021/11/21/6-questions-for-han-kao-of-sanctor-capital.
 - **Related to:**
 	- [🗨️ decentralization gets eroded by stealth]({% post_url 2021-07-07-🗨️-decentralization-gets-eroded-by-stealth %})
-	- [🌰 democracy requires active maintenence]({% post_url 2021-04-03-🌰-democracy-requires-active-maintenence %})
+	- [🌰 democracy requires active maintenance]({% post_url 2021-04-03-🌰-democracy-requires-active-maintenance %})

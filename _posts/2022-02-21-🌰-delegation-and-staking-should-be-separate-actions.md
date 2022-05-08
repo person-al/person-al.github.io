@@ -29,7 +29,9 @@ If you're building a crypto project, experiment with your governance token. Cons
 - Have two tokens: one for general transactions and staking, and one for governance. ([Berkshire Hathaway](https://www.investopedia.com/ask/answers/021615/what-difference-between-berkshire-hathaways-class-and-class-b-shares.asp) and [Facebook](https://www.businessinsider.com/facebook-new-stock-structure-2016-4?op=1) do this in public markets by having different "classes" of shares.)
 - Having voting rights grow more slowly as you gain more tokens. This can done via [square root voting](https://jumpcrypto.com/square-root-voting/) or  [quadratic voting](https://en.wikipedia.org/wiki/Quadratic_voting) principles can be used to devise alternatives.
 <hr/>
+
 **Info**:
 - **Inspired by:** [a16z - Open Sourcing Our Token Delegate Program](https://a16z.com/2021/08/26/open-sourcing-our-token-delegate-program/)
 - **Related to:**
 	- [🌳 Ethereum is Killing Your Startup]({% post_url 2021-09-22-🌳-ethereum-is-killing-your-startup %})
+	- [Vitalik Buterin on voting schemes](https://vitalik.ca/general/2021/08/16/voting3.html)

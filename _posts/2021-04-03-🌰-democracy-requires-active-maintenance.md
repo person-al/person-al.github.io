@@ -2,6 +2,8 @@
 category: "\U0001F330"
 date: 2021-04-03
 layout: post
+redirect_from:
+- "/\U0001F330/2021/04/03/democracy requires active maintenence.html"
 status: published
 ---
 
