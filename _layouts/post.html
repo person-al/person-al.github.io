@@ -9,7 +9,7 @@ layout: default
     <time class="no-formatting dt-published published" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
     {%- if page.last_modified_at -%}
     <br>
-    Last Tended: <time datetime="{{ page.last_modified_at }}">{{ page.last_modified_at | date: site.theme_config.date_format }}</time>
+    Last Tended: <time class="dt-updated" datetime="{{ page.last_modified_at }}">{{ page.last_modified_at | date: site.theme_config.date_format }}</time>
     {%- endif -%}
   </p>
   
