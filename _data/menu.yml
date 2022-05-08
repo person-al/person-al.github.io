@@ -13,7 +13,8 @@ entries:
             <a href='feed/🌳.xml'>🌳</a> | 
             <a href='feed/🌲.xml'>🌲</a>"
     - title: <a href="https://mastodon.social/web/@person72443" rel="me">mastodon</a>
-    - title: <a href="https://twitter.com/person72443" rel="me">twitter</a>
+    - title: twitter
+      url: https://twitter.com/person72443
   - title: posts updated this week
     url: this-week.html
   - title: all posts

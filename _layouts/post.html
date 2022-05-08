@@ -4,21 +4,22 @@ layout: default
 
 {%-include back_link.html-%}
 
-<article>
+<article class="h-entry hentry">
   <p class="post-meta">
-    <time class="no-formatting" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
+    <time class="no-formatting dt-published published" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
     {%- if page.last_modified_at -%}
     <br>
     Last Tended: <time datetime="{{ page.last_modified_at }}">{{ page.last_modified_at | date: site.theme_config.date_format }}</time>
     {%- endif -%}
   </p>
   
-  <h1>{{ page.title }}</h1>
+  <h1 class="p-name entry-title">{{ page.title }}</h1>
 
-  {{ content }}
+  <div class="e-content entry-content">{{ content }}</div>
 
   <mark>{{site.disclaimer}}</mark>
 
 
   <p><a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">comment</a></p>
+  <a hidden class="u-url url" href="{{ page.url | relative_url }}">permalink</a>
 </article>
