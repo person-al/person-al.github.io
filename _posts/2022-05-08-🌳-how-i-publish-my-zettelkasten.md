@@ -10,7 +10,7 @@ tags:
 - indieweb
 ---
 
-> **[Assumed Audience](https://maggieappleton.com/assumed-audience):** In writing this piece, I assume you have enough interest in publishing your own notes online that you're looking for a detailed step-by-step of how I do things. I also assume that your interest is primarily in the "how" and less on the "why".
+> **[Assumed Audience](https://maggieappleton.com/assumed-audience):** In writing this piece, I assume you have enough interest in publishing your own notes online that you're looking for a detailed step-by-step of how I do things. I also assume that your interest is primarily on the "how" and less on the "why".
 
 If you visit [person-al.github.io](https://person-al.github.io), you'll see a slice of my personal [Zettelkasten (or the slip-box)](https://en.wikipedia.org/wiki/Zettelkasten). It's a note-taking method I use that focuses primarily on small, atomic notes that you build on and connect slowly over time into larger and more complex projects. By publishing even the smaller notes online, my goal is to lower the barrier to conversation and learning for myself.
 
