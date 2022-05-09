@@ -23,4 +23,7 @@ layout: default
   <p><a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">comment</a></p>
   <a hidden class="u-url url" href="{{ page.url | relative_url }}">permalink</a>
   <a hidden rel="author" class="p-author h-card" href="{{ "/" | relative_url }}">person</a>
+  {% for tag in page.tags %}
+  <div hidden class="p-category">{tag}</div>
+  {% endfor %}
 </article>
