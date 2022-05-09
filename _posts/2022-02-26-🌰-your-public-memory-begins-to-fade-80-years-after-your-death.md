@@ -30,4 +30,5 @@ In the end, this 80 year mark in the life of Charles Dibdin may have importance 
 
 **Info**:
 - **Inspired by:** [How the first ever pop star blazed a trail of innovation](https://www.bbc.com/culture/article/20220223-how-the-first-ever-pop-star-blazed-a-trail-of-innovation)
-- **Related to:**
+- **Related to:** 
+	- [[🗨️ Grief was what you owed the dead for the necessary crime of living on without them]]

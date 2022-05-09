@@ -29,6 +29,6 @@ Richard Seymour discusses the importance of recognition in _The Twittering Machi
 
 **Related to:**
 - [🗨️ WFH leads to unpaid overtime]({% post_url 2021-06-23-🗨️-wfh-leads-to-unpaid-overtime %})
-- [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %})
+- [🌱 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌱-money-strips-an-interaction-of-spiritual-value %})
 - [🗨️ decentralization gets eroded by stealth]({% post_url 2021-07-07-🗨️-decentralization-gets-eroded-by-stealth %})
 - [[🌰 work took place of religion in people's lives, what next]]

@@ -40,7 +40,7 @@ Is that what you want your users and your board[^board] focused on at such an ea
 **Inspired by:** [Yup.io forum](https://forum.yup.io/t/discovering-new-use-cases-for-yup/36)
 
 **Related to:** 
-- [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %}),
+- [🌱 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌱-money-strips-an-interaction-of-spiritual-value %}),
 - [🌳 NFTs change how we create]({% post_url 2021-09-06-🌳-nfts-change-how-we-create %}),
 - [[❔ How to make a successful small business]]
 - [🌱 Flow is betting that the best way to succeed as a crypto company is to build like they are not a crypto company]({% post_url 2021-06-23-🌱-flow-is-betting-that-the-best-way-to-succeed-as-a-crypto-company-is-to-build-like-they-are-not-a-crypto-company %})

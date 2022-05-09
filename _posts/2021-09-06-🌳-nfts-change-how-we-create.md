@@ -62,7 +62,7 @@ The difficulty and power of compounded brainstorming is interesting here. The cy
 ### What to build away from
 We've talked a bit about positive and neutral potential changes from NFTs. We should also consider the negatives. I'm reminded of [🌱 the ability to go public on day 1 is a trap]({% post_url 2021-07-07-🌱-the-ability-to-go-public-on-day-1-is-a-trap %}): with this freedom, there are pitfalls and responsibility. NFTs make DRM easy. You thought "[[🌰 the future is rented]]" before? Now you're not just renting audiobooks each month, there is no _option_ for you to own audiobooks. It's NFTs all the way down, you are [paying 6 companies $300/mo to access all the media you consume](https://www.webfx.com/blog/internet/the-6-companies-that-own-almost-all-media-infographic/).
 
-Plus, as we've discussed before, [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %}), which could change relationships for the worse. Consider musicians and fans as an example. Before, a callous company paid royalties so you could create an album your fans loved. If you crowd-fund an album through NFT sales, your fans may be _as_ excited about their incoming royalties as they are about the music itself. Soon your stadiums could be filled with more investors than fans.
+Plus, as we've discussed before, [🌱 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌱-money-strips-an-interaction-of-spiritual-value %}), which could change relationships for the worse. Consider musicians and fans as an example. Before, a callous company paid royalties so you could create an album your fans loved. If you crowd-fund an album through NFT sales, your fans may be _as_ excited about their incoming royalties as they are about the music itself. Soon your stadiums could be filled with more investors than fans.
 
 There's more to discuss here. What are your predictions? **What are the obvious impacts of NFT on the way we create media? What are the less obvious impacts?**
 <hr/>
@@ -71,5 +71,5 @@ There's more to discuss here. What are your predictions? **What are the obvious 
 
 **Related to:**
 - [🌳 predicting the effects of a new medium is hard]({% post_url 2021-08-19-🌳-predicting-the-effects-of-a-new-medium-is-hard %})
-- [🌰 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌰-money-strips-an-interaction-of-spiritual-value %})
+- [🌱 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌱-money-strips-an-interaction-of-spiritual-value %})
 - [🐦 NFTs change how we create](https://twitter.com/person72443/status/1435147419134558215)
