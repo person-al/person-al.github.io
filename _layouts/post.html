@@ -16,9 +16,9 @@ layout: default
   <h1 class="p-name entry-title">{{ page.title }}</h1>
 
   <div class="e-content entry-content">{{ content }}</div>
-
+  <hr/>
   <mark>{{site.disclaimer}}</mark>
-
+  {%- include comment_form.html -%}
 
   <a hidden class="u-url url" href="{{ site.url | append: page.url }}">permalink</a>
   <a hidden rel="author" class="p-author h-card" href="{{ "/" | relative_url }}">
@@ -29,4 +29,3 @@ layout: default
   <div hidden class="p-category">{{tag}}</div>
   {% endfor %}
 </article>
-{%- include comment_form.html -%}
