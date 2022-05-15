@@ -20,8 +20,7 @@ layout: default
   <mark>{{site.disclaimer}}</mark>
 
 
-  <p><a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">comment</a></p>
-  <a hidden class="u-url url" href="{{ page.url | relative_url }}">permalink</a>
+  <a hidden class="u-url url" href="{{ site.url | append: page.url }}">permalink</a>
   <a hidden rel="author" class="p-author h-card" href="{{ "/" | relative_url }}">
     <img class="u-photo" src={{ site.blog_assets_location }}/avatar.jpg/>
     person
@@ -30,3 +29,4 @@ layout: default
   <div hidden class="p-category">{{tag}}</div>
   {% endfor %}
 </article>
+{%- include comment_form.html -%}

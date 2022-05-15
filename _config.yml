@@ -27,6 +27,8 @@ url: "https://person-al.github.io" # the base hostname & protocol for your site,
 twitter_username: person72443
 github_username:  person-al
 goat_counter: person
+mastodon_link: https://mastodon.social/web/@person72443
+webmention_link: https://webmention.io/person-al.github.io/webmention
 disclaimer: Every post on this blog is a work in progress. Phrasing may be less than ideal, ideas may not yet be fully thought through. Thank you for watching me grow.
 
 # Build settings

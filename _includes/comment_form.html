@@ -1,0 +1,12 @@
+<form action="{{site.webmention_link}}" method="post" target="_blank" style="margin-top: 16px;">
+    <label for="source">Comment by responding wherever you'd like and send me the URL:</label>
+    <input type="url" name="source" id="source" placeholder="The link to your comment" style="margin-bottom: 14px; width: 90%; display: block;">
+    <div hidden>
+        <label for="target">Link to the page you're commenting on:</label>
+        <input type="url" name="target" id="target" value="{{ site.url | append: page.url }}" placeholder="The page your webmention is about (probably this page)" style="margin-bottom: 14px; width: 90%; display: block;">
+    </div>
+    <div style="margin-top: 16px;">
+        <input type="submit" class="button" value="Send Webmention">
+    </div>
+    <p>Don't want to do that? @ me on <a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">twitter</a> or <a href="{{site.mastodon_link}}">mastodon</a></p>
+</form>
