@@ -3,7 +3,6 @@ layout: default
 ---
 
 {%-include back_link.html-%}
-
 <article class="h-entry hentry">
   <p class="post-meta">
     <time class="no-formatting dt-published published" datetime="{{ page.date }}">{{ page.date | date: site.theme_config.date_format }}</time>
@@ -15,10 +14,12 @@ layout: default
   
   <h1 class="p-name entry-title">{{ page.title }}</h1>
 
-  <div class="e-content entry-content">{{ content }}</div>
-  <hr/>
-  <mark>{{site.disclaimer}}</mark>
-  {%- include comment_form.html -%}
+  <div class="e-content entry-content post-contents">
+    {{ content }}
+    <hr/>
+    {%- include comment_form.html -%}
+    <mark>{{site.disclaimer}}</mark>
+  </div>
 
   <a hidden class="u-url url" href="{{ site.url | append: page.url }}">permalink</a>
   <a hidden rel="author" class="p-author h-card" href="{{ "/" | relative_url }}">

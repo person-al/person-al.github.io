@@ -7,6 +7,15 @@
   font-size: 25px;
 }
 
+// Moving footnotes to the bottom of the page
+.post-contents{
+  display: flex;
+  flex-direction: column;
+}
+.footnotes{
+  order:2;
+}
+
 
 html { height: 100% !important; }
 
@@ -22,13 +31,13 @@ body {
 
 time.no-formatting { background: none !important; }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem !important; }
+// h2, h3, h4, h5, h6 { margin-top: 0.5rem !important; }
 
 hr { margin: 2rem 0 !important; }
 
-p { margin: 1rem 0 !important; }
+p { margin: 0.6rem 0 !important; }
 
-li { margin: 0.4rem 0 !important; }
+// li { margin: 0.3rem 0 !important; }
 
 .w {
   width: fit-content !important;
@@ -49,6 +58,7 @@ hr {
 
 .footnotes {
   border-top: thin solid;
+  margin-top: 20px;
 }
 
 table { width: 100% !important; }
