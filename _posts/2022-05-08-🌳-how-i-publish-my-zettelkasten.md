@@ -29,7 +29,7 @@ Now, let's walk through it:
 ## set-up steps
 Set up is pretty easy and took 3 steps:
 1. Set up a Github Pages account with a basic website and theme.
-2. Create a folder in your vault that contains everything I want published
+2. Create a folder in your vault that contains everything you want published
 3. Set up obdye
 
 ### 1. set up Github Pages
@@ -127,4 +127,4 @@ It takes some understanding of regexes to properly use the find-replace feature,
 ### joining the IndieWeb
 By posting a blog, you're already part of [IndieWeb](https://indieweb.org/)! IndieWeb is a decentralized consortium of personally-owned blogs. It's a community dedicated to helping you own and manage your content.
 
-Corporate silos like Facebook and Twitter benefit from their proprietary formatting and following systems. Facebook knows exactly how to notify you when someone likes a post you follow, etc. With the independent web, there are some standards folks use to bring some of those benefits to a decentralized publishing ecosystem. That's where the [IndieWeb](https://indieweb.org/) shines. I recommend going through the [list of tools](https://indiewebify.me/) to see which make sense for you. I personally have IndieAuth and microformatting set up. (On that list, that is "Set up Web Sign In" and "Mark up your content with microformats2"). I would love to get webmentions set up eventually, but I'm just not sure how to get that working with GithubPage and if it's valuable to me right now. That said, who knows!
+Corporate silos like Facebook and Twitter benefit from their proprietary formatting and following systems. Facebook knows exactly how to notify you when someone likes a post you follow, etc. With the independent web, there are some standards folks use to bring some of those benefits to a decentralized publishing ecosystem. That's where the [IndieWeb](https://indieweb.org/) shines. I recommend going through the [list of tools](https://indiewebify.me/) to see which make sense for you. I've made it through Level 2, which means I finished getting webmention reception support working!  I don't yet display webmentions on the site, but perhaps that's something I can work on soon.
