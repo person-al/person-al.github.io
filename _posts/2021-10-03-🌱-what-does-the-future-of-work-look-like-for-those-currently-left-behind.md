@@ -2,8 +2,6 @@
 category: "\U0001F331"
 created_at: 2021-07-12
 date: 2021-10-03
-image: /assets/pexels-anastasiya-lobanovskaya-804954.jpg
-image_source: https://www.pexels.com/photo/venice-italy-804954/
 layout: post
 status: draft
 tags: future-of-work
