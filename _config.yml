@@ -54,6 +54,9 @@ feed:
     - 🌱
     - 🌳
     - 🌲
+  tags:
+    only:
+      - PortOfDetection
 
 # Exclude from processing.
 # The following items will not be processed, by default.
