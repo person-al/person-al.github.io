@@ -24,7 +24,7 @@ At first, the idea of adding generation into the system played fully at odds wit
 
 This direction has a few benefits, the primary of which being that this system _could_ exist entirely on-chain. Much like the [Loot contract](https://etherscan.io/address/0xff9c1b15b16263c61d017ee9f65c50e4ae0113d7#code), I could put the entire dictionary for the poem on chain, along with the exact algorithm by which the line for the poem is constructed. Opacity could also play a factor this way. Depending on the "opacity" of the line, the algorithm may skip words or return an empty line.
 
-So that's what I'll be exploring next: poetry generation. We'll see how it goes.
+So that's what I'll be exploring next: [poetry generation]({% post_url 2022-06-08-🌰-on-poetry-generation %}). We'll see how it goes.
 
 ## additional resources
 - [DeafBeaf's generative NFT project](https://www.deafbeef.com/series/3)
@@ -37,6 +37,7 @@ So that's what I'll be exploring next: poetry generation. We'll see how it goes.
 
 **Info**:
 - **Related to:**
+	- [🌰 on poetry generation]({% post_url 2022-06-08-🌰-on-poetry-generation %})
 	- [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %})
 	- [🌳 NFTs change how we create]({% post_url 2021-09-06-🌳-nfts-change-how-we-create %})
 	- [[🌰 on creating NFT art]]
