@@ -7,6 +7,17 @@ tags:
 title: "\U0001F6E0️ Port of Detection"
 ---
 
+**Recent updates:**
+<div>
+{%- include post_list.html
+	tag="PortOfDetection"
+	limit=5
+	show_more=true
+	show_more_text="See more..."
+	show_more_url=pod_archive.html
+-%}
+</div>
+<hr/>
 I've had an idea rolling around in my head for a while now. A story on the blockchain, a interactive public art piece, an NFT project that enables on-chain interaction in an interesting way. The idea is this:
 
 A story, in parts, each chapter represented by an NFT. Each chapter's text is publicly available on the blockchain, but encrypted with an unknown key. NFT holders have the ability to decrypt their chapter for everyone-- provided they burn their NFT first.
