@@ -8,6 +8,20 @@ title: "\U0001F6E0️ poetry generator"
 ---
 
 As part of my work on [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}), I've started exploring generated text art. This page allows you to join me in that exploration.
+#### How it works
+Currently the system is as follows:
+1. I have a list of words categorized by part of speech
+2. I have a mapping of parts of speech to other parts of speech (e.g. "a noun can be followed by an adverb or a verb")
+3. For each line of poetry, the system[^1]:
+	1. picks a random starting word
+	2. based on the part of speech of that word, it picks a random follow-up part of speech (e.g. "the first word was a noun, let's find an adverb next")
+	3. based on the selected part of speech, pick a random next word
+	4. go back to step 2 until the line is over
+
+[^1]: You can see the javascript code itself [here](/assets/js/poetry_generator.js)
+
+Soon, I'd like to surface different controls on this page to allow you to surface better algorithms than the one above. But for now, I wanted to put this up and get feedback. Let me know what you think!
+
 #### Change the settings below and generate some poetry!
 <script type='text/javascript' src="/assets/js/poetry_generator.js"></script>
 <script>
@@ -37,7 +51,7 @@ As part of my work on [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️
 </form>
 
 <h3>Poetry:</h3>
-<p id="poem">Fill out the form below to see your poem</p>
+<p id="poem">Fill out the form above to see your poem</p>
 <br/>
 <br/>
 <div id="send_me_box" style="display: none">Like what you made?
