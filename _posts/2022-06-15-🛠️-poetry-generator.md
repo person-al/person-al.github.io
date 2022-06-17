@@ -8,7 +8,7 @@ title: "\U0001F6E0️ poetry generator"
 ---
 
 As part of my work on [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}), I've started exploring generated text art. This page allows you to join me in that exploration.
-#### How it works
+## How it works
 Currently the system is as follows:
 1. I have a list of words categorized by part of speech
 2. I have a mapping of parts of speech to other parts of speech (e.g. "a noun can be followed by an adverb or a verb")
@@ -22,7 +22,7 @@ Currently the system is as follows:
 
 Soon, I'd like to surface different controls on this page to allow you to surface better algorithms than the one above. But for now, I wanted to put this up and get feedback. Let me know what you think!
 
-#### Change the settings below and generate some poetry!
+## Change the settings below and generate some poetry!
 <script type='text/javascript' src="/assets/js/poetry_generator.js"></script>
 <script>
 	let num_lines;
@@ -42,11 +42,13 @@ Soon, I'd like to surface different controls on this page to allow you to surfac
 	<br/>
 	<label for="max_line_length">Maximum number of words in a line:</label>
 	<input type="number" id="max_line_length" name="max_line_length">
-	<p>(More advanced settings coming soon :) )</p>
 	<br/>
-	<!-- <div><h4 style="display: inline">Advanced Settings:</h4> <button style="display: inline" type="button" onclick="return showOrHideAdvanced()">(Show/Hide)</button></div>
-	<div id="advanced_settings" style="display: none">Hello</div>
-	<br/><br/> -->
+	<div><h3 style="display: inline">Advanced Settings:</h3> <button style="display: inline" type="button" onclick="return showOrHideAdvanced()">(Show/Hide)</button></div>
+	<div id="advanced_settings" style="display: none">
+		<p>The algorithm picks words based on parts of speech as shown by the table below. (e.g. an adverb can be followed by another adverb or a verb, etc). You can add and remove parts of speech from the table below and then hit generate to change how the algorithm picks words. For examples for the parts of speech, see <a href="#pos_examples">here</a></p>
+		<table id="interactive_pos_table"></table>
+	</div>
+	<br/><br/>
 	<input type="submit" value="Generate"/>
 </form>
 
@@ -56,3 +58,6 @@ Soon, I'd like to surface different controls on this page to allow you to surfac
 <br/>
 <div id="send_me_box" style="display: none">Like what you made?
 <a id="send_me_link">Send Me Your Poem</a> or <a href="https://twitter.com/intent/tweet?via={{site.twitter_username}}&url={{ site.url | append: page.url | append: '?ref=twitter_share' | url_encode}}">tweet at me</a></div>
+
+<a href="#advanced_settings">\< back to advanced settings</a>
+<ul id="pos_examples"></ul>
