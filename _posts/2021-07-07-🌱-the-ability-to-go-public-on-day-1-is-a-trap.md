@@ -1,11 +1,12 @@
 ---
 category: "\U0001F331"
 date: 2021-07-07
-last_modified_at: 2021-11-19
+last_modified_at: 2022-06-27
 layout: post
 modified:
 - 2021-07-23
 - 2021-11-19
+- 2022-06-27
 status: published
 tags: blockchain, investing
 ---
@@ -36,6 +37,13 @@ Is that what you want your users and your board[^board] focused on at such an ea
 **Update, Fri Nov 19 2021:** @imdanielallan touched on the personal impact of these feelings [on Mirror](https://mirror.xyz/danielallan.eth/7avCPrr08XK6fPkqCPXDVC-qoxkUhFK6exQQ9ZgL8v0). A musical artist who launched a token successfully, he's suddenly confronted with the idea that his "shareholders" may be more investors than fans. As he puts it:
 
 > Do people value my music - the very vehicle that got me here - or are they more interested in this experiment and less the artistic effort that went in to the songs?
+
+**Update, Mon Jun 27, 2022:**
+Axie Infinity, the best-known "play to earn" game to date, is suffering a boom and bust cycle of its own. In [this Bloomberg piece](https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin), they comment on how Axie has started downplaying the "earn" part of play-to-earn.
+
+> Before being recruited [as the new head of product], La had written a post on his personal blog entitled “Is Axie Infinity sustainable?” He concluded that the game’s economy would ultimately fail if all its players continued to think like investors. “Axie Infinity first and foremost needs to be a game,” he told me.
+
+This validates for me how money can corrupt a product if done wrong. At some point I may want to do a revamp of this piece with all the new examples that have come up.
 
 **Inspired by:** [Yup.io forum](https://forum.yup.io/t/discovering-new-use-cases-for-yup/36)
 

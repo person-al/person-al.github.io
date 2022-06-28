@@ -1,8 +1,12 @@
 ---
 category: "\U0001F330"
 date: 2022-06-08
-last_modified_at: 2022-06-15
+last_modified_at: 2022-06-28
 layout: post
+modified:
+- 2022-06-08
+- 2022-06-15
+- 2022-06-28
 tags:
 - PortOfDetection
 - poetry
@@ -65,7 +69,13 @@ I don't have answers yet. I don't like the idea of picking random lines, I think
 ## Feedback from others
 I've sent the [playground]({% post_url 2022-06-15-🛠️-poetry-generator %}) to a few groups, this is a space to collect questions, feedback, and ideas as they come:
 - could you have themes for people to select from?
-	- This suggests a meta level of control. Instead of generating word-by-word, which is what's done now, I could have clusters of words organized by theme.
+    - This suggests a meta level of control. Instead of generating word-by-word, which is what's done now, I could have clusters of words organized by theme.
+- could rhyming be incorporated?
+    - I think this would be hard from a gas perspective. The logic to track rhyming schemes might be onerous on the blockchain.
+-  could you let people upload their own word lists to set the theme?
+- Personally, I've noticed that limiting the vocabulary to generate grammatically correct clauses is hard
+    - should I generate from the end instead of the front?
+    - should I limit all words to make grammatical correctness more likely? (E.g. all nouns are plural so the verbs are in plural form, or change all verbs to past tense, etc)
 
 **Info**:
 - **Related to:**
