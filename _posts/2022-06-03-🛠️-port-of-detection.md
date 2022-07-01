@@ -1,6 +1,7 @@
 ---
 category: "\U0001F6E0️"
 date: 2022-06-03
+last_modified_at: 2022-06-30
 layout: post
 tags:
 - PortOfDetection
@@ -18,9 +19,7 @@ title: "\U0001F6E0️ Port of Detection"
 -%}
 </div>
 <hr/>
-I've had an idea rolling around in my head for a while now. A story on the blockchain, a interactive public art piece, an NFT project that enables on-chain interaction in an interesting way. The idea is this:
-
-A story, in parts, each chapter represented by an NFT. Each chapter's text is publicly available on the blockchain, but encrypted with an unknown key. NFT holders have the ability to decrypt their chapter for everyone-- provided they burn their NFT first.
+Port of Detection is a interactive public art piece that pushes the boundaries of ownership. 
 
 You either own access, or you _may_ access. You cannot do both.
 
@@ -29,8 +28,7 @@ It's important with any project to lay out what the goals are and what they _are
 
 I will prioritize:
 - building in public
-- making a public art piece that improves with user interaction
-- creating NFTs that _must_ be interacted with
+- making a public art piece that requires user interaction
 - putting as much data on-chain as is reasonable
 - limiting the scope of the project to 5-20 NFTs max
 - making enough money to cover basic project costs
@@ -46,10 +44,11 @@ Note that just because I'm not prioritizing something doesn't mean it's banned. 
 (If you have any tips or resources for the following tasks, please reach out.)
 - [x] get preliminary feedback on the idea from NFT collectors
 - [x] publish project announcement
+- 🏃‍♀ iterate on idea (see [🛠️ poetry generator]({% post_url 2022-06-15-🛠️-poetry-generator %}))
 - [ ] publish proposed NFT architecture, get feedback
 - [ ] publish proposed website design, get feedback
-- 🏃‍♀ develop rough draft of smart contract
-- 🏃‍♀ develop rough draft of website
+- [ ] develop rough draft of smart contract
+- [ ] develop rough draft of website
 - [ ] find Solidity experts willing to give feedback on the contract rough draft, iterate based on feedback
 - [ ] finalize the story chapters
 - [ ] test finalized contract on testnet
@@ -60,5 +59,8 @@ Note that just because I'm not prioritizing something doesn't mean it's banned. 
 
 ## Follow along
 There's a lot more to come: details on features and architecture, tutorials on smart contract deployment, and calls for volunteers to help break everything. If you'd like to follow along, you can subscribe to [the blog's RSS feed](/feed.xml) or [this project-specific feed](/feed/by_tag/PortOfDetection.xml).[^1] Or, if RSS isn't your thing, I am [on twitter](https://twitter.com/person72443) and [mastodon](https://mastodon.social/web/@person72443).
+
+## Updates
+**30 Jun 2022:** After a [great conversation with Commits Vortex]({% post_url 2022-06-08-🌰-a-meeting-on-nft-art %}), I've shifted away from the "story" based language in this doc to focus more broadly on text generation. The goals are the same, but the final shape of the art may be different. I'm also working on improving the pitch, though it's not any better yet.
 
 [^1]: Why RSS, you ask? Well, it's the most decentralized option and the easiest to set up.
