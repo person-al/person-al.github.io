@@ -21,7 +21,7 @@ This artwork allows you start with a random poem of my choosing, but change any 
 
 
 <form action="#" onsubmit="onSubmit(); return false;">
-<div id="diamond" style="width:1400px;margin-left:-300px;">
+<div id="diamond" style="width:1400px;">
     <div style="margin-left: 500px;"><input class="inline-inputs" type="text" id="1-1" value="When she" /></div>
     <br />
     <div style="margin-left: 370px;">

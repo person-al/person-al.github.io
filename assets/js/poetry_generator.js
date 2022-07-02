@@ -235,6 +235,21 @@ const pos=['d', 'i', 'r', 'm', 'p', 'j', 'a', 'n', 'c', 'u', 'v'];
 const validStartingPos = pos;
 
 
+function getParameters() {
+	let paramString = window.location.search;
+	let queryString = new URLSearchParams(paramString);
+	for(let pair of queryString.entries()) {
+		if (pair[0] === "num_lines") {
+			num_lines = parseInt(pair[1])
+			document.getElementById("num_lines").value = num_lines
+		}
+		if (pair[0] == "max_line_length") {
+			max_words = parseInt(pair[1])
+			document.getElementById("max_line_length").value = max_words
+		}
+	}
+}
+
 function generate_random_clause(length){
     let line = '';
     let posList = [];
@@ -242,7 +257,7 @@ function generate_random_clause(length){
     for (let i = 0; i < length; i++) {
         posList.push(posToName[posKey]);
         const validWords = posToWords[posKey];
-        line += validWords[Math.floor(Math.random() * validWords.length)] + " ";
+        line += `<span class="posword-${posKey}">${validWords[Math.floor(Math.random() * validWords.length)]}</span> `;
         
         const potentialNextPOS = posToNextPos[posKey];
         posKey = potentialNextPOS[Math.floor(Math.random() * potentialNextPOS.length)];
@@ -260,9 +275,20 @@ function generate_poetry(num_lines, max_line_length) {
     return poem.join('<br/>');
 }
 
+function populatePosToWords(){
+	if (document.getElementById('add_words_pos_table').childElementCount <= 0){
+		return;
+	}
+	for (let i=0; i<pos.length; i++) {
+		const k = pos[i];
+		posToWords[k] = document.getElementById(`posToWordList-${k}`).value.split(", ");
+	}
+}
+
 let poetry;
 
 function onSubmit(){
+	populatePosToWords();
 	const poem = generate_poetry(document.getElementById('num_lines').value,document.getElementById('max_line_length').value);
 	document.getElementById("poem").innerHTML = poem;
 	setMailToLink(poem);
@@ -275,8 +301,28 @@ function showOrHideAdvanced(){
 		advanced.style.display = 'none';
 	} else {
 		advanced.style.display = 'block';
-		renderPosExampleList();
+		generateWordTable();
 		generatePOSTable();
+	}
+}
+
+function showOrHidePosRelationships(){
+	const ele = document.getElementById('interactive_pos_table');
+	let curr = ele.style.display;
+	if (curr === 'inline-table') {
+		ele.style.display = 'none';
+	} else {
+		ele.style.display = 'inline-table';
+	}
+}
+
+function showOrHideModifyWordBank(){
+	const ele = document.getElementById('add_words_pos_table');
+	let curr = ele.style.display;
+	if (curr === 'inline-table') {
+		ele.style.display = 'none';
+	} else {
+		ele.style.display = 'inline-table';
 	}
 }
 
@@ -289,6 +335,59 @@ function setMailToLink(poem){
 	var a_block = document.getElementById('send_me_box');
 	a_block.style.display = 'block';
 	a.href = `mailto:${email+email_end}?subject=Look at this poem!&body=I made the following poem:%0A${poem}%0A with the following settings:%0A${settings}`;
+}
+
+function generateWordTable(){
+	const table = document.getElementById('add_words_pos_table');
+	while (table.lastChild) {
+        table.removeChild(table.lastChild);
+    }
+
+    const headerStyle = "font-weight: bold; font-size:17px";
+
+	table.border = '1';
+	const tableBody = document.createElement('tbody');
+	table.appendChild(tableBody);
+
+	const headerRow = document.createElement('tr');
+	tableBody.appendChild(headerRow);
+	const firstColumnLabel = document.createElement('td');
+    firstColumnLabel.style= headerStyle;
+    firstColumnLabel.appendChild(document.createTextNode('Part of Speech'));
+    headerRow.appendChild(firstColumnLabel);
+    
+    const secondColumnLabel = document.createElement('td');
+    secondColumnLabel.appendChild(document.createTextNode('Examples'));
+    secondColumnLabel.style=headerStyle;
+    headerRow.appendChild(secondColumnLabel);
+    
+    const thirdColumnLabel = document.createElement('td');
+    thirdColumnLabel.width = '300';
+    thirdColumnLabel.appendChild(document.createTextNode('Wordlist'));
+    thirdColumnLabel.style=headerStyle;
+    headerRow.appendChild(thirdColumnLabel);
+
+	for (var k in posToNextPos) {
+		const tr = document.createElement('tr');
+		tableBody.appendChild(tr);
+		const td = document.createElement('td');
+	    // td.width = 'auto';
+	    td.appendChild(document.createTextNode(`${posToName[k]}`));
+	    tr.appendChild(td);
+
+		const td2 = document.createElement('td');
+	    tr.appendChild(td2);
+    	td2.appendChild(document.createTextNode(`${posToExamples[k].join(', ')}`));
+	    
+	    const td3 = document.createElement('td');
+	    const inp = document.createElement('textarea')
+	    inp.style = "width: 280px;"
+	    inp.type = "text"
+	    inp.id = `posToWordList-${k}`
+	    inp.value = `${posToWords[k].join(', ')}`
+	    td3.appendChild(inp);
+	    tr.appendChild(td3);
+	}
 }
 
 function generatePOSTable(){
@@ -306,7 +405,6 @@ function generatePOSTable(){
 	const headerRow = document.createElement('tr');
 	tableBody.appendChild(headerRow);
 	const firstColumnLabel = document.createElement('td');
-    // firstColumnLabel.width = 'auto';
     firstColumnLabel.style= headerStyle;
     firstColumnLabel.appendChild(document.createTextNode('Part of Speech'));
     headerRow.appendChild(firstColumnLabel);
@@ -327,12 +425,10 @@ function generatePOSTable(){
 		const tr = document.createElement('tr');
 		tableBody.appendChild(tr);
 		const td = document.createElement('td');
-	    // td.width = 'auto';
 	    td.appendChild(document.createTextNode(`${posToName[k]}`));
 	    tr.appendChild(td);
 
 		const td2 = document.createElement('td');
-	    // td2.width = '300';
 	    tr.appendChild(td2);
 	    const res = posToNextPos[k];
 	    for (var i in res) {
@@ -343,7 +439,6 @@ function generatePOSTable(){
 	    }
 
 	    const td3 = document.createElement('td');
-	    // td3.width = 'auto';
 	    td3.appendChild(getPosSelect(k));
 	    tr.appendChild(td3);
 	}
@@ -438,4 +533,10 @@ const posToExamples = {
 	'c': ['though', 'whether', 'and'],
 	'u': ['yes','oh'],
 	'v': ['do', 'could', 'hand', 'call'],
+	'end': [],
 }
+
+
+
+getParameters();
+renderPosExampleList();
