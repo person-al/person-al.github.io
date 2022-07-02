@@ -288,8 +288,15 @@ function populatePosToWords(){
 let poetry;
 
 function onSubmit(){
+	const num_lines = document.getElementById('num_lines').value;
+	const max_words = document.getElementById('max_line_length').value;
+	const urlParams = new URLSearchParams(window.location.search);
+	urlParams.set('num_lines', num_lines);
+	urlParams.set('max_line_length', max_words);
+	window.history.replaceState(null, null, `?${urlParams}`);
+
 	populatePosToWords();
-	const poem = generate_poetry(document.getElementById('num_lines').value,document.getElementById('max_line_length').value);
+	const poem = generate_poetry(num_lines,max_words);
 	document.getElementById("poem").innerHTML = poem;
 	setMailToLink(poem);
 }
