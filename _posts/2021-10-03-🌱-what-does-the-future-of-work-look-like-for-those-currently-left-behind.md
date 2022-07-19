@@ -50,4 +50,6 @@ That said, for the workers Piovesan describes in his piece, I suspect that "a lo
 
 **Inspired by:** [How the Venice Biennale Makes Life Harder for Working Venetians](https://hyperallergic.com/658204/venice-biennale-makes-life-harder-for-working-venetians/)
 
-**Related to:** [[❔ What does the future of work look like]]
+**Related to:**
+- [[❔ What does the future of work look like]]
+- UPDATE 2022/8/18: Dror Poleg recently [wrote about this from the opposite perspective](https://www.linkedin.com/pulse/remote-geography-nowhere-dror-poleg/)-- that of the folks currently living in big cities
