@@ -131,4 +131,4 @@ By posting a blog, you're already part of [IndieWeb](https://indieweb.org/)! Ind
 Corporate silos like Facebook and Twitter benefit from their proprietary formatting and following systems. Facebook knows exactly how to notify you when someone likes a post you follow, etc. With the independent web, there are some standards folks use to bring some of those benefits to a decentralized publishing ecosystem. That's where the [IndieWeb](https://indieweb.org/) shines. I recommend going through the [list of tools](https://indiewebify.me/) to see which make sense for you. I've made it through Level 2, which means I finished getting webmention reception support working!  I don't yet display webmentions on the site, but perhaps that's something I can work on soon.
 
 **Info:**
-- - <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
+- <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
