@@ -24,6 +24,7 @@ If you'd like to follow along, you can subscribe to [the blog's RSS feed](/feed.
 
 ## Goals
 In building Quicksidian I aim to:
+- solve the specific use-case of quick-capture
 - build an Android app
 - allow sharing text and URLs via the Android share panel
 - support basic templates (maybe templater templates?)
@@ -33,6 +34,8 @@ In building Quicksidian I aim to:
 
 ## Non-Goals
 The following will NOT be part of this project:
+- Recreating Obsidian functionality
+	- Even things like the double-bracket file-search are beyond the scope of this project, imo. Anything Obsidian does well, we should leave to Obsidian. This is more for 30 second interactions.
 - Support non-Android platform
 - Support complex templates
 - Support any Obsidian community plugins
