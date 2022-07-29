@@ -66,8 +66,9 @@ However, my struggles with bullet journaling were three-fold:
 - it's easy to get sucked into the aesthetic world of habit trackers, weekly spreads, and midliners. It's easy to forget that there's a reason strict, pre-printed planners don't work well for you, and that's the same reason making a "books I've read this year" spread will fail.
 
 ## Other assorted approaches:
-- Rachel from The Sorry Girls outlines a potential half-guided half-freestyle approach in "[preparing for a new year (feat. a home makeover)](https://www.youtube.com/watch?v=zn_wdnFNOHU&t=235)"
 - struthless on Youtube outlines 9 guided journaling exercises to cover situations like managing anxieties, doing a lifestyle audit, or gaining clarity in "[Journaling Techniques that Changed My Life](https://www.youtube.com/watch?v=dArgOrm98Bk)"
+- Chad Kohaylk gets granular on how he implements Morning Pages and a daily note into his everyday life [here](https://chadkohalyk.com/2021/02/12/journaling-part-2-the-daily-note-and-morning-pages/)
+- Rachel from The Sorry Girls outlines a potential half-guided half-freestyle approach in "[preparing for a new year (feat. a home makeover)](https://www.youtube.com/watch?v=zn_wdnFNOHU&t=235)"
 
 ## My Approach
 As I noted, I've been bullet journaling for a while. But somewhere in the process (and mostly due to covid), I fell off the bandwagon and haven't found my way back to regularity. One of the open questions I have right now is whether I should lean into digital journaling a la Penn Jilette or continue using notebooks as I have in the past. Thanks to the [[🧪 Obsidian Experiment]], more of my notes are digital. And using digital calendars works far better for me than the bullet journal calendars. That said, physical journaling is undeniably therapeutic.
@@ -82,3 +83,5 @@ More thoughts to come. For now, I just wanted to collect some potential methodol
 	- [The Artist's Way](https://www.theartistswaybook.com/)
 	- [[🌰 it's not about writing, it's about thinking]]
 	- [[🗨️ Penn Jillette's approach to journaling]]
+- **Updates:**
+	- 2022-07-29: Added Chad Kohalyk's detailed blog post to "Other Methods".
