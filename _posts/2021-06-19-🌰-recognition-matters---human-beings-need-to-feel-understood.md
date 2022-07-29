@@ -32,3 +32,4 @@ Richard Seymour discusses the importance of recognition in _The Twittering Machi
 - [🌱 money strips an interaction of spiritual value]({% post_url 2021-06-13-🌱-money-strips-an-interaction-of-spiritual-value %})
 - [🗨️ decentralization gets eroded by stealth]({% post_url 2021-07-07-🗨️-decentralization-gets-eroded-by-stealth %})
 - [[🌰 work took place of religion in people's lives, what next]]
+- On status seeking: [[🌰 people seek status and the most efficient way to gain status]]

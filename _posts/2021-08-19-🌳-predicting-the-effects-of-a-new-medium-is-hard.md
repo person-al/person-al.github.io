@@ -55,7 +55,7 @@ is like playing a game of telephone with yourself. If the world takes a hard lef
 - [Krugment is Wrong about the Internet. Again.](https://www.drorpoleg.com/krugman-is-wrong-about-the-internet-again/)
 - [Novels can be used to predict geopolitical conflict 5 years in advance](https://www.theguardian.com/lifeandstyle/2021/jun/26/project-cassandra-plan-to-use-novels-to-predict-next-war)
 - [Compounding Crazy](https://www.notboring.co/p/compounding-crazy): a Packy McCormick piece entirely about how progress is exponential and therefore unpredictable to our linear brains.
-- Potential blog posts:
-	- [[🌱 NFTs change how we create]]
+- Blog posts:
+	- [🌳 NFTs change how we create]({% post_url 2021-09-06-🌳-nfts-change-how-we-create %})
 	- [[❔ How can we predict how a new medium will affect current media]]
 	- [[❔ What is an example of a medium change that led to a media change]]
