@@ -4,11 +4,11 @@ date: 2022-06-15
 last_modified_at: 2022-06-30
 layout: post
 tags:
-- PortOfDetection
+- Pathfinder
 title: "\U0001F6E0️ poetry generator"
 ---
 
-As part of my work on [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}), I've started exploring generated text art. This series of interactive artworks allows you to join me.
+As part of my work on [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %}), I've started exploring generated text art. This series of interactive artworks allows you to join me.
 
 - [🌰 concrete poetry pathfinder]({% post_url 2022-06-30-🌰-concrete-poetry-pathfinder %}): Inspired by Layli Long Soldier's 
  [_Obligations 2_](https://www.poetryfoundation.org/poems/149976/obligations-2), this artwork allows you to find your own path along a diamond-shaped poem of your choosing.

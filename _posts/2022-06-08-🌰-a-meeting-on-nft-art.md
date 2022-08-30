@@ -7,7 +7,7 @@ tags:
 title: "\U0001F330 a meeting on nft art"
 ---
 
-The other day, I met with Commits Vortex, a fellow frequenter of the [Yak Collective](https://www.yakcollective.org/). I wanted feedback on [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}), the NFT project I've been tossing around in my head. Some notes on the meeting:
+The other day, I met with Commits Vortex, a fellow frequenter of the [Yak Collective](https://www.yakcollective.org/). I wanted feedback on [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %}), the NFT project I've been tossing around in my head. Some notes on the meeting:
 
 **On where the art can go:**
 We discussed the form of Port of Detection for quite some time. The way burning is used to challenge the way we think of blockchain ownership was definitely an interesting one, but Commits Vortex noted that there were other mechanisms of the blockchain I could pull into the work:
@@ -17,7 +17,7 @@ We discussed the form of Port of Detection for quite some time. The way burning 
 * They also noted that I could merge the content of the textual work with the mechanics of the NFT work. If my story has specific themes, can I bring those themes into the interaction model of the NFT?
 
 **On where  I can go:**
-My weakest skill, in my own estimation, is in the marketing of the art. How do I explain the concept in a way that excites people? How do I find people who are as excited by this weirdness as I am and will want to play around with whatever I build? Commits Vortex noticed that the main [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}) page reads like a technical summary, less so an artistic one. Finding the balance between the two is something I'll have to work on.
+My weakest skill, in my own estimation, is in the marketing of the art. How do I explain the concept in a way that excites people? How do I find people who are as excited by this weirdness as I am and will want to play around with whatever I build? Commits Vortex noticed that the main [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %}) page reads like a technical summary, less so an artistic one. Finding the balance between the two is something I'll have to work on.
 
 **On a shifted direction:**
 At first, the idea of adding generation into the system played fully at odds with the story I had planned for this piece. And it was hard to see how things like rotating vowels or changing opacity would play nicely with an encrypted block of text. Instead of a planned story, I needed a generated artwork. A generated poem, perhaps? When you burn the token, a line is added to the poem, the words for which are chosen based on how long the token was held, how many times it was transferred between parties, etc.
@@ -38,6 +38,6 @@ So that's what I'll be exploring next: [poetry generation]({% post_url 2022-06-0
 **Info**:
 - **Related to:**
 	- [🌰 on poetry generation]({% post_url 2022-06-08-🌰-on-poetry-generation %})
-	- [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %})
+	- [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %})
 	- [🌳 NFTs change how we create]({% post_url 2021-09-06-🌳-nfts-change-how-we-create %})
 	- [[🌰 on creating NFT art]]

@@ -15,7 +15,7 @@ tags:
 title: "\U0001F330 on poetry generation"
 ---
 
-In my explorations for [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %}), I'm looking into poetry generation. I don't need it to be _good_ poetry. But something passable and enjoyable enough. Obviously, this is a difficult task if I'm not going to use AI. But I hoped that given its abstract nature, "adequate" poetry might be easier to create heuristically than an "adequate" sentence. This may still be true, but "adequate" poetry is still a struggle so far.
+In my explorations for [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %}), I'm looking into poetry generation. I don't need it to be _good_ poetry. But something passable and enjoyable enough. Obviously, this is a difficult task if I'm not going to use AI. But I hoped that given its abstract nature, "adequate" poetry might be easier to create heuristically than an "adequate" sentence. This may still be true, but "adequate" poetry is still a struggle so far.
 
 ## 1. Grammar-based poetry generation
 

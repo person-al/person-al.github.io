@@ -3,7 +3,7 @@ category: "\U0001F330"
 date: 2022-06-30
 layout: post
 tags:
-- PortOfDetection
+- Pathfinder
 title: "\U0001F330 concrete poetry pathfinder"
 ---
 
@@ -91,4 +91,4 @@ This artwork allows you start with a random poem of my choosing, but change any 
 	- [🌰 random poetry generator]({% post_url 2022-06-15-🌰-random-poetry-generator %})
 	- [🌰 on poetry generation]({% post_url 2022-06-08-🌰-on-poetry-generation %})
 	- [[🛠️ choose your own poetry]]
-	- [🛠️ Port of Detection]({% post_url 2022-06-03-🛠️-port-of-detection %})
+	- [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %})

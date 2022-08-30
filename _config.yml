@@ -56,7 +56,7 @@ feed:
     - 🌲
   tags:
     only:
-      - PortOfDetection
+      - Pathfinder
       - quicksidian
 
 # Exclude from processing.

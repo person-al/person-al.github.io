@@ -16,6 +16,7 @@ The Obsidian mobile app can be slow to load.[^1] When you need the power of Obsi
 ## What feedback do I need?
 If you're reading this, you're likely intrigued by the idea. Here's how to give helpful feedback on Quicksidian:
 1. If this isn't something you'd use, that's okay! I'm building this for myself foremost and don't care if the eventual audience is just 1. However, if you have solutions that solve the "slow Obsidian" problem for you, do let me know! Maybe I don't need to build a whole app after all.
+	- I've gotten a few great suggestions here: FleetingNotes requires an account, but has an Obsidian vault-syncing plugin, apparently. And Markor, the popular Markdown app for Android, has a "Quicknote" feature and sharing functionality. Neither support templates, but that's likely a nice-to-have anyway.
 2. If you would use this, let me know! The encouragement will help make it happen.
 3. If you see a ?, it means I'm not sure which user experience is best. Please let me know what you think.
 4. Features marked as (Optional) are likely complex to build and I'm not sure if they're worth it. If you see an easy solution, let me know. And if you think they're worth it, let me know.
