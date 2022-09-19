@@ -72,14 +72,14 @@ I wasn't planning on running a server, and I want [🛠️ Pathfinder]({% post_u
 Options 1 and 2 get you the gold standard in computer-based randomness. If you don't want that, you'll need to roll your own silver standard. The guiding principle is: "Limit the caller's control and the miner's control."
 
 Limiting the caller's control is easy: don't use user inputs in your random number generator.[^3] However, there are still two ways callers can hack your randomness:
-1. Paying the miner to use a specific value in their block
-2. Paying the miner to wait until value they want comes along
+1. Paying the miner/validator to use a specific value in their block
+2. Paying the miner/validator to wait until value they want comes along
 
 [^3]: This is where Loot made its mistake. The random number generator uses tokenId, but the public `claim`  function allows users to decide which tokenId they'd like to mint. Users could run the code in advance to decide which tokenId would get them the rarest combination and mint that specific token.
 
-You can prevent #1 by avoiding [block properties](https://docs.soliditylang.org/en/v0.8.17/units-and-global-variables.html?highlight=block#block-and-transaction-properties) miners can control like block.timestamp or even the full block hash. Values like block.number or block.difficulty, on the other hand, are not in the miner's control.
+You can prevent #1 by avoiding [block properties](https://docs.soliditylang.org/en/v0.8.17/units-and-global-variables.html?highlight=block#block-and-transaction-properties) miners can control like block.timestamp. Instead, consider values like block.number or block.difficulty. With the transition to Proof of Stake, Ethereum now provides a pseudorandom number with each block using the [randao system](https://blockdoc.substack.com/p/randao-under-the-hood). (If you already deployed a contract relying on block difficulty, your contract will now get the [randao value instead](https://mvpworkshop.co/blog/ethereum-merge-everything-you-need-to-know/#DIFFICULTY_opcode_is_now_PREVRANDAO).)
 
-#2 is unavoidable, but you can make waiting expensive, inconvenient, or use other people to add additional unpredictability. [Mannys game](https://www.solidlint.com/address/0x2bd58a19c7e4abf17638c5ee6fa96ee5eb53aed9) uses the previous block hash, which is a neat way to make the exploit extra expensive. (You'd have to pay miner 1 to have the block hash you want and then miner 2 to get your transaction included in the next block). And as for using other people, we'll get into that shortly.
+#2 is unavoidable, but is inherently _very_ expensive. Plus, you can make waiting inconvenient, or use other people to add additional unpredictability. We'll get into that shortly.
 
 Again, if you _really_ need randomness, use one of the other approaches. Otherwise, making an exploit inconvenient or expensive may be good enough.
 
@@ -117,3 +117,7 @@ Which option you choose is up to you and your project. If unpredictable, untampe
 - **Inspired by:** [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %})
 - **Related to:**
 	- [[🌰 so you want to deploy a smart contract]]
+- **Updates:**
+	- 2022-09-18
+		- Added details on randao and prevrandao
+		- Removing the Manny's game statement about needing to pay 2 miners, as that's incorrect.
