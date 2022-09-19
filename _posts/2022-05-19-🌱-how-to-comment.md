@@ -15,3 +15,6 @@ Whether you're on Twitter or TikTok, Facebook or IPFS, you can comment. You don'
 Again. Whatever silo you post to, I don't have to make an account there. I don't have to track notifications in 5 different apps. It's just one feed on my phone! And then I can decide where and if to respond. Maybe I'll link to your comment on my blog. Or maybe I'll come respond to your tweet. It gives us flexibility to use the tools we're used to using and still communicate.
 ### 3. It's slow.
 Most content creation sites optimize for speed. The fewer clicks, the most content that's created. This is true when your goal is to maximize created content. But my goal is not to maximize created content. It's to think out loud and learn from people's responses, if they come. And I suspect when it comes to quality, slow is better.
+
+**Related to:**
+- [🌳 how I publish my Zettelkasten]({% post_url 2022-05-08-🌳-how-i-publish-my-zettelkasten %})

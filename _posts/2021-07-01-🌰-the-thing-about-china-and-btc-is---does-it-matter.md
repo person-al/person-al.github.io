@@ -15,3 +15,4 @@ I assume it concerns people because it's an example from the kind of regulation 
 **Related to:**
 - [🗨️  How China announces new financial policy]({% post_url 2021-07-07-🗨️--how-china-announces-new-financial-policy %})
 - [🗨️ The effect of strong BTC on China]({% post_url 2021-07-07-🗨️-the-effect-of-strong-btc-on-china %})
+- [🌰 old rules will always bend new technology]({% post_url 2021-08-10-🌰-old-rules-will-always-bend-new-technology %})

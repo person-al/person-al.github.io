@@ -27,6 +27,12 @@ Port of Detection is a interactive public art piece that pushes the boundaries o
 
 You either own access, or you _may_ access. You cannot do both.
 
+## Learnings from the testnet
+- how do I redirect people to follow me? How do I link from the project to a webpage of some sort? How do I communicate with folks who have engaged with my work? I don't know where they come from or what they do. Would it be another protocol for that? Or a general transaction with a signed message in the data?
+	- Could I have a homepage link that falls back to a datauri description if the owner decrees it? Is that valuable?
+- What will happen to my project with Rinkeby dies? Effing OpenSea not moving their testnet over to Goerli yet. Or having two testnets now.
+- What can I cut from my contract at this point? 
+- Do I need a Reentrancy Guard?
 ## Goals and Non-Goals
 It's important with any project to lay out what the goals are and what they _aren't_. Here we go.
 
