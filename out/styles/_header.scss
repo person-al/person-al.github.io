@@ -1,0 +1,46 @@
+@use 'colors';
+@use 'fonts';
+@use 'sizing';
+
+$background-color: colors.$very-dark !default;
+$max-height: 100px !default;
+$min-height: 10vh !default;
+$reset-background: colors.$button !default;
+$reset-color: colors.$very-light !default;
+$foreground-color: colors.$contrast !default;
+
+.header {
+    min-height: $min-height;
+    background-color: $background-color;
+    color: $foreground-color;
+
+    nav {
+        display: grid;
+        grid-template-columns: [left] 125px 1fr [right] minmax(5px, 20vh);
+
+        h1 {
+            justify-self: left;
+            font-family: fonts.$header;
+            font-size: 2rem;
+        }
+
+        .controls {
+            display: grid;
+            justify-items: end;
+
+            button {
+                display: inline-block;
+                background: $reset-background;
+                color: $reset-color;
+                border: 0;
+                box-shadow: none;
+                border-radius: 0;
+                min-height: $min-height;
+                min-width: $min-height;
+                max-height: 100px;
+                font-size: 1rem;
+                text-transform: uppercase;
+            }
+        }
+    }
+}

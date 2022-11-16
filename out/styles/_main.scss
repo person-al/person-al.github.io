@@ -1,0 +1,60 @@
+@use 'colors';
+@use 'fonts';
+@use 'sizing';
+
+.main {
+    display: grid;
+    grid-template-columns: minmax(2vw, sizing.$story-margin) minmax(300px, 1fr) minmax(2vw, sizing.$story-margin);
+    background: colors.$very-light;
+
+    font-family: fonts.$body;
+    padding-top: 2rem;
+    font-size: sizing.$font-size-default;
+    color: colors.$very-dark;
+
+    h1, h2, h3 {
+        margin: 1em 0 .75em 0;
+    }
+    h1 {
+        font-size: 1.75em;
+    }
+    h2 {
+        font-size: 1.5em;
+    }
+    h3 {
+        font-size: 1.25em;
+    }
+    h4 {
+        font-size: 1em;
+    }
+
+
+    .left {
+        min-height: 100vh;
+    }
+
+    .story {
+        min-height: 100vh;
+
+        aside, p, li {
+            margin: 0 0 1rem 0;
+            line-height: 1.4em;
+        }
+        aside {
+            margin-top: 1rem;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            line-height: 1.2em;
+        }
+        a {
+            color: colors.$cool;
+        }
+
+
+    }
+
+    .right {
+        min-height: 100vh;
+
+    }
+}

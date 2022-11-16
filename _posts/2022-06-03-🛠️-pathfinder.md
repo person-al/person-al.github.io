@@ -6,7 +6,7 @@ layout: post
 redirect_from:
 - "/\U0001F6E0️/2022/06/03/port-of-detection.html"
 redirect_to:
-- /pathfinder/
+- /out/pathfinder/
 tags:
 - Pathfinder
 title: "\U0001F6E0️ Pathfinder"

@@ -1,0 +1,19 @@
+title: pathfinder
+language: en
+chapters:
+    - filename: 'chapter1'
+      title: 'Pathfinder'
+    - filename: 'chapter2'
+      title: 'The Search Begins'
+    - filename: 'chapter3'
+      title: 'Little Shop of Horrors'
+    - filename: 'chapter4'
+      title: 'The Story of the Gems'
+    - filename: 'alreadyVisited'
+      title: 'Your Return'
+    - filename: 'chapter5'
+      title: 'A Purchase is Made'
+    - filename: 'chapter6'
+      title: 'A Safe Return'
+players:
+    - start: 'chapter1'
