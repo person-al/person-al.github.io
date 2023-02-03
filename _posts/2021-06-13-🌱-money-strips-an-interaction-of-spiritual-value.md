@@ -35,7 +35,6 @@ Paying someone to smile at your cheapens their smiles and decreases the positive
 Micro-payments are a tool. Smart-contracts are a tool. A society is healthiest when it optimizes for human satisfaction, happiness, and health. Wealth can be a proxy for some of these things, but optimizing for wealth and compensation will not achieve all societal goals. Sometimes, what you really need is a friendly face at the baggage claim.
 
 **Inspired by:** [The Token Society](https://www.drorpoleg.com/the-token-society/)
-
 **Related to:**
 - [❔ How do you turn a transactional relationship to a communal one]({% post_url 2021-06-13-❔-how-do-you-turn-a-transactional-relationship-to-a-communal-one %})
 - [🌰 recognition matters - human beings need to feel understood]({% post_url 2021-06-19-🌰-recognition-matters---human-beings-need-to-feel-understood %})

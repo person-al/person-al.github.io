@@ -6,7 +6,7 @@ tags: blockchain,ethereum,staking
 title: "\U0001F333 Ethereum is Killing Your Startup"
 ---
 
-<style>  
+<style>
 .subtitle {font-weight:600; margin-bottom:2rem !important;}  
 </style>
 <p class="subtitle">Or, the hidden cost of transaction fees</p>
