@@ -19,4 +19,6 @@ There are contexts where this is not appropriate. In medicine or policy, "try an
 
 But when it comes to low-stakes problem solving or creative work, creating before you think you're ready is valuable. At least, that's the hypothesis this blog is testing.
 
-**Related:** [start before you think you're ready](https://www.youtube.com/watch?v=Purzzv8G66o&t=390)
+**Related:** 
+- [start before you think you're ready](https://www.youtube.com/watch?v=Purzzv8G66o&t=390)
+- [[🌰 we remember better when we handwrite notes]]

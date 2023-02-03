@@ -90,5 +90,4 @@ This artwork allows you start with a random poem of my choosing, but change any 
 - **Related to:**
 	- [🌰 random poetry generator]({% post_url 2022-06-15-🌰-random-poetry-generator %})
 	- [🌰 on poetry generation]({% post_url 2022-06-08-🌰-on-poetry-generation %})
-	- [[🛠️ choose your own poetry]]
 	- [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %})

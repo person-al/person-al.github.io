@@ -23,3 +23,5 @@ There is a potential future of split blockchains, that's true. But what Potts is
 - **Inspired by:** [🌱 it doesn't need to be blockchain]({% post_url 2021-06-24-🌱-it-doesn-t-need-to-be-blockchain %})
 - **Related to:**
 	- [[Blockchain is as revolutionary as electricity- Big Ideas with Jason Potts]]
+	- This paragraph from [Cointelegraph](https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot):
+		- "MOBI and its partners are optimizing the blockchain-based system for connected electric vehicles. This way, transactions for tolls, car maintenance and even rest stop snacks can be recorded on the fly and then paid all at once when the vehicle is plugged into a charging station. In a recent analysis, Juergen Reers, Stephen Zoegall, and Pierre-Olivier Desmurs of Accenture predict that transactions like these will become a multi-trillion-dollar global ecosystem that enables new pay-as-you-go mobility services, with blockchain providing the infrastructure for data sharing and security across manufacturers, suppliers and other relevant parties."
