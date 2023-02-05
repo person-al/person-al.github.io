@@ -25,6 +25,7 @@ I'm reminded here of common retirement saving advice: if you cut your expenses, 
 **Info**:
 - **Source:** [[Smil, Vaclav]] [[Vaclav Smil on the Need to Abandon Growth]]
 - **Related to:**
+	- [🗨️ the limitless destructiveness of this economy is because a corporation is not a person]({% post_url 2022-06-28-🗨️-the-limitless-destructiveness-of-this-economy-is-because-a-corporation-is-not-a-person %})
 	- [[❔ How much of our response to climate change comes from the American belief that we can do anything if we put our minds to it]]
 	- [[🗨️the consumer suffers in an absence of criticism]]
 	- [[🌰 the math on a wealth tax checks out]]
