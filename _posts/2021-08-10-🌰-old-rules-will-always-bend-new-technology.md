@@ -12,5 +12,5 @@ It's not a bad thing that old regulations shape new technologies. There were ICO
 - **Source:**
 - **Inspired by:** [🗨️ the revolution will be capitalized]({% post_url 2021-06-20-🗨️-the-revolution-will-be-capitalized %})
 - **Related to:**
-	- [[❔ Does democracy allow for more experimentation]]
+	- [[❔ does democracy allow for more experimentation]]
 	- [🌰 the thing about China and BTC is-- does it matter]({% post_url 2021-07-01-🌰-the-thing-about-china-and-btc-is---does-it-matter %})

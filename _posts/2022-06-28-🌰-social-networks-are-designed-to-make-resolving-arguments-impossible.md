@@ -43,3 +43,4 @@ How would you approach it? What do you think is necessary to foster healthy disa
 	- [🗨️ How social networks can create civilized debate]({% post_url 2022-06-28-🗨️-how-social-networks-can-create-civilized-debate %})
 	- [[🌰 imagine a disagreement club]]
 	- [[🌰 academia relies so heavily on peer feedback for advancement that it punishes disagreement]]
+	- [Suspended Hell](www.nplusonemag.com/online-only/online-only/suspended-hell)
