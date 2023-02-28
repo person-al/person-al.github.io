@@ -1,0 +1,11 @@
+{%- if page.updates.size > 0 -%}
+  <div>
+    <hr/>
+    <h3>Updates</h3>
+    <ul>
+    {%- for update in page.updates -%}
+        <li><time class="dt-updated" datetime="{{ page.last_modified_at }}">{{ update.date | date: site.theme_config.date_format }}</time>: {{update.text}}</li>
+    {%- endfor -%}
+  </ul>
+</div>
+{%- endif -%}

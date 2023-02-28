@@ -2,10 +2,13 @@
 category: "\U0001F330"
 date: 2023-02-28
 layout: post
-tags: null
 title: "\U0001F330 loot boxes, casinos, and work chat"
+updates:
+- date: 2023-02-28
+  text: trying to fix poetry formatting
 ---
 
+```
 Pull the lever.
 Is it a new weapon? A new shirt? Experience points?
 Buy another one.
@@ -17,6 +20,7 @@ Pay again.
 Pull the lever.
 Is it justified procrastination? Is it important? Are you important?
 Refresh.
+```
 
 **Info**:
 - **Related to:**

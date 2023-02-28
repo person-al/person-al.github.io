@@ -11,6 +11,9 @@ redirect_from:
 - "/\U0001F330/2021/06/19/human-beings-need-to-feel-understood.html"
 status: published
 tags: psychology, social media
+updates:
+- date: 2022-07-29
+  text: Added Dale Carnegie bit
 ---
 
 The way [William Davies and Charles Taylor](https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media) talk about the human need to feel recognized...I think they mean humans need to feel understood by others.
@@ -34,8 +37,6 @@ That feels like recognition, understanding, and caring to me.
 
 **Inspired by:** [The Politics of Recognition in the Age of Social Media](https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media)
 - my notes on the full essay was: "This article was extremely dense and worth reading again maybe." I had difficulty fully understanding it and getting through it. Would definitely appreciate alternate takes if I missed something.
-**Updates:**
-- 2022-07-29: Added Dale Carnegie bit
 
 **Related to:**
 - [🗨️ WFH leads to unpaid overtime]({% post_url 2021-06-23-🗨️-wfh-leads-to-unpaid-overtime %})
