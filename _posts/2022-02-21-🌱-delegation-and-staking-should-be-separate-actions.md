@@ -2,6 +2,8 @@
 category: "\U0001F331"
 date: 2022-02-21
 layout: post
+redirect_from:
+- "/\U0001F330/2022/02/21/delegation-and-staking-should-be-separate-actions.html"
 tags: null
 title: "\U0001F331 delegation and staking should be separate actions"
 ---

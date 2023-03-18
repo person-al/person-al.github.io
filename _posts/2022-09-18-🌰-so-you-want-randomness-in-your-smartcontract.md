@@ -1,6 +1,7 @@
 ---
 category: "\U0001F330"
 date: 2022-09-18
+last_modified_at: 2023-03-18
 layout: post
 tags:
 - solidity
@@ -8,9 +9,22 @@ tags:
 - devlog
 - Pathfinder
 title: "\U0001F330 so you want randomness in your smartcontract"
+updates:
+- date: 2023-03-18
+  text: Add disclaimer that I missed some stuff
 ---
 
 **Assumed Audience:** basic understanding of programming, likely designing your own project, likely already have questions on how to "randomize" smart contract output.
+
+**Update:** <mark>OOF did I miss a few important options here!</mark> I'm working on improvements. In the meantime, here are some resources:
+- https://our.status.im/two-point-oh-randomness/
+- https://mvpworkshop.co/blog/ethereum-merge-everything-you-need-to-know/#DIFFICULTY_opcode_is_now_PREVRANDAO
+- https://blockdoc.substack.com/p/randao-under-the-hood
+- https://twitter.com/hasufl/status/1571864292571357184?t=G5nbgyG9tD9feohb9SMDrA&s=19
+
+Continue to read the rest of this post! Use it to sharpen your thinking: do you know better ways to randomize? Reach out with your ideas!
+
+<hr/>
 
 While working on [🛠️ Pathfinder]({% post_url 2022-06-03-🛠️-pathfinder %}), I hit the following conundrum:
 > I want each line of the poem to be a surprise until it's revealed, but I also want 100% of my logic to remain on-chain.

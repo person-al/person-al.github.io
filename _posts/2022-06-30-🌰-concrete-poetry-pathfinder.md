@@ -60,12 +60,10 @@ This artwork allows you start with a random poem of my choosing, but change any 
     </div>
     <br />
     <div style="margin-left: 370px;"><input class="inline-inputs" type="text" id="8-1" value="She hoped" /><span style="width: 50px; display: inline-block;"></span> <input class="inline-inputs" type="text" id="8-2" value="She knew" /></div>
-
     <br />
     <div style="margin-left: 500px;"><input class="inline-inputs" type="text" id="9-1" value="she was enough." /></div>
     </div>
     <br />
-
     <input class="inline-inputs" type="checkbox" id="wrap" /> Allow wrapping
     <input class="inline-inputs" type="submit" value="Generate" />
 </form>

@@ -15,7 +15,7 @@ Because part of their goal is to analyze, estimate, and publicize YouTube's defa
 
 > The recommendations are stored in Zero-Knowledge database, which means that every recommendation record is signed with a unique cryptographic token, generated with your private key. Because only you have this private key, only you can claim these records, aggregate them, or delete them. No one else can relink your contributions together. Not even us, or any hypothetical attacker who would breach into the database. [Learn more](https://youchoose.ai/data-donation).
 
-This is the user model we need to see going forward. While in this case blockchain isn't involved, crypto wallets by definition private key storage systems. This allows any project, blockchain or otherwise, to utilize a user's existing crypto wallet to anonymously sign data like this.
+This is the user model we need to see going forward. While in this case blockchain isn't involved, crypto wallets are by definition private key storage systems. This allows any project, blockchain or otherwise, to utilize a user's existing crypto wallet to anonymously sign data like this.
 
 ## Mobility Open Blockchain Initiative (MOBI)
 According to [Cointelegraph](https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot), "the Mobility Open Blockchain Initiative (MOBI) is a nonprofit alliance of public and private organizations working to make transportation more efficient, affordable, greener, safer and less congested using blockchain, IoT, AI and other related technologies." One of their projects is to make payments more seamless while driving. As they describe it:

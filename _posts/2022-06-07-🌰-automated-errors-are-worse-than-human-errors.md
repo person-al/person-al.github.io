@@ -30,6 +30,4 @@ We need failure modes that allow humans to override automated decisions easily. 
 	- [🗨️ automated hiring software is mistakenly rejecting millions of viable job candidates]({% post_url 2022-06-07-🗨️-automated-hiring-software-is-mistakenly-rejecting-millions-of-viable-job-candidates %})
 - **Related to:**
 	- ["At one point I noted that we're just cogs being run by the computer bosses, software that ate our world, and they are making mistakes, and humans still have to do what they say. I think this is why everyone wants change."](http://scripting.com/2022/02/08/150327.html?title=appleUpsWeather)
-
-> Such a system would make many existing gatekeepers — such as record labels and film distributors — redundant. But it will also give rise to new gatekeepers. And, if it works as designed, it will make it harder for anyone — including artists — to breach their contracts.
-> [[Crypto Quentin and Non-Fungible Taylor]]
+	- "Such a system would make many existing gatekeepers — such as record labels and film distributors — redundant. But it will also give rise to new gatekeepers. And, if it works as designed, it will make it harder for anyone — including artists — to breach their contracts." - [source](https://www.drorpoleg.com/non-fungible-taylor/)

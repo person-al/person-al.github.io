@@ -1,21 +1,25 @@
 ---
 category: ❔
 date: 2022-07-28
+last_modified_at: 2023-03-18
 layout: post
 redirect_from:
 - /❔/2022/07/28/will-google-s-downfall-be-its-self-reliance.html
-tags: null
 title: ❔ will Google's self-importance be its downfall?
+updates:
+- date: 2023-03-18
+  text: Mentioned Google's new discussions feature in an update after the conclusion.
+    Added additional section to collect relevant quotes from around the web.
 ---
 
 In my recent explorations of the IndieWeb, I came across a search engine called [BlogSurf](https://blogsurf.io/about). Independent search engines are everywhere, from [Marginalia](https://search.marginalia.nu/) to the 28-year-old [WebCrawler](https://www.webcrawler.com/), each with their own algorithms. BlogSurf uses an algorithm called [MarketRank](https://dkb.io/post/market-rank), which they describe as follows:
 
 > PageRank [[6](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)] was built on the analogy of the research paper. A research paper with more citations is probably better.
-> 
+>  
 > MarketRank is built on the analogy of the market. An object with a higher market value is probably better.
-> 
+>  
 > In our case, the markets we refer to are online communities such as Reddit, Hacker News, and Twitter. Each of these communities has an upvote mechanism, which can be interpreted as an indication that the user believes the website is undervalued. They are willing to bid up the price by spending their upvote on it.
-> 
+>  
 > And so, the oversimplified description of MarketRank is “just add up all the upvotes”. We have some more work to do to make the values accurate, but this is the general idea.
 
 MarketRank's approach hits on the trust issue many of us have with Google these days. As Tracy Durnell [puts it](https://tracydurnell.com/2022/07/20/trusted-information-sources/):
@@ -29,6 +33,8 @@ But it's still notable that there _is_ competition for Google. And that competit
 
 **What innovations does web search need?** Let me know what you think.
 
+(Update: In Sept 2022, Google _did_ admit that sometimes Reddit knows best with a new discussions module that prompted headlines like "[Google will help you find better results without tagging ‘Reddit’ onto every search](https://www.theverge.com/2022/9/28/23377358/google-search-reddit-discussions-forums-results)")
+
 [^1]: Thanks to Tracy Durnell for surfacing this story in [Trusted Information Sources](https://tracydurnell.com/2022/07/20/trusted-information-sources/)
 
 **Info**:
@@ -39,3 +45,32 @@ But it's still notable that there _is_ competition for Google. And that competit
 	- [🌳 how I publish my Zettelkasten]({% post_url 2022-05-08-🌳-how-i-publish-my-zettelkasten %})
 	- [🌰 social networks are designed to make resolving arguments impossible]({% post_url 2022-06-28-🌰-social-networks-are-designed-to-make-resolving-arguments-impossible %})
 - <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
+
+## commonplace book
+A place to collect relevant smatterings from around the web:
+
+### how too many results can be a bad thing
+From [Mastodon](https://mastodon.social/@WAHa_06x36/108749699838234522):
+> I feel that the measure of how useful a search engine is whether giving it more information gives you fewer or more results.
+>  
+> Generally, you want fewer results the more information you give it, as you are narrowing your search by giving more information.
+>  
+> But a bad search engine will just try to find things that matches SOME of the information you give, and will thus return MORE results the more information you give it. 
+> 
+> And this causes an incredibly frustrating situation where you have to try and game the search engine by figuring out what the smallest set of information you can give it is that is still likely to return you what you want.
+>  
+> The original Google won over all the existing search engines at the time it was introduced because it stuck VERY strongly to the principle of giving you less results as you give it more input.
+>  
+> But these days, it very much feels like Google has completely given up on this principle, and will just try to drown you in results that vaguely match some of your input query, maybe, if you squint your eyes and tilt your head.
+>  
+> It's really getting to the point where it is nearly unusable for locating very specific information. I feel like information I used to be able to rely on being able to find with Google is now lost forever, as it is no longer locatable in the sea of noise Google returns.
+
+### on how TikTok is used for search
+From a [Trapital podcast episode](https://trapital.co/2022/09/09/tiktok-wants-to-takeover-will-it-succeed/):
+> [00:15:43] **Dan Runcie:** Yeah. The next one is TikTok Search. A lot of us had seen the viral tweet that someone had. I don’t Google I TikTok. And a lot of that spoke to how a lot of folks in Gen Z are looking for information and I get it, I’ve even done it myself, my wife and I were recently searching to buy a new mattress. And you know what? I didn’t want to go through a Google Search and just read some sponsored content about a mattress. I wanted to see a video of someone unboxing this thing to see what it looks like. 
+>  
+> [00:16:10] **Denisha Kuhlor:** Exactly. 
+>  
+> [00:16:10] **Dan Runcie:** And TikTok was the quickest place to do that, even quicker than YouTube. YouTube’s going to show me a mix of explainer videos and then also concept from the company. I just wanted to see some random person be like, oh, hey, here’s what I think about this bed. And here’s what I think about that bed. It was quick, it was easy. So I do think that that works, but I think there’s a few caution flags with it. A, I still think that even though TikTok was able to offer that, there’s still deeper search functionality that went into how Google got to be as good as it is, even going back thinking about 20 years ago about like why Google succeeded where Lycos and AltaVista and all those other go.com, .com era search engines didn’t work. So I don’t know if TikTok has all of that baked in to really go beyond just, you know, people like me looking for random purchases that they want to look through here or there or just want to look up a certain topic. And I also think the other bigger, more important pieces, the misinformation, and just being able to correct for that because that’s already been an issue on TikTok. And I think that could potentially continue if there isn’t some way to relegate what’s happening in search. So, high likelihood success, but still some trepidation.
+
+(Related: a [twitter thread showing how tiktok is used for search](https://twitter.com/AdriSheares/status/1557885461154111490))

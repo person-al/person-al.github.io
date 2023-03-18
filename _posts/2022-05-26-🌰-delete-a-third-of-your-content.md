@@ -2,8 +2,10 @@
 category: "\U0001F330"
 date: 2022-05-26
 layout: post
-tags: null
 title: "\U0001F330 delete a third of your content"
+updates:
+- date: 2023-03-18
+  text: Added blogchain idea to 'Related to' list at the bottom.
 ---
 
 I came across an odd idea from the [Smart Passive Income Podcast](https://www.smartpassiveincome.com/podcasts/how-to-do-a-content-audit-with-todd-tresidder/) by way of [Tiago Forte](https://fortelabs.co/blog/podcast-time-travel/): delete a third of your content.
@@ -44,4 +46,5 @@ For myself, this blog is a [[🌰 Zettelkasten]]. It's designed to constantly ch
 **Info**:
 - **Source:**  [Smart Passive Income Podcast](https://www.smartpassiveincome.com/podcasts/how-to-do-a-content-audit-with-todd-tresidder/) , [Podcast Time Travel](https://fortelabs.co/blog/podcast-time-travel/)
 - **Related to:**
+	- Ribbonfarm does blogchains ([example](https://www.ribbonfarm.com/series/domestic-cozy/)) which might be a good option for others to follow.
 	- [[🌰 the key to good writing is feedback and rejection]]
