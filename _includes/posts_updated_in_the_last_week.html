@@ -1,20 +1,39 @@
 {% assign timeframe = 604800 %}
+{% assign num_updated_posts = 0 %}
+{%-assign limit_exceeded = false-%}
 
-{%  if site.posts.size > 0%}
-  <ul>
-  </ul>
 
+{%  if site.posts.size > 0 %}
   {% for post in site.posts %}
+    <!--determine if post was modified recently-->
     {% assign post_in_seconds = post.last_modified_at | date: "%s" | plus: 0 %}
     {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
     {% if post_in_seconds > recent_posts %}
+      <!-- if we'll have at least one post in this list and we haven't done so already, open the list element-->
+      {% if num_updated_posts == 0 %}
+          <ul>
+      {% endif %}
+      <!-- if we've hit our limit -->
+      {% if include.limit and num_updated_posts >= include.limit %}     
+        <!-- track that there are more to show -->
+        {%-assign limit_exceeded = true-%}
+        <!-- but break before we show any more -->
+        {% break %}
+      {% endif %}
       <li>
           <span>{{- post.last_modified_at | date: site.theme_config.home_date_format -}}</span>
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
       </li>
+      <!-- count how many posts we have -->
+      {% assign num_updated_posts = num_updated_posts | plus: 1 %}
     {% endif %}
-        
-{%- endfor -%}
+  {%- endfor -%}
+  {%- if include.show_more and limit_exceeded -%}
+    <li><a href="{{ include.show_more_url }}">{{ include.show_more_text | default: "Show more..." }}</a></li>
+  {%- endif -%}
+  <!-- if we opened the list element, close it -->
+  {% if num_updated_posts > 0 %}
+    </ul>
+  {% endif %}
 
-  
 {% endif %}

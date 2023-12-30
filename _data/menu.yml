@@ -16,7 +16,7 @@ entries:
       url: https://mastodon.social/web/@person72443
     - title: twitter
       url: https://twitter.com/person72443
-  - title: project pages
+  - title: projects
     post_list:
       category: 🛠️
       limit: 5
@@ -24,7 +24,11 @@ entries:
       show_more_text: See more...
       show_more_url: project_archive.html
   - title: posts updated this week
-    url: this-week.html
+    recent_updates:
+      limit: 3
+      show_more: true
+      show_more_text: See more...
+      show_more_url: this-week.html
   - title: all posts
     post_list:
       limit: 15

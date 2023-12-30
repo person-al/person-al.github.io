@@ -18,6 +18,15 @@
           show_more_url=item.post_list.show_more_url
      -%}
     {%-endif-%}
+    {%-if item.recent_updates-%}
+      {%
+        include posts_updated_in_the_last_week.html
+          limit=item.recent_updates.limit
+          show_more=item.recent_updates.show_more
+          show_more_text=item.recent_updates.show_more_text
+          show_more_url=item.recent_updates.show_more_url
+     -%}
+    {%-endif-%}
 
     {%-if item.entries-%}
       {%-include menu_item.html collection=item.entries-%}
