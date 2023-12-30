@@ -14,14 +14,16 @@
           <ul>
       {% endif %}
       <!-- if we've hit our limit -->
-      {% if include.limit and num_updated_posts >= include.limit %}     
+      {% if include.limit and num_updated_posts >= include.limit %}
         <!-- track that there are more to show -->
         {%-assign limit_exceeded = true-%}
         <!-- but break before we show any more -->
         {% break %}
       {% endif %}
       <li>
-          <span>{{- post.last_modified_at | date: site.theme_config.home_date_format -}}</span>
+          {% if include.show_date %}
+            <span>{{- post.last_modified_at | date: site.theme_config.home_date_format -}}</span>
+          {% endif %}
           <a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a>
       </li>
       <!-- count how many posts we have -->

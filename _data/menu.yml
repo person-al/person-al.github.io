@@ -29,6 +29,7 @@ entries:
       show_more: true
       show_more_text: See more...
       show_more_url: this-week.html
+      show_date: false
   - title: all posts
     post_list:
       limit: 15
