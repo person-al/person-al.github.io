@@ -1,9 +1,13 @@
 ---
 category: "\U0001F330"
 date: 2021-12-28
+last_modified_at: 2023-12-29
 layout: post
 tags: null
 title: "\U0001F330 a collection of journaling methods"
+updates:
+- date: 2023-12-29
+  text: Added commonplace book
 ---
 
 Everyone talks about how beneficial journaling is, but few talk about _how_ they journal. This is understandable, journaling is a deeply personal activity, but it has long led me to wonder how others journal. This is a space for me to collect approaches and ideas from others. I'll cover three individuals who have journalled for many years and their approach, with a couple extra resources listed for fun. Hopefully this will allow me (and you) to experiment with these approaches.
@@ -85,3 +89,10 @@ More thoughts to come. For now, I just wanted to collect some potential methodol
 	- [[🗨️ Penn Jillette's approach to journaling]]
 - **Updates:**
 	- 2022-07-29: Added Chad Kohalyk's detailed blog post to "Other Methods".
+
+## commonplace book
+A place to collect relevant quotes and ideas:
+- [Gratitude journaling "done right"](https://open.substack.com/pub/businessjournaling/p/gratitude-journaling-done-right? )
+- [ana@tacobelllabs.net](https://tacobelllabs.net/@ana/111074814877342447): Recently I’ve been using persuasive essay topics as journal prompts. They’re meant for high schoolers, but it’s kind of fun to get down my thoughts about “controversial” or hot topics*. Sometimes I get really into it and start citing sources for my claims as well. Would recommend if you’re in the mood to write but don’t have a topic in mind.
+	- Note that I mean topics like “should public schools have to wear uniforms” and not, like, “should abortion be legal”. Keep it lighthearted.
+- [how to look back at old entries](https://mastodon.social/@ASegar/111087708017559720 )

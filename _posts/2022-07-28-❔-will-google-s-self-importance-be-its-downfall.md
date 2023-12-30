@@ -1,7 +1,7 @@
 ---
 category: ❔
 date: 2022-07-28
-last_modified_at: 2023-03-18
+last_modified_at: 2023-12-29
 layout: post
 redirect_from:
 - /❔/2022/07/28/will-google-s-downfall-be-its-self-reliance.html
@@ -10,6 +10,8 @@ updates:
 - date: 2023-03-18
   text: Mentioned Google's new discussions feature in an update after the conclusion.
     Added additional section to collect relevant quotes from around the web.
+- date: 2023-12-29
+  text: Added LLM and Potential Updates sections to commonplace book
 ---
 
 In my recent explorations of the IndieWeb, I came across a search engine called [BlogSurf](https://blogsurf.io/about). Independent search engines are everywhere, from [Marginalia](https://search.marginalia.nu/) to the 28-year-old [WebCrawler](https://www.webcrawler.com/), each with their own algorithms. BlogSurf uses an algorithm called [MarketRank](https://dkb.io/post/market-rank), which they describe as follows:
@@ -74,3 +76,14 @@ From a [Trapital podcast episode](https://trapital.co/2022/09/09/tiktok-wants-to
 > [00:16:10] **Dan Runcie:** And TikTok was the quickest place to do that, even quicker than YouTube. YouTube’s going to show me a mix of explainer videos and then also concept from the company. I just wanted to see some random person be like, oh, hey, here’s what I think about this bed. And here’s what I think about that bed. It was quick, it was easy. So I do think that that works, but I think there’s a few caution flags with it. A, I still think that even though TikTok was able to offer that, there’s still deeper search functionality that went into how Google got to be as good as it is, even going back thinking about 20 years ago about like why Google succeeded where Lycos and AltaVista and all those other go.com, .com era search engines didn’t work. So I don’t know if TikTok has all of that baked in to really go beyond just, you know, people like me looking for random purchases that they want to look through here or there or just want to look up a certain topic. And I also think the other bigger, more important pieces, the misinformation, and just being able to correct for that because that’s already been an issue on TikTok. And I think that could potentially continue if there isn’t some way to relegate what’s happening in search. So, high likelihood success, but still some trepidation.
 
 (Related: a [twitter thread showing how tiktok is used for search](https://twitter.com/AdriSheares/status/1557885461154111490))
+
+## in passing, in a piece about LLMs
+> This prediction ability seems like a simple party trick but it's what makes models so good at answering our random questions in the way Google used to be.
+- [Squish Meets Structure: Designing with Language Models](https://maggieappleton.com/squish-structure )
+
+## Potential Updates
+- 2023: Do LLMs change anything about this?
+    - It's interesting to consider the idea that whoever can sift through the noise best is the winner. Do LLMs give Google an advantage or disadvantage in that?
+    - The idea of what you're selling being information vs a good/service. If you're selling a good or service, it's good for your ideas to get rolled into an LLM: in order to be useful, Google must link the user back to you. If you're selling information, Google doesn't need to link back to you to be useful.
+    - The idea that LLMs will settle with publishers and pay to train their models on publisher paywalled data. All of a sudden, it's a private web. The only way to access the NYT, WSJ _and_ FT is by paying \$\$$/month (subscribe to each) or subscribe to 1 LLM trained on them all. You can't fact-check anything the LLM tells you.
+- [on Google getting worse](https://www.tumblr.com/shadykit/737969942786392064 )

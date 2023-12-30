@@ -1,7 +1,7 @@
 ---
 category: "\U0001F330"
 date: 2021-06-19
-last_modified_at: 2021-12-05
+last_modified_at: 2023-12-29
 layout: post
 modified:
 - 2021-07-08
@@ -12,8 +12,12 @@ redirect_from:
 status: published
 tags: psychology, social media
 updates:
+- date: 2021-12-29
+  text: Renamed
 - date: 2022-07-29
   text: Added Dale Carnegie bit
+- date: 2023-12-29
+  text: Added commonplace book
 ---
 
 The way [William Davies and Charles Taylor](https://newleftreview.org/issues/ii128/articles/william-davies-the-politics-of-recognition-in-the-age-of-social-media) talk about the human need to feel recognized...I think they mean humans need to feel understood by others.
@@ -44,3 +48,21 @@ That feels like recognition, understanding, and caring to me.
 - [🗨️ decentralization gets eroded by stealth]({% post_url 2021-07-07-🗨️-decentralization-gets-eroded-by-stealth %})
 - [[🌰 work took place of religion in people's lives, what next]]
 - On status seeking: [[🌰 people seek status and the most efficient way to gain status]]
+
+## commonplace book
+A place to collect relevant quotes and ideas:
+
+> Perhaps one did not want to be loved so much as to be understood. - [George Orwell, 1984](https://www.tumblr.com/macrolit/721071061059387393/perhaps-one-did-not-want-to-be-loved-so-much-as-to? )
+
+### From [a Tumblr post](https://www.tumblr.com/zukothelasthonorbender/727230425436717056/consider-teenagers-arent-apathetic-about? ):
+> consider: teenagers aren’t apathetic about everything they’re just used to you shitting all over whatever they show excitement about
+
+> My manager had commented on how hard these kids work and I said, “they’re starved for positive feedback. They go to school all day then come to work all evening and no one appreciates it because it’s expected of them, but they’re still kids. They need positive feedback from adults in their lives.”
+
+> I used to have a coworker who only spoke Burmese.
+> ...
+> So this one day I realized we had all kinds of “hey, great job!” cards on our little recognition board thing for almost the whole crew, but none for Susu, because “she won’t understand anyway.” So I \[used a translation app to make one for her in Burmese. She was over the moon.]
+> ... 
+> Everything changed after that. She started using her limited English more, picking up new words here and there ... enthusiastically participating in things.
+> ...
+> People just want to be known. Sometimes that’s all it takes.
