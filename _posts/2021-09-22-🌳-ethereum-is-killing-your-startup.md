@@ -4,6 +4,9 @@ date: 2021-09-22
 layout: post
 tags: blockchain,ethereum,staking
 title: "\U0001F333 Ethereum is Killing Your Startup"
+updates:
+- date: '2024-01-01'
+  text: Added link to Flow post
 ---
 
 <style>
@@ -24,7 +27,7 @@ Some startups are solving the first issue by moving off Ethereum, but the impact
 Let's start at the top:
 
 ## How Ethereum costs you in staking rewards
-Most projects use staking to secure their systems, with rewards ranging from 3% to about 30%. Ethereum forces you to offer higher rewards to stay competitive with non-Ethereum projects in the one to three year time frame. Let's compare two projects as an example: Audius and Flow.
+Most projects use staking to secure their systems, with rewards ranging from 3% to about 30%. Ethereum forces you to offer higher rewards to stay competitive with non-Ethereum projects in the one to three year time frame. Let's compare two projects as an example: Audius and [🌳 Flow]({% post_url 2021-03-21-🌳-flow %}).
 
 **Audius** is a music streaming service that runs on the Ethereum blockchain with an ERC20 token called AUDIO. While the token's inflation rate is 7% a year, the lack of staking participants results in 24% a year in rewards. As more people stake, that 24% will slowly trend down to 7%.
 
