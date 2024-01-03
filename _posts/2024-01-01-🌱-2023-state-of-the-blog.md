@@ -6,7 +6,7 @@ tags: null
 title: "\U0001F331 2023 State of the Blog"
 ---
 
-**Assumed Audience:** Folks interested in the details of having an extremely small blog. How it feels, what traffic looks like, and the early process of finding an audience.
+**[Assumed Audience]({% post_url 2024-01-02-🌰-list-your-assumed-audience-at-the-beginning-of-blog-posts %}):** Folks interested in the details of having an extremely small blog. How it feels, what traffic looks like, and the early process of finding an audience.
 
 I started this blog on June 21st 2021, with the first post hitting your screens on the 23rd. Thanks to [Goatcounter](https://www.goatcounter.com), a slightly more privacy-aware analytics system, I have some numbers I can use to reflect on the last year and a half.
 
