@@ -6,9 +6,9 @@ tags: null
 title: "\U0001F331 2023 State of the Blog"
 ---
 
-**[Assumed Audience]({% post_url 2024-01-02-🌱-assumed-audiences-make-you-a-better-writer %}):** Folks interested in the details of having an extremely small blog. How it feels, what traffic looks like, and the early process of finding an audience.
+> **[Assumed Audience]({% post_url 2024-01-02-🌱-assumed-audiences-make-you-a-better-writer %}):** Folks interested in the details of having an extremely small blog. How it feels, what traffic looks like, and the early process of finding an audience.
 
-I started this blog on June 21st 2021, with the first post hitting your screens on the 23rd. Thanks to [Goatcounter](https://www.goatcounter.com), a slightly more privacy-aware analytics system, I have some numbers I can use to reflect on the last year and a half.
+I started this blog on June 21st 2021, with the first post hitting your screens on the 23rd. Thanks to [Goatcounter](https://www.goatcounter.com), a slightly more privacy-aware analytics system, I have some numbers I can use to reflect on the last two and a half years.
 
 For starters, here's what Goatcounter can tell me:
 - How many views each page got each day
@@ -150,3 +150,10 @@ Here's what I'd like to see from myself in 2024:
 	- I also may choose to stop sharing altogether, just to focus on the intrinsic value of blogging 🤔.
 
 Digging into and documenting my numbers like this is fun. It gives me the opportunity to look back on what resonated with folks, think critically about where people like me spend time on the internet, and re-assess how *I* spend *my* time. If there are other angles you'd like to hear a tiny blogger reflect on, let me know!
+
+**Info**:
+- **Related to:**
+	- [🌳 how I publish my Zettelkasten]({% post_url 2022-05-08-🌳-how-i-publish-my-zettelkasten %})
+	- [🌰 delete a third of your content]({% post_url 2022-05-26-🌰-delete-a-third-of-your-content %})
+	- [🌱 how to comment]({% post_url 2022-05-19-🌱-how-to-comment %})
+- <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
