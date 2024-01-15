@@ -31,3 +31,22 @@ We need failure modes that allow humans to override automated decisions easily. 
 - **Related to:**
 	- ["At one point I noted that we're just cogs being run by the computer bosses, software that ate our world, and they are making mistakes, and humans still have to do what they say. I think this is why everyone wants change."](http://scripting.com/2022/02/08/150327.html?title=appleUpsWeather)
 	- "Such a system would make many existing gatekeepers — such as record labels and film distributors — redundant. But it will also give rise to new gatekeepers. And, if it works as designed, it will make it harder for anyone — including artists — to breach their contracts." - [source](https://www.drorpoleg.com/non-fungible-taylor/)
+
+
+## commonplace booklet
+From [John Naughton](https://johnnaughton.substack.com/p/monday-8-january-2024):
+> **Between the Algorithm and a Hard Place: The Worker’s Dilemma**
+>
+> Really thoughtful piece by Diana Enríquez on the problems you encounter when your ‘manager’ is an algorithm rather than a human.
+>
+> "Today you’re supposed to drop off a package in a location outside the route provided by the AmazonFlex app’s map. The passenger needs to go somewhere and the app wants you to drive on a street that you know has very hazardous road conditions. You also know that the app is always tracking your location and how closely you stick to the “optimized route.” You’ve heard from other drivers that you might get a warning and a strike against you if you go too far off route. Too many strikes means you’ll lose your flexible job, and the supplemental income that is helping you pay your bills.
+>
+> "You have two options:
+>
+> "**Break the rules but complete the goal** – you decide to leave the route and reach your destination, though it is outside the tracked route. Or, you avoid the hazardous road because you are responsible for maintaining your car and you get to the end destination without any damage. You wait a few days to see what happens… and you get an automated email warning you that your driver score was marked down by your passenger for taking a “longer route” or a warning saying they needed to check whether or not you delivered the final package because they saw you left the optimized route.
+>
+> "**Follow the rules but at a heavy cost** – you’ve heard too many stories about people being deactivated for not obeying the app’s guidance, so you stick to the route and try to figure out how to reach your final goal anyway. You take the short route but damage your car."
+>
+> And there’s no human to whom you can explain your decision.
+>
+> More and more workers face this kind of problem every day. Whenever I see an Amazon driver in our locality I give him a friendly wave. He probably thinks I’m potty. But what I’m really thinking is how glad I am not to have work like he does.

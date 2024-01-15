@@ -24,3 +24,17 @@ There's also an element of "[[🌰 the future is rented]]" to this. You're payin
 
 - **Related to:**
 	- [[🌰 the future is rented]]
+
+## commonplace booklet
+
+From [BNPL is Good; I will die on this hill - by Simon Taylor](https://sytaylor.substack.com/p/bnpl-is-good-i-will-die-on-this-hill? ):
+
+> The fact that people who use BNPL also experience financial stress is a correlation, not causation.
+
+> Is BNPL better or worse than credit cards? It's better for low-income or consumers without credit scores han a high APR credit card. It's not as flexible; it can't be used everywhere, but it's also not nearly as confusing or easy to get into trouble with.
+
+> BNPL has item-level data for everything customers buy.
+>
+> It's ad tech meets Fintech.
+
+An unrelated from reading the article: if the product doesn't last and it took you months to pay it off...I wonder if this incentivizes better-quality products. Because I _will_ complain to friends if your fancy sweater pills sooner than I've paid it off.
