@@ -80,6 +80,7 @@ Once you've made a few posts, you'll probably need one or more of the following 
 - [templates](#templates-are-your-friend)
 - [hiding parts of notes](#hiding-parts-of-notes)
 - [joining the IndieWeb](#joining-the-indieweb)
+- [add a comments section]({% post_url 2024-01-14-🌱-adding-a-comments-section-to-a-static-site %})
 
 ### templates are your friend
 While the date is the only required field in your post's frontmatter, you likely have others that matter to you. The layout, the category, tags, etc. From that perspective, templates are your friend. Whether it's Obsidian's built-in template tool or the Templater plugin or your own third-party template system, I recommend setting up a template so consistent blog post formatting is only a hot-key away. My template looks something like this:
@@ -130,5 +131,13 @@ By posting a blog, you're already part of [IndieWeb](https://indieweb.org/)! Ind
 
 Corporate silos like Facebook and Twitter benefit from their proprietary formatting and following systems. Facebook knows exactly how to notify you when someone likes a post you follow, etc. With the independent web, there are some standards folks use to bring some of those benefits to a decentralized publishing ecosystem. That's where the [IndieWeb](https://indieweb.org/) shines. I recommend going through the [list of tools](https://indiewebify.me/) to see which make sense for you. I've made it through Level 2, which means I finished getting webmention reception support working!  I don't yet display webmentions on the site, but perhaps that's something I can work on soon.
 
+### add a comments section
+
+For this, I recommend my post [🌱 adding a comments section to a static site]({% post_url 2024-01-14-🌱-adding-a-comments-section-to-a-static-site %}).
+
 **Info:**
+- **Related to:**
+	- [🌱 adding a comments section to a static site]({% post_url 2024-01-14-🌱-adding-a-comments-section-to-a-static-site %})
+	- [🌱 how to comment]({% post_url 2022-05-19-🌱-how-to-comment %})
+	- [[🌰 it's not about writing, it's about thinking]]
 - <a href="https://news.indieweb.org/en" class="u-syndication">Also posted on IndieNews</a>
