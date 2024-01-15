@@ -1,7 +1,7 @@
 ---
 category: "\U0001F333"
 date: 2022-05-08
-last_modified_at: 2022-05-19
+last_modified_at: 2024-01-15
 layout: post
 tags:
 - githubpages
@@ -9,6 +9,9 @@ tags:
 - obsidianmd
 - fediverse
 - indieweb
+updates:
+- date: 2024-01-15
+  text: add comments section
 ---
 
 > **[Assumed Audience](https://maggieappleton.com/assumed-audience):** In writing this piece, I assume you have enough interest in publishing your own notes online that you're looking for a detailed step-by-step of how I do things. I also assume that your interest is primarily on the "how" and less on the "why".
