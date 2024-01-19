@@ -3,7 +3,7 @@ category: "\U0001F331"
 date: 2024-01-14
 layout: post
 tags: null
-title: "\U0001F331 adding a decentralized comments section"
+title: "\U0001F331 adding a comments section to a static site"
 ---
 
 > **Assumed Audience:** You have a blog, most likely a static site hosted on Github Pages or another static site hosting system. You want to enable a comments section, or at least a way for readers to contact you, but you don't know how.
