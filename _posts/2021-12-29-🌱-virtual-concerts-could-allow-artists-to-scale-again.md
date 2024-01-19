@@ -1,9 +1,17 @@
 ---
-category: ❔
+category: "\U0001F331"
 date: 2021-12-29
+last_modified_at: 2024-01-18
 layout: post
+redirect_from:
+- /❔/2021/12/29/could-virtual-concerts-allow-artists-to-scale-again.html
 tags: metaverse, music, hypotheses
-title: ❔ could virtual concerts allow artists to scale again?
+title: "\U0001F331 virtual concerts could allow artists to scale again"
+updates:
+- date: 2024-01-18
+  text: 'Updated category and title to better reflect the style of the piece. This
+    piece proposes an answer the question, it doesn''t just pose it. Previous title:
+    ❔ could virtual concerts allow artists to scale again'
 ---
 
 Of the following three options, how do you engage with music most frequently?
