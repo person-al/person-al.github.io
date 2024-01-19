@@ -11,7 +11,8 @@ tags:
 - indieweb
 updates:
 - date: 2024-01-15
-  text: add comments section
+  text: add comments section, update obyde links-- it seems the developer changed
+    their GitHub username
 ---
 
 > **[Assumed Audience](https://maggieappleton.com/assumed-audience):** In writing this piece, I assume you have enough interest in publishing your own notes online that you're looking for a detailed step-by-step of how I do things. I also assume that your interest is primarily on the "how" and less on the "why".
@@ -48,7 +49,7 @@ I won't go into details on how I set up my Github Page, the most up-to-date inst
 Unless you want 100% of your vault published at all times, you'll want to set up a specific folder in your vault that contains blog posts. Name the folder however you'd like and I recommend adding two subfolders: one for drafts and one for assets. This is optional, but I've found it useful to have everything meant for publishing in one place.
 
 ### 3. set up obyde
-[Obyde](https://github.com/khalednassar/obyde) is the secret sauce holding my blog together and I highly recommend it if you're using markdown and jekyll/hugo. [khalednassar](https://github.com/khalednassar), the developer, responds quickly and amenably to questions, pull requests, and bug reports. They deserve major kudos for this tool.
+[Obyde](https://github.com/notkmhn/obyde) is the secret sauce holding my blog together and I highly recommend it if you're using markdown and jekyll/hugo. [notkmhn](https://github.com/notkmhn) the developer, responds quickly and amenably to questions, pull requests, and bug reports. They deserve major kudos for this tool.
 
 Obyde takes a markdown file with frontmatter in one folder and converts it to a jekyll blog post file in another folder. The instructions for setup are [here](https://github.com/khalednassar/obyde#obyde). Note that under the [usage](https://github.com/khalednassar/obyde#usage) section where it describes the config file, you'll want to list the assets sub-folder in your vault and list your drafts folder under `excluded_subdirectories`.
 
