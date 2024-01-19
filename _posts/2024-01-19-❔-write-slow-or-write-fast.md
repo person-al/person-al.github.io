@@ -15,3 +15,4 @@ Let me know what you think.
 	- [🗨️ there are two kinds of writers]({% post_url 2022-02-20-🗨️-there-are-two-kinds-of-writers %})
 	- [[🌰 build a little each day]]
 	- [[🌰 I am not 'too late.' I simply must keep building]]
+	- [[🌰 it's not about writing, it's about thinking]]
