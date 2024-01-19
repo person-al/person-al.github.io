@@ -27,4 +27,4 @@ Industries will always move to what makes them more money. This results in many 
 	- [Tim Ferriss's excellent interview with Tony Fadell](https://tim.blog/2022/04/29/tony-fadell-build-transcript/)
 	- [🌰 big businesses need to compete to survive, small companies hit profitability sooner and easier]({% post_url 2021-06-14-🌰-big-businesses-need-to-compete-to-survive--small-companies-hit-profitability-sooner-and-easier %})
 	- [[🌰 authenticity in business is a trap]]
-	- [🗨️ As trickle-down economics lost its credibility, a new prop was needed to sustain the neoliberal regime politically. It came in the form of neofascism.]({% post_url 2024-02-05-🗨️-as-trickle-down-economics-lost-its-credibility--a-new-prop-was-needed-to-sustain-the-neoliberal-regime-politically--it-came-in-the-form-of-neofascism- %})
+	- [🗨️ As trickle-down economics lost its credibility, a new prop was needed to sustain the neoliberal regime politically. It came in the form of neofascism.]({% post_url 2024-01-19-🗨️-as-trickle-down-economics-lost-its-credibility--a-new-prop-was-needed-to-sustain-the-neoliberal-regime-politically--it-came-in-the-form-of-neofascism- %})

@@ -1,6 +1,6 @@
 ---
 category: "\U0001F5E8️"
-date: 2024-02-05
+date: 2024-01-19
 layout: post
 tags: null
 title: "\U0001F5E8️ As trickle-down economics lost its credibility, a new prop was
@@ -16,6 +16,7 @@ and
 
 **Article Thesis:** Neoliberalism has failed the people. In response, corporations have partnered when neo fascists in attempt to use neofacism to retain the status quo. The problem is that neofacism cannot solve inequality, making it unpopular very quickly. This can be its downfall if we work hard to fight neofacism.
 
+**Info:**
 - **Source:** [Why Neoliberalism Needs Neofascists](http://bostonreview.net/class-inequality-politics/prabhat-patnaik-why-neoliberalism-needs-neofascists)
 - **Related to:**
 	-  [[🌰 neofascism is a supportive reaction to neoliberal capitalism]]
