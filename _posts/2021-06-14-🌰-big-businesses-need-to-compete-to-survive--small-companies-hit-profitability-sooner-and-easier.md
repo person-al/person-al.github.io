@@ -1,11 +1,12 @@
 ---
 category: "\U0001F330"
 date: 2021-06-14 sooner and easier\\n"
+last_modified_at: 2024-01-19
 layout: post
 status: published
 tags: business, economics
 updates:
-- date: 2024-01-20
+- date: 2024-01-19
   text: Added commonplace book with Gabrielle de la Puente quote about the challenges
     of running a one-person business.
 ---
