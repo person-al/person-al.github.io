@@ -3,6 +3,7 @@ category: "\U0001F331"
 date: 2021-06-09
 last_modified_at: 2021-06-22
 layout: post
+published: 2021-06-23
 status: published
 tags: nft
 ---

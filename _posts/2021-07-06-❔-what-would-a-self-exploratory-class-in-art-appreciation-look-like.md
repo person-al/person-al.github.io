@@ -20,8 +20,8 @@ The goal would be to help you discover what _you_ appreciate about art. Not teac
 	- Think over your own explanations on what you like: what patterns, if any, jump out at you?
 	- How do you feel about the art others bring in? Which do you appreciate?
 - Other questions to consider
-	- What are things you _appreciate_ but do not _like_? (I'm reminded of [🗨️ It's beautiful but I don't like it]({% post_url 2016-08-27-🗨️-it-s-beautiful-but-i-don-t-like-it %}))
+	- What are things you _appreciate_ but do not _like_? (I'm reminded of [🗨️ it's beautiful but I don't like it]({% post_url 2016-08-27-🗨️-it-s-beautiful-but-i-don-t-like-it %}))
 
 **Inspired by:** _[On Taste](https://claremontreviewofbooks.com/on-taste/)_
 
-**Related to:** [🗨️ It's beautiful but I don't like it]({% post_url 2016-08-27-🗨️-it-s-beautiful-but-i-don-t-like-it %})
+**Related to:** [🗨️ it's beautiful but I don't like it]({% post_url 2016-08-27-🗨️-it-s-beautiful-but-i-don-t-like-it %})

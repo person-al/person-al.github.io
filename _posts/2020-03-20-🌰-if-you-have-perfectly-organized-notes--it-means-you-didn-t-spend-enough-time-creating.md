@@ -2,7 +2,7 @@
 category: "\U0001F330"
 date: 2020-03-20
 layout: post
-status: published
+published: 2021-07-04
 tags: note-taking
 title: "\U0001F330 if you have perfectly organized notes, it means you didn't spend
   enough time creating"
