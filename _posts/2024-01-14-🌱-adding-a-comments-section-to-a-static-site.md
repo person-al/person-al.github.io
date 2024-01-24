@@ -24,14 +24,19 @@ The [Webmention site](https://indieweb.org/Webmention-developer#Protocol_Summary
 
 [^1]: Webmentions allow you to do everything from comment to like to bookmark, and more! We'll talk strictly about commenting for now, but if you replace the word "comment" with "like" in this section, it's all still true.
 
-1. Let's say Alice uses her phone to comment on Janet's tweet. Alice's phone talks to Twitter's computers and says "Hey! I'm Alice, here's my comment on post 3526."
+[![Diagram of the above](https://mermaid.ink/img/pako:eNp1kTFPw0AMhf-K64WBlAEEww1FlRhgyEQXpCzWxSWn5s7hzkcVVf3vXAgUEKon68l-n_x8QCsto8HEb5mD5QdHr5F8E6DUuneWLxIMnQRerlaXm71T5VikxPGdYzLwyHEa8SNY8Z6DggQYJCnc3F7fLWajf3vFbPnH3cCmo7BLXwu1oxP3LHiswFKAp6LxD_L-HHJi_vI18JKHBdS0Y0g5MqgA9UkgdbIH7Vw6XbSN4ucwrrBCz9GTa0tohwnVoHbsuUFT2pa3lHttsAnHMkpZ5XkMFo3GzBXmoSX9zhjNtvCKyq1TifX8iM9_HD8AmXeIiw?type=png)](https://mermaid.live/edit#pako:eNp1kTFPw0AMhf-K64WBlAEEww1FlRhgyEQXpCzWxSWn5s7hzkcVVf3vXAgUEKon68l-n_x8QCsto8HEb5mD5QdHr5F8E6DUuneWLxIMnQRerlaXm71T5VikxPGdYzLwyHEa8SNY8Z6DggQYJCnc3F7fLWajf3vFbPnH3cCmo7BLXwu1oxP3LHiswFKAp6LxD_L-HHJi_vI18JKHBdS0Y0g5MqgA9UkgdbIH7Vw6XbSN4ucwrrBCz9GTa0tohwnVoHbsuUFT2pa3lHttsAnHMkpZ5XkMFo3GzBXmoSX9zhjNtvCKyq1TifX8iM9_HD8AmXeIiw)
+
+Let's say Alice uses her phone to comment on Janet's tweet.
+1. Alice's phone talks to Twitter's computers and says "Hey! I'm Alice, here's my comment on post 3526."
 2. Twitter's computers say "Got it, thanks!"
 3. Later, when Mia's phone goes to look at her tweet, it asks Twitter's computers "Hey, I'd like to look at post 3526."
 4. Twitter's computers say "Okay! Here's the text and here are all the comments, including this one from Alice!"
 
-[![Diagram of the above](https://mermaid.ink/img/pako:eNp1kTFPw0AMhf-K64WBlAEEww1FlRhgyEQXpCzWxSWn5s7hzkcVVf3vXAgUEKon68l-n_x8QCsto8HEb5mD5QdHr5F8E6DUuneWLxIMnQRerlaXm71T5VikxPGdYzLwyHEa8SNY8Z6DggQYJCnc3F7fLWajf3vFbPnH3cCmo7BLXwu1oxP3LHiswFKAp6LxD_L-HHJi_vI18JKHBdS0Y0g5MqgA9UkgdbIH7Vw6XbSN4ucwrrBCz9GTa0tohwnVoHbsuUFT2pa3lHttsAnHMkpZ5XkMFo3GzBXmoSX9zhjNtvCKyq1TifX8iM9_HD8AmXeIiw?type=png)](https://mermaid.live/edit#pako:eNp1kTFPw0AMhf-K64WBlAEEww1FlRhgyEQXpCzWxSWn5s7hzkcVVf3vXAgUEKon68l-n_x8QCsto8HEb5mD5QdHr5F8E6DUuneWLxIMnQRerlaXm71T5VikxPGdYzLwyHEa8SNY8Z6DggQYJCnc3F7fLWajf3vFbPnH3cCmo7BLXwu1oxP3LHiswFKAp6LxD_L-HHJi_vI18JKHBdS0Y0g5MqgA9UkgdbIH7Vw6XbSN4ucwrrBCz9GTa0tohwnVoHbsuUFT2pa3lHttsAnHMkpZ5XkMFo3GzBXmoSX9zhjNtvCKyq1TifX8iM9_HD8AmXeIiw)
-
 [Webmentions](https://indieweb.org/Webmention-developer#Protocol_Summary) works the same way, except its across _all_ websites, not just Twitter's. So it needs to take one additional step. Let's assume again that Alice is using her phone to send a webmention:
+
+
+[![Diagram of what's shown above](https://mermaid.ink/img/pako:eNp1kkFvwjAMhf-Km8sOA3bvgWnSDtskTuywSb2ExKVhTdwl7lCF-O9z6YqAQU-R7b73_Mk7ZciiylXC7xaDwWen11H7IoB8T7UzeJegqSjgdD6_f9MBWQpbXCXHmMMLdhOwBB21oI3Bhvuex8COQnocZC7-EqHpmXIOn5gyWGKw4BiY5Bl_MMLHjRhj-8-_wti3fQeGfO8NJcWja0OJQUuu7Xa26WszmXroZhX7etAf5a4Ee690-ErZMLdw-pjiNg2jA7xCQoTB4yaEyzXWJDlDdwrwsMiZzGlW-BdAOB5xSEooI_kBX3Y9RS9zstY50ME4Ewg4kk2gI_Y0WWorYiYvymqiPEavnZVL2vVOhZIBj4XK5Wmx1G3NhSrCXkZ1y7TsglE5xxYnqm2s5vHwVF7qOkkVrWOKi-E6D0e6_wUnmuPs?type=png)](https://mermaid.live/edit#pako:eNp1kkFvwjAMhf-Km8sOA3bvgWnSDtskTuywSb2ExKVhTdwl7lCF-O9z6YqAQU-R7b73_Mk7ZciiylXC7xaDwWen11H7IoB8T7UzeJegqSjgdD6_f9MBWQpbXCXHmMMLdhOwBB21oI3Bhvuex8COQnocZC7-EqHpmXIOn5gyWGKw4BiY5Bl_MMLHjRhj-8-_wti3fQeGfO8NJcWja0OJQUuu7Xa26WszmXroZhX7etAf5a4Ee690-ErZMLdw-pjiNg2jA7xCQoTB4yaEyzXWJDlDdwrwsMiZzGlW-BdAOB5xSEooI_kBX3Y9RS9zstY50ME4Ewg4kk2gI_Y0WWorYiYvymqiPEavnZVL2vVOhZIBj4XK5Wmx1G3NhSrCXkZ1y7TsglE5xxYnqm2s5vHwVF7qOkkVrWOKi-E6D0e6_wUnmuPs)
+
 1. Alice's phone goes to Janet's website and says "We have a comment! Does your site support webmentions?"
 2. Janet's website replies "Yes! Send them to computer X"
 3. Alice's phone then goes to Computer X and says "Here is my comment for Janet's post at url `www.janet.com/y.html`".
@@ -40,8 +45,6 @@ The [Webmention site](https://indieweb.org/Webmention-developer#Protocol_Summary
 6. Janet's website quickly goes to Computer X: "Hey, got any webmentions for me?"
 7. Computer X: "Yup! Alice wrote this."
 8. Janet's website then responds to Mia's phone: "Yup! Here's `www.janet.com/y.html`! I've rendered the comments at the bottom."
-
-[![Diagram of what's shown above](https://mermaid.ink/img/pako:eNp1kkFvwjAMhf-Km8sOA3bvgWnSDtskTuywSb2ExKVhTdwl7lCF-O9z6YqAQU-R7b73_Mk7ZciiylXC7xaDwWen11H7IoB8T7UzeJegqSjgdD6_f9MBWQpbXCXHmMMLdhOwBB21oI3Bhvuex8COQnocZC7-EqHpmXIOn5gyWGKw4BiY5Bl_MMLHjRhj-8-_wti3fQeGfO8NJcWja0OJQUuu7Xa26WszmXroZhX7etAf5a4Ee690-ErZMLdw-pjiNg2jA7xCQoTB4yaEyzXWJDlDdwrwsMiZzGlW-BdAOB5xSEooI_kBX3Y9RS9zstY50ME4Ewg4kk2gI_Y0WWorYiYvymqiPEavnZVL2vVOhZIBj4XK5Wmx1G3NhSrCXkZ1y7TsglE5xxYnqm2s5vHwVF7qOkkVrWOKi-E6D0e6_wUnmuPs?type=png)](https://mermaid.live/edit#pako:eNp1kkFvwjAMhf-Km8sOA3bvgWnSDtskTuywSb2ExKVhTdwl7lCF-O9z6YqAQU-R7b73_Mk7ZciiylXC7xaDwWen11H7IoB8T7UzeJegqSjgdD6_f9MBWQpbXCXHmMMLdhOwBB21oI3Bhvuex8COQnocZC7-EqHpmXIOn5gyWGKw4BiY5Bl_MMLHjRhj-8-_wti3fQeGfO8NJcWja0OJQUuu7Xa26WszmXroZhX7etAf5a4Ee690-ErZMLdw-pjiNg2jA7xCQoTB4yaEyzXWJDlDdwrwsMiZzGlW-BdAOB5xSEooI_kBX3Y9RS9zstY50ME4Ewg4kk2gI_Y0WWorYiYvymqiPEavnZVL2vVOhZIBj4XK5Wmx1G3NhSrCXkZ1y7TsglE5xxYnqm2s5vHwVF7qOkkVrWOKi-E6D0e6_wUnmuPs)
 
 If you have a static site, you probably _don't_ have a computer X that's always available to store messages from random people. This site currently runs on Github Pages which just serves files, it doesn't accept new messages. So if you're running a static site like I am, you need a slightly different approach.
 
