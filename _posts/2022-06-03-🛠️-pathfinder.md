@@ -1,7 +1,7 @@
 ---
 category: "\U0001F6E0️"
 date: 2022-06-03
-last_modified_at: 2022-08-30
+last_modified_at: 2025-02-23
 layout: post
 redirect_from:
 - "/\U0001F6E0️/2022/06/03/port-of-detection.html"
