@@ -56,16 +56,18 @@ Note that just because I'm not prioritizing something doesn't mean it's banned. 
 - [x] publish project announcement
 - 🏃‍♀ iterate on idea (see [🛠️ poetry generator]({% post_url 2022-06-15-🛠️-poetry-generator %}))
 - [ ] publish proposed NFT architecture, get feedback
-- [ ] publish proposed website design, get feedback
-- [ ] develop rough draft of smart contract
-- [ ] develop rough draft of website
+- [x] publish proposed website design, get feedback
+- [x] develop rough draft of smart contract
+- [x] develop rough draft of website
+- [x] finalize the story chapters
 - [ ] find Solidity experts willing to give feedback on the contract rough draft, iterate based on feedback
-- [ ] finalize the story chapters
-- [ ] test finalized contract on testnet
-- [ ] deploy website with connection to testnet contract - confirm it can read from the contract as expected
+- [x] deploy website with connection to testnet contract - confirm it can read from the contract as expected
 - [ ] recruit volunteers and run a full ecosystem test on the testnet - publish results
 - [ ] deploy contract to mainnet and deploy website with connection to mainnet
+	- deployed to mainnet: 0x31AEad502A16D491d55e6C2dB2DA245D45A71897
+- [ ] message folks via Twitter DMs (WINTER, Anderson, TRACTO, Data, TheNerdAssassin)
 - [ ] let the fun begin!
+- [ ] https://obront.substack.com/p/hands-on-ethereum-day
 
 ## Follow along
 There's a lot more to come: details on features and architecture, tutorials on smart contract deployment, and calls for volunteers to help break everything. If you'd like to follow along, you can subscribe to [the blog's RSS feed](/feed.xml) or [this project-specific feed](/feed/by_tag/PortOfDetection.xml).[^1] Or, if RSS isn't your thing, I am [on twitter](https://twitter.com/person72443) and [mastodon](https://mastodon.social/web/@person72443).

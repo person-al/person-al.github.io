@@ -1,13 +1,17 @@
 ---
 category: "\U0001F330"
 date: 2021-12-28
-last_modified_at: 2023-12-29
+last_modified_at: 2025-10-05
 layout: post
 tags: null
 title: "\U0001F330 a collection of journaling methods"
 updates:
+- date: 2022-07-29
+  text: Added Chad Kohalyk's detailed blog post to 'Other Methods'.
 - date: 2023-12-29
   text: Added commonplace book
+- date: 2025-10-05
+  text: Added some index-card based approaches
 ---
 
 Everyone talks about how beneficial journaling is, but few talk about _how_ they journal. This is understandable, journaling is a deeply personal activity, but it has long led me to wonder how others journal. This is a space for me to collect approaches and ideas from others. I'll cover three individuals who have journalled for many years and their approach, with a couple extra resources listed for fun. Hopefully this will allow me (and you) to experiment with these approaches.
@@ -68,11 +72,20 @@ However, my struggles with bullet journaling were three-fold:
 - I'd forget to do the monthly assessment and migration
 - the calendar drawing can feel repetitive and bare-bones compared to my smartphone's calendar system
 - it's easy to get sucked into the aesthetic world of habit trackers, weekly spreads, and midliners. It's easy to forget that there's a reason strict, pre-printed planners don't work well for you, and that's the same reason making a "books I've read this year" spread will fail.
+## Commonplace Book
+A place to collect relevant quotes and ideas:
+- [Gratitude journaling "done right"](https://open.substack.com/pub/businessjournaling/p/gratitude-journaling-done-right? )
+- [ana@tacobelllabs.net](https://tacobelllabs.net/@ana/111074814877342447): Recently I’ve been using persuasive essay topics as journal prompts. They’re meant for high schoolers, but it’s kind of fun to get down my thoughts about “controversial” or hot topics*. Sometimes I get really into it and start citing sources for my claims as well. Would recommend if you’re in the mood to write but don’t have a topic in mind.
+	- Note that I mean topics like “should public schools have to wear uniforms” and not, like, “should abortion be legal”. Keep it lighthearted.
+- [how to look back at old entries](https://mastodon.social/@ASegar/111087708017559720 )
 
 ## Other assorted approaches:
 - struthless on Youtube outlines 9 guided journaling exercises to cover situations like managing anxieties, doing a lifestyle audit, or gaining clarity in "[Journaling Techniques that Changed My Life](https://www.youtube.com/watch?v=dArgOrm98Bk)"
 - Chad Kohaylk gets granular on how he implements Morning Pages and a daily note into his everyday life [here](https://chadkohalyk.com/2021/02/12/journaling-part-2-the-daily-note-and-morning-pages/)
 - Rachel from The Sorry Girls outlines a potential half-guided half-freestyle approach in "[preparing for a new year (feat. a home makeover)](https://www.youtube.com/watch?v=zn_wdnFNOHU&t=235)"
+- Good ol' fashion index cards & binder clips:
+	- [The Suite Revival: Perpetual DIY micro-journal.](http://suiterevival.blogspot.com/2012/01/perpetual-diy-micro-journal.html?m=1 )
+	- [Introducing the Hipster PDA / 43 Folders](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda )
 
 ## My Approach
 As I noted, I've been bullet journaling for a while. But somewhere in the process (and mostly due to covid), I fell off the bandwagon and haven't found my way back to regularity. One of the open questions I have right now is whether I should lean into digital journaling a la Penn Jilette or continue using notebooks as I have in the past. Thanks to the [[🧪 Obsidian Experiment]], more of my notes are digital. And using digital calendars works far better for me than the bullet journal calendars. That said, physical journaling is undeniably therapeutic.
@@ -87,12 +100,3 @@ More thoughts to come. For now, I just wanted to collect some potential methodol
 	- [The Artist's Way](https://www.theartistswaybook.com/)
 	- [[🌰 it's not about writing, it's about thinking]]
 	- [[🗨️ Penn Jillette's approach to journaling]]
-- **Updates:**
-	- 2022-07-29: Added Chad Kohalyk's detailed blog post to "Other Methods".
-
-## commonplace book
-A place to collect relevant quotes and ideas:
-- [Gratitude journaling "done right"](https://open.substack.com/pub/businessjournaling/p/gratitude-journaling-done-right? )
-- [ana@tacobelllabs.net](https://tacobelllabs.net/@ana/111074814877342447): Recently I’ve been using persuasive essay topics as journal prompts. They’re meant for high schoolers, but it’s kind of fun to get down my thoughts about “controversial” or hot topics*. Sometimes I get really into it and start citing sources for my claims as well. Would recommend if you’re in the mood to write but don’t have a topic in mind.
-	- Note that I mean topics like “should public schools have to wear uniforms” and not, like, “should abortion be legal”. Keep it lighthearted.
-- [how to look back at old entries](https://mastodon.social/@ASegar/111087708017559720 )
