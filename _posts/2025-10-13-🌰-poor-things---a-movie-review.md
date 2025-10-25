@@ -2,7 +2,7 @@
 category: "\U0001F330"
 date: 2025-10-13
 layout: post
-tags: movie-review
+tags: review
 title: "\U0001F330 poor things - a movie review"
 ---
 
@@ -31,3 +31,14 @@ Note that the following review contains spoilers.
 - Lots of complex emotions. But on the whole: a skillfully put together movie that I appreciated.
 
 [^1]: [Movie script](https://deadline.com/wp-content/uploads/2024/01/Poor-Things-Read-The-Screenplay.pdf)
+
+{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'review'" %}
+{%if posts.length > 0 %}
+**Info**:
+<ul><li><b>Related to:</b>
+<ul>
+{% for post in posts limit:10 %}
+  <li><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></li>
+{% endfor %}
+</ul></li></ul>
+{%endif%}

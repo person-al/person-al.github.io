@@ -2,7 +2,7 @@
 category: "\U0001F330"
 date: 2025-10-05
 layout: post
-tags: book-review
+tags: review
 title: "\U0001F330 wedding people - a book review"
 ---
 
@@ -34,7 +34,7 @@ Other thoughts:
 		- I think I also just don't like watching a tragedy where I know the ending.
 	- But by the end, and as the book went on, it made sense that I needed that backstory and I appreciated it. The nuances of how bad of a time Phoebe was having I think were important to fleshing out both how she got here and the theme of keeping the peace.
 
-{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'book-review'" %}
+{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'review'" %}
 {%if posts.length > 0 %}
 <b>Info:</b>
 <ul><li><b>Related to:</b>
