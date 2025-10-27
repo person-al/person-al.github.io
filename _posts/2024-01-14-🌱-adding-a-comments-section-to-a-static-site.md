@@ -8,6 +8,8 @@ title: "\U0001F331 adding a comments section to a static site"
 updates:
 - date: 2024-01-23
   text: Significant improvements to 'how it works' section including diagrams.
+- date: 2025-10-27
+  text: Fixed broken link to webmention website.
 ---
 
 > **Assumed Audience:** You have a blog, most likely a static site hosted on Github Pages or another static site hosting system. You want to enable a comments section, or at least a way for readers to contact you, but you don't know how.
@@ -49,7 +51,7 @@ Let's say Alice uses her phone to comment on Janet's tweet.
 If you have a static site, you probably _don't_ have a computer X that's always available to store messages from random people. This site currently runs on Github Pages which just serves files, it doesn't accept new messages. So if you're running a static site like I am, you need a slightly different approach.
 
 ### 1. Pick a server
-If you have a server, go for it. But if you don't, you need to find a webmentions service you can use. [Webmentions.io](webmentions.io) is an open source, free option. You sign in with IndieAuth and it'll make an account for you. Easy peasy.
+If you have a server, go for it. But if you don't, you need to find a webmentions service you can use. [Webmention.io](https://webmention.io) is an open source, free option. You sign in with IndieAuth and it'll make an account for you. Easy peasy.
 
 ### 2. Follow setup instructions.
 You'll notice that in the Settings tab, webmentions.io gives you two link tags to put in your HTML header. (You can see that I put mine [here](https://github.com/person-al/person-al.github.io/blob/main/_includes/head.html#L18-L19) with the url stored in my [config file](https://github.com/person-al/person-al.github.io/blob/main/_config.yml#L31). I recommend that for the next step). This allows someone like me to come and ask "Hey, where's your computer X?" and quickly find the answer. You'll also notice that it gives you an RSS feed you can follow to track webmentions you receive. You can follow it in your RSS reader of choice, or even write some code to display the mentions on your site!
