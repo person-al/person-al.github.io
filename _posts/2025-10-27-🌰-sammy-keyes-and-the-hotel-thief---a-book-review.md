@@ -24,13 +24,16 @@ Sammy Keyes is a middle grade mystery series centering a young girl living illeg
 	- Marissa's relationship with her parents comes to mind as an example. There is some "show and then tell" used where I think in a book aimed older it may have just been "show" in the first book.
 
 
-{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'review'" %}
-{%if posts.length > 0 %}
+{% assign review_posts = site.posts | where_exp: "post", "post.tags contains 'review'" | where_exp: "post", "post.url != page.url" %}
+
+{% if review_posts.size > 0 %}
 **Info**:
 <ul><li><b>Related to:</b>
-<ul>
-{% for post in posts limit:10 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></li>
-{% endfor %}
-</ul></li></ul>
-{%endif%}
+  <ul>
+    {% for post in review_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul></li></ul>
+{% endif %}
