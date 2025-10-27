@@ -2,6 +2,7 @@
 category: "\U0001F331"
 date: 2024-01-22
 layout: post
+tags: review
 title: "\U0001F331 minari - movie thoughts"
 updates:
   date: 2024-01-24
@@ -19,3 +20,17 @@ The music was wonderful, though it sometimes hinted at a level of upcoming drama
 Is there anything I'd want to take away for my story-telling? I think this kind of flatness can only happen well in film. Though _Catcher in the Rye_ is an example in literature. And maybe _Mrs. Dalloway_, though I don't remember much of the book. Film has the extra benefit (at least in a movie theater-like setting) if truly dissociating you from your surrounding. Unlike a book, which only has your eyes and your brain. A movie theater becomes like a sensory deprivation tank, helping you focus on a film. I don't think Minari is a movie you can watch at home with the lights on. It needs a full, lights-out experience. I remember about a third of the way into the film thinking "Oh man, is it 2 more hours of this?". And it was, but I didn't quite mind.
 
 It was life-like. That's what life is like. Ups and downs, but nothing feels particularly dramatic in the way it does in a movie.
+
+{% assign review_posts = site.posts | where_exp: "post", "post.tags contains 'review'" | where_exp: "post", "post.url != page.url" %}
+
+{% if review_posts.size > 0 %}
+**Info**:
+<ul><li><b>Related to:</b>
+  <ul>
+    {% for post in review_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul></li></ul>
+{% endif %}

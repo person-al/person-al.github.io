@@ -34,13 +34,16 @@ Other thoughts:
 		- I think I also just don't like watching a tragedy where I know the ending.
 	- But by the end, and as the book went on, it made sense that I needed that backstory and I appreciated it. The nuances of how bad of a time Phoebe was having I think were important to fleshing out both how she got here and the theme of keeping the peace.
 
-{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'review'" %}
-{%if posts.length > 0 %}
-<b>Info:</b>
+{% assign review_posts = site.posts | where_exp: "post", "post.tags contains 'review'" | where_exp: "post", "post.url != page.url" %}
+
+{% if review_posts.size > 0 %}
+**Info**:
 <ul><li><b>Related to:</b>
-<ul>
-{% for post in posts limit:10 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></li>
-{% endfor %}
-</ul></li></ul>
-{%endif%}
+  <ul>
+    {% for post in review_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul></li></ul>
+{% endif %}

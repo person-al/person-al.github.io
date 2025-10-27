@@ -32,13 +32,16 @@ Note that the following review contains spoilers.
 
 [^1]: [Movie script](https://deadline.com/wp-content/uploads/2024/01/Poor-Things-Read-The-Screenplay.pdf)
 
-{% assign posts = site.posts | where_exp: "item", "item.url != page.url"|where_exp:"item","item.tags contains 'review'" %}
-{%if posts.length > 0 %}
+{% assign review_posts = site.posts | where_exp: "post", "post.tags contains 'review'" | where_exp: "post", "post.url != page.url" %}
+
+{% if review_posts.size > 0 %}
 **Info**:
 <ul><li><b>Related to:</b>
-<ul>
-{% for post in posts limit:10 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title | downcase }}</a></li>
-{% endfor %}
-</ul></li></ul>
-{%endif%}
+  <ul>
+    {% for post in review_posts %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul></li></ul>
+{% endif %}
