@@ -27,6 +27,7 @@ Other thoughts:
 	- In most stories, the character forgives their ex before the reader does. I still find myself wanting to see the ex apologize with more groveling than the character seems to.
 	- But with this, I felt on the same page as Phoebe by the end. Not only does Matt apologize, but the dramatic improvement in Phoebe's mental health by the end of the book... it's not something that seems possible pre-affair.
 - There is something so significant about Pauline's complete indifference to Phoebe at the end. But I can't quite to grasp what it is.
+
 # What Didn't
 - The scene with Lila's mother in the beginning felt a little too monologue-y. Monologuing is Lila's thing and it felt a little boring to have other characters monologue.
 - When I started the Phoebe flashback scene, it felt a little long.
