@@ -8,13 +8,19 @@ readtime: 3 hours 40 minutes
 status: read
 tags: review
 title: "\U0001F330 excavations - a book review"
+updates:
+- date: 2026-03-09
+  text: Added summary blurb at the top to make it more clear that I highly recommend
+    this book.
 ---
 
 Note: this review contains spoilers
+
+I loved this book. It's one of the books I still think about months later. It's a story about a former journalist looking for her missing husband. But it's more than that. It's complicated nature of motherhood, the trauma created by your parents, political activism, corruption, the brutality of greed...
 # What I Loved
-- Skillfully crafted three-dimensional characters which enables the book to be about more than the plot.
-	- complicated nature of motherhood, the trauma created by your parents, political activism, corruption, the brutality of greed
-- a grittiness that feels like the real world
+- Skillfully crafted three-dimensional characters which enables the book to be about more than just the plot.
+	- complicated nature of motherhood, the trauma created by your parents, political activism, corruption, the brutality of greed...love love love.
+- It has a grittiness that feels like the real world
 	- how the powerful have no mercy, how you can try and not succeed, how you can't have it all, how hard it is to be a mother, Jae's death, her mother's death, how they lose before they win, how her children still suffer the trauma cycle and she knows she's let them down in some way
 - Her choice to try and break the trauma cycle, even if it was too late to mitigate damage was just...I loved it. I found it so moving.
 
