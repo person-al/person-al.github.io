@@ -1,6 +1,6 @@
 ---
 category: "\U0001F330"
-date: 2026-04-20
+date: 2026-03-24
 layout: post
 title: "\U0001F330 a self-driving waymo future"
 ---
