@@ -2,7 +2,7 @@
 category: "\U0001F330"
 date: 2025-10-25
 format: ebook
-last_modified_at: 2026-03-09
+last_modified_at: 2026-03-24
 layout: post
 pagelength: 302
 readtime: 3 hours 40 minutes
@@ -13,11 +13,13 @@ updates:
 - date: 2026-03-09
   text: Added summary blurb at the top to make it more clear that I highly recommend
     this book.
+- date: 2026-03-24
+  text: Small readability and grammar improvements
 ---
 
 Note: this review contains spoilers
 
-I loved this book. It's one of the books I still think about months later. It's a story about a former journalist looking for her missing husband. But it's more than that. It's complicated nature of motherhood, the trauma created by your parents, political activism, corruption, the brutality of greed...
+I loved this book-- I still think about months later. It's a story about a former journalist looking for her missing husband. But it's more than that. It's the complicated nature of motherhood, the trauma created by your parents, political activism, corruption, and the brutality of greed.
 # What I Loved
 - Skillfully crafted three-dimensional characters which enables the book to be about more than just the plot.
 	- complicated nature of motherhood, the trauma created by your parents, political activism, corruption, the brutality of greed...love love love.
@@ -30,7 +32,7 @@ I loved this book. It's one of the books I still think about months later. It's 
 - other people have talked about the pace, idk. The ending did fly by way faster than the rest of the book. But I didn't mind much?
 
 # Other thoughts
-- I think I see why Jae had to die: for the poetic ending of a father's greed killing his own son. Though I wish the Chairman to experience that pain more visibly on the page. Or maybe the point was that he didn't care? I think I need to reread that part.
+- I think I see why Jae had to die: for the poetic ending of a father's greed killing his own son. Though I wish the Chairman had experienced that pain more visibly on the page. Or maybe the point was that he didn't care? I think I need to reread that part.
 - The rest of the story was realistic enough that I honestly didn't see the twist coming. I considered it, in fantasy or sci-fi or a different genre of fiction I think I would have clocked it right away. But in this world, everything seemed grittier and realer. And they said he was dead, not missing. And there was the missing daughter. So it didn't really occur to me until it was revealed that Gaeyun was still alive. No wonder he was a stay at home dad, too, he can't have any papers to reveal his identity.
 - I wonder why they didn't kill her and/or the boys sooner.
 

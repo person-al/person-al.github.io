@@ -23,7 +23,7 @@ title: "\U0001F330 what is your unicorn hair"
 
 This scene stuck with me as a child: how could Ella's mom not eat the hair? She knew it was critical to her health. How could she be okay dying?
 
-As an adult...it feels more like an apt metaphor for adult decision-making. Vaping, exercise, eating vegetables, vitamin D supplements for infants. What is your unicorn hair? The thing you know is healthy and necessary, but is inconvenient enough that you're convinced it doesn't matter _that_ much. Not in _your_ case.
+As an adult...it feels more like an apt metaphor for human decision-making. No matter how old we get, it's incredibly hard for us to connect short-term inconvenience to long-term exponential impact. Vaping, exercise, eating vegetables, vitamin D supplements for infants. What is your unicorn hair? The thing you know is healthy and necessary, but is inconvenient enough that you're convinced it doesn't matter _that_ much. Not in _your_ case.
 
 **Info**:
 - **Source/Inspiration:** _Ella Enchanted_ - **Related to:**
