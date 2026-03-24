@@ -23,7 +23,7 @@ I read once that the real killing at estate sales and antique/vintage stores is 
 **Info**:
 - **Source/Inspiration:** https://mastodon.social/@person72443/111792934351265640
 - **Related to:**
-	- [🌰 it's not that machines can do everything-- it's that we left behind anything they can't do]({% post_url 2026-03-09-🌰-it-s-not-that-machines-can-do-everything---it-s-that-we-left-behind-anything-they-can-t-do %})
+	- [🌰 a self-driving waymo future]({% post_url 2026-04-20-🌰-a-self-driving-waymo-future %})
 	- [[🌰 automated delivery can impact fridge sizes]]
 	- [🌰 automated errors are worse than human errors]({% post_url 2022-06-07-🌰-automated-errors-are-worse-than-human-errors %})
 	- [🗨️ automated hiring software is mistakenly rejecting millions of viable job candidates]({% post_url 2022-06-07-🗨️-automated-hiring-software-is-mistakenly-rejecting-millions-of-viable-job-candidates %})

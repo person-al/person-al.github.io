@@ -1,6 +1,6 @@
 ---
 category: "\U0001F330"
-date: 2026-03-16
+date: 2026-03-24
 layout: post
 tags: review
 title: "\U0001F330 three holidays and a wedding - a book review"

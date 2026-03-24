@@ -1,6 +1,6 @@
 ---
 category: "\U0001F330"
-date: 2026-03-23
+date: 2026-03-24
 layout: post
 tags: review
 title: "\U0001F330 I'm glad my mom died - a book review"
