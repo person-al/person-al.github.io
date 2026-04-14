@@ -12,6 +12,6 @@ title: "\U0001F5E8️ there are two kinds of writers"
 - **Source:** [[Naughton, John]]. "Monday 22 November, 2021." _[[Memex 1.1]]_, 22 Nov 2021, https://johnnaughton.substack.com/p/monday-22-november-2021.
 - **Related to:**
 	- [Why You Should Write - David Perell](https://perell.com/essay/why-you-should-write)
-	- [[✍️ writing resources]]
+	- [[✍🏾writing resources]]
 	- [[🌰 it's not about writing, it's about thinking]]
 	- [[👩🏾‍🌾 It's true, Zettlekesten allows you to think outloud by writing it down]]
