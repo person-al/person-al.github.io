@@ -15,6 +15,11 @@ Note: this review contains spoilers
 - Margaret's story was surprisingly compelling
 - I love a slow burn where I can understand why the characters love each other. This was mostly that. 
 - the TWISTS the REVEAL, I did NOT see that coming
+    - This is one of the few romances where "I must keep a secret from you and it is destroying our relationship" absolutely makes sense to me:
+        1. I completely believe as a reader that no, Alice can't be with Hayden while keeping his own past from him and
+        2. I believe as a reader _why_ she can't tell him.
+        3. she's not lying "for his own good" (or lying to herself about it being for his own good)
+        4. (less important, but I wonder if it helps that it's not a lie that carries us from the beginning)
 - Alice feels things very viscerally and deeply. On the one hand, appreciate the different perspective. On the other hand, sometimes I didn't always get it. But it wasn't a problem.
 
 # What Didn't
