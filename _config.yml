@@ -78,3 +78,4 @@ feed:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+timezone: America/Los_Angeles
