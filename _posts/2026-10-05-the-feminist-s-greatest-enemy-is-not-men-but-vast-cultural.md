@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🗨️ the feminist’s greatest enemy is not men, but vast cultural narratives about gender itself: stories about how things have always been, what men and women are naturally inclined to want, what our bodies and minds were built to do."
+title: "🗨️ the feminist’s greatest enemy is not men, but stories about how things have always been"
 date: 2026-10-05 05:17:54 +0100
 categories: ["🗨️"]
 ---
