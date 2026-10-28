@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Does LLM coding ability make open source more or less appealing?"
+title: "🌰 does LLM coding ability make open source more or less appealing?"
 date: 2026-10-25
 categories: ["🌰"]
+redirect_from: ["/🌰/2026/10/25/does-llm-coding-ability-make-open-source-more-or-less.html"]
 ---
 
 > Open source in its current form doesn’t make sense anymore. “Given enough eyeballs, all bugs are shallow” is still true but now we have artificial eyeballs. - [What I Believe About the Future of Software Development](https://thorstenball.com/blog/2026/09/19/what-i-believe-about-the-future-of-software-development/)
