@@ -2,6 +2,7 @@
 layout: post
 title: "🗨️ I want to be a critic"
 date: 2026-11-21
+categories: ["🗨️"]
 ---
 
 As a chronic people-pleaser, it's refreshing to hear a celebration of honest critique:
